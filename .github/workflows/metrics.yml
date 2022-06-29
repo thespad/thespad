@@ -21,8 +21,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
-          plugin_followup: yes
-          plugin_followup_sections: repositories
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
