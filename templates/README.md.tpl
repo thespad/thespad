@@ -26,7 +26,7 @@
 {{- end }}
 
 #### 📫 How to reach me
-- Fediverse: https://linuxserer.io/@spad
+- Fediverse: https://linuxserver.io/@spad
 - Blog: https://spad.uk
 ---
 <img src="https://raw.githubusercontent.com/thespad/thespad/main/github-metrics.svg">
