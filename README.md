@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static` (1 day ago)
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (3 days ago)
 - [animetosho/par2cmdline-turbo](https://github.com/animetosho/par2cmdline-turbo) - par2cmdline × ParPar: speed focused par2cmdline fork (1 week ago)
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What&#39;s up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available. (2 weeks ago)
-- [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers (4 weeks ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
