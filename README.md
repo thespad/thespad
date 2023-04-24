@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) (1 day ago)
-- [thespad/docker-dive](https://github.com/thespad/docker-dive) (1 day ago)
 - [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (1 day ago)
-- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) (1 day ago)
-- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (1 day ago)
+- [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin) (1 day ago)
+- [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) (2 days ago)
+- [thespad/docker-dive](https://github.com/thespad/docker-dive) (2 days ago)
+- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Deprecate](https://github.com/linuxserver/docker-tester/pull/7) on [linuxserver/docker-tester](https://github.com/linuxserver/docker-tester) (1 day ago)
-- [Bump actions to v7](https://github.com/thespad/docker-dive/pull/20) on [thespad/docker-dive](https://github.com/thespad/docker-dive) (1 day ago)
-- [Bump actions to v7](https://github.com/thespad/docker-arr-in-one/pull/10) on [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) (1 day ago)
-- [Bump actions to v7](https://github.com/thespad/docker-twitfix/pull/11) on [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) (1 day ago)
-- [Bump actions to v7](https://github.com/thespad/docker-py-kms/pull/27) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (1 day ago)
+- [Fix version check to use correct repo, update dockerfiles](https://github.com/linuxserver/docker-jellyfin/pull/200) on [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin) (1 day ago)
+- [Fix version check to use correct repo, update dockerfiles](https://github.com/linuxserver/docker-jellyfin/pull/199) on [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin) (1 day ago)
+- [Deprecate](https://github.com/linuxserver/docker-tester/pull/7) on [linuxserver/docker-tester](https://github.com/linuxserver/docker-tester) (2 days ago)
+- [Bump actions to v7](https://github.com/thespad/docker-dive/pull/20) on [thespad/docker-dive](https://github.com/thespad/docker-dive) (2 days ago)
+- [Bump actions to v7](https://github.com/thespad/docker-arr-in-one/pull/10) on [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent stars
 
-- [Razviar/marvelsnaptracker](https://github.com/Razviar/marvelsnaptracker) - Marvel Snap Tracker repo (1 week ago)
-- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (3 weeks ago)
+- [Razviar/marvelsnaptracker](https://github.com/Razviar/marvelsnaptracker) - Marvel Snap Tracker repo (2 weeks ago)
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (4 weeks ago)
 - [cisagov/untitledgoosetool](https://github.com/cisagov/untitledgoosetool) - Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments. (1 month ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static` (1 month ago)
