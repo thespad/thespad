@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-raneto](https://github.com/linuxserver/docker-raneto) (2 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (2 days ago)
-- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (3 days ago)
-- [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin) (3 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [linuxserver/docker-raneto](https://github.com/linuxserver/docker-raneto) (3 days ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (3 days ago)
+- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Deprecate (bionic)](https://github.com/linuxserver/docker-baseimage-ubuntu/pull/138) on [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (1 day ago)
-- [Deprecate (34)](https://github.com/linuxserver/docker-baseimage-fedora/pull/22) on [linuxserver/docker-baseimage-fedora](https://github.com/linuxserver/docker-baseimage-fedora) (1 day ago)
-- [Deprecate (35)](https://github.com/linuxserver/docker-baseimage-fedora/pull/21) on [linuxserver/docker-baseimage-fedora](https://github.com/linuxserver/docker-baseimage-fedora) (1 day ago)
-- [Deprecate (36) ](https://github.com/linuxserver/docker-baseimage-fedora/pull/20) on [linuxserver/docker-baseimage-fedora](https://github.com/linuxserver/docker-baseimage-fedora) (1 day ago)
-- [Deprecate (xenial)](https://github.com/linuxserver/docker-baseimage-ubuntu/pull/137) on [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (1 day ago)
+- [Handle CF forwarded IPs inc. IPv6](https://github.com/thespad/traefik-crowdsec-bouncer/pull/2) on [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) (1 day ago)
+- [Wireguard tag changes](https://github.com/linuxserver/cstate/pull/155) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [Deprecate alpine branch](https://github.com/linuxserver/docker-wireguard/pull/261) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [Switch master branch to alpine](https://github.com/linuxserver/docker-wireguard/pull/260) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [Move Ubuntu build to legacy branch](https://github.com/linuxserver/docker-wireguard/pull/259) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
 
 #### 📜 My recent blog posts
 
