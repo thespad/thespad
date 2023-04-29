@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (2 days ago)
-- [linuxserver/docker-raneto](https://github.com/linuxserver/docker-raneto) (4 days ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (4 days ago)
-- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (5 days ago)
+- [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (1 day ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (3 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
+- [linuxserver/docker-raneto](https://github.com/linuxserver/docker-raneto) (5 days ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Handle CF forwarded IPs inc. IPv6](https://github.com/thespad/traefik-crowdsec-bouncer/pull/2) on [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) (2 days ago)
-- [Wireguard tag changes](https://github.com/linuxserver/cstate/pull/155) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [Deprecate alpine branch](https://github.com/linuxserver/docker-wireguard/pull/261) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (2 days ago)
-- [Switch master branch to alpine](https://github.com/linuxserver/docker-wireguard/pull/260) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (2 days ago)
-- [Move Ubuntu build to legacy branch](https://github.com/linuxserver/docker-wireguard/pull/259) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (2 days ago)
+- [armhf reminder (June)](https://github.com/linuxserver/cstate/pull/157) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [armhf reminder (May)](https://github.com/linuxserver/cstate/pull/156) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [Handle CF forwarded IPs inc. IPv6](https://github.com/thespad/traefik-crowdsec-bouncer/pull/2) on [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) (3 days ago)
+- [Wireguard tag changes](https://github.com/linuxserver/cstate/pull/155) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
+- [Deprecate alpine branch](https://github.com/linuxserver/docker-wireguard/pull/261) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (3 days ago)
 
 #### 📜 My recent blog posts
 
