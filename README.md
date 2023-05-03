@@ -2,27 +2,27 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 day ago)
-- [linuxserver/docker-build-agent](https://github.com/linuxserver/docker-build-agent) (1 day ago)
+- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (1 day ago)
+- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (1 day ago)
 - [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (1 day ago)
-- [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (4 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (6 days ago)
+- [linuxserver/docker-build-agent](https://github.com/linuxserver/docker-build-agent) (1 day ago)
+- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) - A really dumb proof of concept that bundles the nightly branch builds of all of the *arr applications into a single container. (1 day ago)
 
 #### 🌱 My latest projects
 
 - [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer)
-- [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix)
-- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one)
-- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr)
+- [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) - Multi-arch twitfix docker image
+- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) - A really dumb proof of concept that bundles the nightly branch builds of all of the *arr applications into a single container.
+- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) - Multi-arch whisparr docker image
 - [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update build path](https://github.com/thespad/docker-traefik-crowdsec-bouncer/pull/2) on [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (1 day ago)
-- [Move go modules back to repo root](https://github.com/thespad/traefik-crowdsec-bouncer/pull/10) on [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) (1 day ago)
-- [Move docker image to its own repo](https://github.com/thespad/traefik-crowdsec-bouncer/pull/9) on [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) (1 day ago)
-- [org.opencontainers.image.description](https://github.com/thespad/docker-whisparr/pull/14) on [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) (1 day ago)
-- [org.opencontainers.image.description](https://github.com/thespad/docker-twitfix/pull/12) on [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) (1 day ago)
+- [Bump go to 1.20](https://github.com/thespad/docker-traefik-crowdsec-bouncer/pull/3) on [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (1 day ago)
+- [Refactor, fix some typos, improve error handling](https://github.com/thespad/traefik-crowdsec-bouncer/pull/11) on [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) (1 day ago)
+- [Make sure .gitconfig is written to /config](https://github.com/linuxserver/docker-build-agent/pull/4) on [linuxserver/docker-build-agent](https://github.com/linuxserver/docker-build-agent) (1 day ago)
+- [Update build path](https://github.com/thespad/docker-traefik-crowdsec-bouncer/pull/2) on [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (2 days ago)
+- [Move go modules back to repo root](https://github.com/thespad/traefik-crowdsec-bouncer/pull/10) on [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) (2 days ago)
 
 #### 📜 My recent blog posts
 
