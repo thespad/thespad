@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (1 day ago)
-- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (1 day ago)
-- [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (1 day ago)
-- [linuxserver/docker-build-agent](https://github.com/linuxserver/docker-build-agent) (1 day ago)
-- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) - A really dumb proof of concept that bundles the nightly branch builds of all of the *arr applications into a single container. (1 day ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (today)
+- [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (today)
+- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) - Multi-arch whisparr docker image (2 days ago)
+- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (2 days ago)
+- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) - A really dumb proof of concept that bundles the nightly branch builds of all of the *arr applications into a single container. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Bump go to 1.20](https://github.com/thespad/docker-traefik-crowdsec-bouncer/pull/3) on [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (1 day ago)
-- [Refactor, fix some typos, improve error handling](https://github.com/thespad/traefik-crowdsec-bouncer/pull/11) on [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) (1 day ago)
-- [Make sure .gitconfig is written to /config](https://github.com/linuxserver/docker-build-agent/pull/4) on [linuxserver/docker-build-agent](https://github.com/linuxserver/docker-build-agent) (1 day ago)
-- [Update build path](https://github.com/thespad/docker-traefik-crowdsec-bouncer/pull/2) on [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (2 days ago)
-- [Move go modules back to repo root](https://github.com/thespad/traefik-crowdsec-bouncer/pull/10) on [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) (2 days ago)
+- [Bump go to 1.20](https://github.com/thespad/docker-traefik-crowdsec-bouncer/pull/3) on [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (2 days ago)
+- [Refactor, fix some typos, improve error handling](https://github.com/thespad/traefik-crowdsec-bouncer/pull/11) on [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) (2 days ago)
+- [Make sure .gitconfig is written to /config](https://github.com/linuxserver/docker-build-agent/pull/4) on [linuxserver/docker-build-agent](https://github.com/linuxserver/docker-build-agent) (2 days ago)
+- [Update build path](https://github.com/thespad/docker-traefik-crowdsec-bouncer/pull/2) on [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (3 days ago)
+- [Move go modules back to repo root](https://github.com/thespad/traefik-crowdsec-bouncer/pull/10) on [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) (3 days ago)
 
 #### 📜 My recent blog posts
 
