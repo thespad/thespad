@@ -2,10 +2,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (2 days ago)
-- [linuxserver/docker-calibre](https://github.com/linuxserver/docker-calibre) (2 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (6 days ago)
-- [linuxserver/docker-grav](https://github.com/linuxserver/docker-grav) (6 days ago)
+- [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (3 days ago)
+- [linuxserver/docker-calibre](https://github.com/linuxserver/docker-calibre) (3 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
+- [linuxserver/docker-grav](https://github.com/linuxserver/docker-grav) (1 week ago)
 - [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add perl-lwp-protocol-https for https master/slave support](https://github.com/linuxserver/docker-smokeping/pull/148) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 day ago)
-- [Correct default kasm ports to match container](https://github.com/linuxserver/docker-calibre/pull/133) on [linuxserver/docker-calibre](https://github.com/linuxserver/docker-calibre) (2 days ago)
-- [Add chromium](https://github.com/linuxserver/docker-webcord/pull/3) on [linuxserver/docker-webcord](https://github.com/linuxserver/docker-webcord) (2 days ago)
-- [Initial release of 3.18 to master](https://github.com/linuxserver/docker-baseimage-alpine/pull/183) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (2 days ago)
-- [Branch 3.17](https://github.com/linuxserver/docker-baseimage-alpine/pull/182) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (3 days ago)
+- [Add fonts-noto-color-emoji for better emoji support.](https://github.com/linuxserver/docker-webcord/pull/4) on [linuxserver/docker-webcord](https://github.com/linuxserver/docker-webcord) (1 day ago)
+- [Bump s6 to 3.1.5.0 (Jammy)](https://github.com/linuxserver/docker-baseimage-ubuntu/pull/140) on [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (1 day ago)
+- [Bump s6 to 3.1.5.0 (Focal)](https://github.com/linuxserver/docker-baseimage-ubuntu/pull/139) on [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (1 day ago)
+- [Bump s6 to 3.1.5.0](https://github.com/linuxserver/docker-baseimage-fedora/pull/23) on [linuxserver/docker-baseimage-fedora](https://github.com/linuxserver/docker-baseimage-fedora) (1 day ago)
+- [Bump s6 to 3.1.5.0](https://github.com/linuxserver/docker-baseimage-debian/pull/2) on [linuxserver/docker-baseimage-debian](https://github.com/linuxserver/docker-baseimage-debian) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets. (6 days ago)
+- [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets. (1 week ago)
 - [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin to apply crowdsec decisions from local API (1 week ago)
 - [Razviar/marvelsnaptracker](https://github.com/Razviar/marvelsnaptracker) - Marvel Snap Tracker repo (1 month ago)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (1 month ago)
