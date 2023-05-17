@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [linuxserver/docker-baseimage-debian](https://github.com/linuxserver/docker-baseimage-debian) - Debian Baseimages (1 day ago)
 - [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 day ago)
 - [linuxserver/docker-baseimage-fedora](https://github.com/linuxserver/docker-baseimage-fedora) (1 day ago)
-- [linuxserver/docker-netbox](https://github.com/linuxserver/docker-netbox) (1 day ago)
-- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) - Multi-arch whisparr docker image (2 days ago)
-- [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (2 days ago)
+- [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (1 day ago)
+- [linuxserver/docker-baseimage-arch](https://github.com/linuxserver/docker-baseimage-arch) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Create lsiopy venv folder and envs](https://github.com/linuxserver/docker-baseimage-fedora/pull/24) on [linuxserver/docker-baseimage-fedora](https://github.com/linuxserver/docker-baseimage-fedora) (1 day ago)
-- [Create lsiopy venv folder and envs](https://github.com/linuxserver/docker-baseimage-alpine/pull/187) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 day ago)
-- [Rebase to 3.18, bump php to 8.2](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/141) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (1 day ago)
-- [Branch 3.17](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/140) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (1 day ago)
-- [Rebase to Alpine 3.18, drop armhf](https://github.com/thespad/docker-twitfix/pull/13) on [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) (1 day ago)
+- [Rebase to 3.18, deprecate armhf (master)](https://github.com/linuxserver/docker-sabnzbd/pull/185) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 day ago)
+- [Rebase to 3.18, deprecate armhf (unstable)](https://github.com/linuxserver/docker-sabnzbd/pull/184) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 day ago)
+- [Externalise package-install (Edge)](https://github.com/linuxserver/docker-baseimage-alpine/pull/189) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 day ago)
+- [Externalise package-install](https://github.com/linuxserver/docker-baseimage-fedora/pull/25) on [linuxserver/docker-baseimage-fedora](https://github.com/linuxserver/docker-baseimage-fedora) (1 day ago)
+- [Add package install](https://github.com/linuxserver/docker-mods/pull/638) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
 
 #### 📜 My recent blog posts
 
