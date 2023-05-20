@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 day ago)
-- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 day ago)
-- [linuxserver/docker-webcord](https://github.com/linuxserver/docker-webcord) - Docker container for the WebCord Desktop application (1 day ago)
-- [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 day ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (2 days ago)
+- [linuxserver/docker-rdesktop](https://github.com/linuxserver/docker-rdesktop) (1 day ago)
+- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 day ago)
+- [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (2 days ago)
+- [linuxserver/docker-webcord](https://github.com/linuxserver/docker-webcord) - Docker container for the WebCord Desktop application (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to Alpine 3.18, deprecate armhf (alpine-kde)](https://github.com/linuxserver/docker-rdesktop/pull/109) on [linuxserver/docker-rdesktop](https://github.com/linuxserver/docker-rdesktop) (1 day ago)
-- [Rebase to Alpine 3.18, deprecate armhf (alpine-i3)](https://github.com/linuxserver/docker-rdesktop/pull/108) on [linuxserver/docker-rdesktop](https://github.com/linuxserver/docker-rdesktop) (1 day ago)
-- [Rebase to Alpine 3.18, deprecate armhf (alpine-mate)](https://github.com/linuxserver/docker-rdesktop/pull/107) on [linuxserver/docker-rdesktop](https://github.com/linuxserver/docker-rdesktop) (1 day ago)
-- [Rebase to Alpine 3.18, deprecate armhf (alpine-icewm)](https://github.com/linuxserver/docker-rdesktop/pull/106) on [linuxserver/docker-rdesktop](https://github.com/linuxserver/docker-rdesktop) (1 day ago)
-- [Rebase to Alpine 3.18, deprecate armhf (alpine-openbox)](https://github.com/linuxserver/docker-rdesktop/pull/105) on [linuxserver/docker-rdesktop](https://github.com/linuxserver/docker-rdesktop) (1 day ago)
+- [sabnzbd-par2cmdline-turbo - Rebase to 3.18, update workflows, build releases](https://github.com/linuxserver/docker-mods/pull/701) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
+- [Initial release](https://github.com/linuxserver/docker-hishtory-server/pull/1) on [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (1 day ago)
+- [Announce hishtory server](https://github.com/linuxserver/cstate/pull/161) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [Rebase to Fedora 38 (mate)](https://github.com/linuxserver/docker-rdesktop/pull/115) on [linuxserver/docker-rdesktop](https://github.com/linuxserver/docker-rdesktop) (1 day ago)
+- [Rebase to Fedora 38 (xfce)](https://github.com/linuxserver/docker-rdesktop/pull/114) on [linuxserver/docker-rdesktop](https://github.com/linuxserver/docker-rdesktop) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
-- [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets. (1 week ago)
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (1 day ago)
+- [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets. (2 weeks ago)
 - [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin to apply crowdsec decisions from local API (2 weeks ago)
 - [Razviar/marvelsnaptracker](https://github.com/Razviar/marvelsnaptracker) - Marvel Snap Tracker repo (1 month ago)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (1 month ago)
-- [cisagov/untitledgoosetool](https://github.com/cisagov/untitledgoosetool) - Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments. (1 month ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
