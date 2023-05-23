@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) - base image for xrdp containers  (1 day ago)
-- [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) - Multi-arch twitfix docker image (2 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (2 days ago)
-- [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (2 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 day ago)
+- [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) - base image for xrdp containers  (2 days ago)
+- [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) - Multi-arch twitfix docker image (3 days ago)
+- [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Portainer (&amp; Synology) breaks things](https://github.com/linuxserver/cstate/pull/162) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [Use jammy repos for installing docker-cli](https://github.com/linuxserver/docker-baseimage-rdesktop/pull/62) on [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) (2 days ago)
-- [Add missing perl-datetime-format-strptime](https://github.com/linuxserver/docker-tvheadend/pull/229) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (2 days ago)
-- [Deprecate focal](https://github.com/linuxserver/docker-baseimage-rdesktop/pull/61) on [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) (2 days ago)
-- [Deprecate fedora 37](https://github.com/linuxserver/docker-baseimage-rdesktop/pull/60) on [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) (2 days ago)
+- [Restore perl-json package](https://github.com/linuxserver/docker-tvheadend/pull/231) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 day ago)
+- [Portainer (&amp; Synology) breaks things](https://github.com/linuxserver/cstate/pull/162) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [Use jammy repos for installing docker-cli](https://github.com/linuxserver/docker-baseimage-rdesktop/pull/62) on [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) (3 days ago)
+- [Add missing perl-datetime-format-strptime](https://github.com/linuxserver/docker-tvheadend/pull/229) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (3 days ago)
+- [Deprecate focal](https://github.com/linuxserver/docker-baseimage-rdesktop/pull/61) on [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent stars
 
-- [leomos/dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver (1 day ago)
-- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (3 days ago)
+- [leomos/dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver (2 days ago)
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (4 days ago)
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets. (2 weeks ago)
 - [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin to apply crowdsec decisions from local API (2 weeks ago)
 - [Razviar/marvelsnaptracker](https://github.com/Razviar/marvelsnaptracker) - Marvel Snap Tracker repo (1 month ago)
