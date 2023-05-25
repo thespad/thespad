@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
-- [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki (1 day ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (2 days ago)
-- [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) - base image for xrdp containers  (3 days ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (2 days ago)
+- [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki (2 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
+- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (3 days ago)
+- [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) - base image for xrdp containers  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add readme note about iptables modules](https://github.com/linuxserver/docker-wireguard/pull/267) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
-- [Don&#39;t create venv if pip is already installed](https://github.com/linuxserver/docker-mods/pull/708) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
-- [Restore perl-json package](https://github.com/linuxserver/docker-tvheadend/pull/231) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (2 days ago)
-- [Portainer (&amp; Synology) breaks things](https://github.com/linuxserver/cstate/pull/162) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
-- [Use jammy repos for installing docker-cli](https://github.com/linuxserver/docker-baseimage-rdesktop/pull/62) on [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) (4 days ago)
+- [Add lscr.io support](https://github.com/linuxserver/docker-mods/pull/709) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
+- [Add readme note about iptables modules](https://github.com/linuxserver/docker-wireguard/pull/267) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (2 days ago)
+- [Don&#39;t create venv if pip is already installed](https://github.com/linuxserver/docker-mods/pull/708) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (2 days ago)
+- [Restore perl-json package](https://github.com/linuxserver/docker-tvheadend/pull/231) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (3 days ago)
+- [Portainer (&amp; Synology) breaks things](https://github.com/linuxserver/cstate/pull/162) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,10 +34,10 @@
 
 #### ⭐ Recent stars
 
-- [leomos/dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver (3 days ago)
-- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (5 days ago)
+- [leomos/dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver (4 days ago)
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (6 days ago)
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets. (2 weeks ago)
-- [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin to apply crowdsec decisions from local API (2 weeks ago)
+- [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin to apply crowdsec decisions from local API (3 weeks ago)
 - [Razviar/marvelsnaptracker](https://github.com/Razviar/marvelsnaptracker) - Marvel Snap Tracker repo (1 month ago)
 
 #### 📫 How to reach me
