@@ -2,9 +2,9 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-feed2toot](https://github.com/linuxserver/docker-feed2toot) (1 day ago)
-- [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki (6 days ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (6 days ago)
+- [linuxserver/docker-feed2toot](https://github.com/linuxserver/docker-feed2toot) (2 days ago)
+- [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki (1 week ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 week ago)
 - [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
 - [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 week ago)
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix User Agent](https://github.com/linuxserver/docker-mods/pull/710) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
-- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-feed2toot/pull/9) on [linuxserver/docker-feed2toot](https://github.com/linuxserver/docker-feed2toot) (4 days ago)
-- [Add lscr.io support](https://github.com/linuxserver/docker-mods/pull/709) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (5 days ago)
-- [Add readme note about iptables modules](https://github.com/linuxserver/docker-wireguard/pull/267) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (6 days ago)
-- [Don&#39;t create venv if pip is already installed](https://github.com/linuxserver/docker-mods/pull/708) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (6 days ago)
+- [Add UA to registry test curl](https://github.com/linuxserver/docker-mods/pull/712) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
+- [Fix User Agent](https://github.com/linuxserver/docker-mods/pull/710) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (2 days ago)
+- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-feed2toot/pull/9) on [linuxserver/docker-feed2toot](https://github.com/linuxserver/docker-feed2toot) (5 days ago)
+- [Add lscr.io support](https://github.com/linuxserver/docker-mods/pull/709) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (6 days ago)
+- [Add readme note about iptables modules](https://github.com/linuxserver/docker-wireguard/pull/267) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 week ago)
 
 #### 📜 My recent blog posts
 
