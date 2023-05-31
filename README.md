@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-feed2toot](https://github.com/linuxserver/docker-feed2toot) (2 days ago)
-- [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki (1 week ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 week ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
-- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 week ago)
+- [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) - Multi-arch twitfix docker image (1 day ago)
+- [linuxserver/docker-airsonic-advanced](https://github.com/linuxserver/docker-airsonic-advanced) (1 day ago)
+- [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (1 day ago)
+- [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (1 day ago)
+- [linuxserver/docker-feed2toot](https://github.com/linuxserver/docker-feed2toot) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add UA to registry test curl](https://github.com/linuxserver/docker-mods/pull/712) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
-- [Fix User Agent](https://github.com/linuxserver/docker-mods/pull/710) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (2 days ago)
-- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-feed2toot/pull/9) on [linuxserver/docker-feed2toot](https://github.com/linuxserver/docker-feed2toot) (5 days ago)
-- [Add lscr.io support](https://github.com/linuxserver/docker-mods/pull/709) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (6 days ago)
-- [Add readme note about iptables modules](https://github.com/linuxserver/docker-wireguard/pull/267) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 week ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-airsonic-advanced/pull/17) on [linuxserver/docker-airsonic-advanced](https://github.com/linuxserver/docker-airsonic-advanced) (1 day ago)
+- [Make uwsgi use python venv](https://github.com/thespad/docker-twitfix/pull/14) on [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) (1 day ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-pairdrop/pull/11) on [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (1 day ago)
+- [Rebase to 3.18 (develop)](https://github.com/linuxserver/docker-sonarr/pull/263) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (1 day ago)
+- [Rebase to 3.18 (glitch)](https://github.com/linuxserver/docker-mastodon/pull/59) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
+- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance (1 day ago)
 - [leomos/dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver (1 week ago)
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (1 week ago)
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets. (3 weeks ago)
 - [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin to apply crowdsec decisions from local API (3 weeks ago)
-- [Razviar/marvelsnaptracker](https://github.com/Razviar/marvelsnaptracker) - Marvel Snap Tracker repo (1 month ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
