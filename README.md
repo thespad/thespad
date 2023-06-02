@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) - Multi-arch twitfix docker image (2 days ago)
-- [linuxserver/docker-airsonic-advanced](https://github.com/linuxserver/docker-airsonic-advanced) (2 days ago)
-- [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (2 days ago)
-- [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (2 days ago)
-- [linuxserver/docker-feed2toot](https://github.com/linuxserver/docker-feed2toot) (4 days ago)
+- [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) - Multi-arch twitfix docker image (3 days ago)
+- [linuxserver/docker-airsonic-advanced](https://github.com/linuxserver/docker-airsonic-advanced) (3 days ago)
+- [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (3 days ago)
+- [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (3 days ago)
+- [linuxserver/docker-feed2toot](https://github.com/linuxserver/docker-feed2toot) (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-healthchecks/pull/107) on [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) (1 day ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-airsonic-advanced/pull/17) on [linuxserver/docker-airsonic-advanced](https://github.com/linuxserver/docker-airsonic-advanced) (2 days ago)
-- [Make uwsgi use python venv](https://github.com/thespad/docker-twitfix/pull/14) on [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) (2 days ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-pairdrop/pull/11) on [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (2 days ago)
-- [Rebase to 3.18 (develop)](https://github.com/linuxserver/docker-sonarr/pull/263) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (2 days ago)
+- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-healthchecks/pull/107) on [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) (2 days ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-airsonic-advanced/pull/17) on [linuxserver/docker-airsonic-advanced](https://github.com/linuxserver/docker-airsonic-advanced) (3 days ago)
+- [Make uwsgi use python venv](https://github.com/thespad/docker-twitfix/pull/14) on [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) (3 days ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-pairdrop/pull/11) on [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (3 days ago)
+- [Rebase to 3.18 (develop)](https://github.com/linuxserver/docker-sonarr/pull/263) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,9 +34,9 @@
 
 #### ⭐ Recent stars
 
-- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance (2 days ago)
+- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance (3 days ago)
 - [leomos/dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver (1 week ago)
-- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (1 week ago)
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (2 weeks ago)
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets. (3 weeks ago)
 - [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin to apply crowdsec decisions from local API (4 weeks ago)
 
