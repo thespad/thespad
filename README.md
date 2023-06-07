@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (2 days ago)
-- [linuxserver/docker-piwigo](https://github.com/linuxserver/docker-piwigo) (3 days ago)
-- [linuxserver/docker-babybuddy](https://github.com/linuxserver/docker-babybuddy) (4 days ago)
-- [linuxserver/docker-airsonic-advanced](https://github.com/linuxserver/docker-airsonic-advanced) (1 week ago)
-- [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (1 week ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 day ago)
+- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (3 days ago)
+- [linuxserver/docker-piwigo](https://github.com/linuxserver/docker-piwigo) (4 days ago)
+- [linuxserver/docker-babybuddy](https://github.com/linuxserver/docker-babybuddy) (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Bind to all interfaces not just IPv4](https://github.com/thespad/docker-py-kms/pull/30) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (2 days ago)
-- [Intial release](https://github.com/thespad/docker-kopia-server/pull/1) on [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) (3 days ago)
-- [Revert to 3.17](https://github.com/linuxserver/docker-piwigo/pull/64) on [linuxserver/docker-piwigo](https://github.com/linuxserver/docker-piwigo) (3 days ago)
-- [Build mysqlclient via pip](https://github.com/linuxserver/docker-babybuddy/pull/30) on [linuxserver/docker-babybuddy](https://github.com/linuxserver/docker-babybuddy) (4 days ago)
-- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-healthchecks/pull/107) on [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) (6 days ago)
+- [Allow readiness check to use custom ports (master)](https://github.com/linuxserver/docker-sonarr/pull/265) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (1 day ago)
+- [Allow readiness check to use custom ports (develop)](https://github.com/linuxserver/docker-sonarr/pull/264) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (1 day ago)
+- [Add perl-authen-radius](https://github.com/linuxserver/docker-smokeping/pull/155) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 day ago)
+- [Bind to all interfaces not just IPv4](https://github.com/thespad/docker-py-kms/pull/30) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (3 days ago)
+- [Intial release](https://github.com/thespad/docker-kopia-server/pull/1) on [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) (4 days ago)
 
 #### 📜 My recent blog posts
 
