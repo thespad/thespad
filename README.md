@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 day ago)
-- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (3 days ago)
-- [linuxserver/docker-piwigo](https://github.com/linuxserver/docker-piwigo) (4 days ago)
-- [linuxserver/docker-babybuddy](https://github.com/linuxserver/docker-babybuddy) (5 days ago)
+- [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) (1 day ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (2 days ago)
+- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (4 days ago)
+- [linuxserver/docker-piwigo](https://github.com/linuxserver/docker-piwigo) (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Allow readiness check to use custom ports (master)](https://github.com/linuxserver/docker-sonarr/pull/265) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (1 day ago)
-- [Allow readiness check to use custom ports (develop)](https://github.com/linuxserver/docker-sonarr/pull/264) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (1 day ago)
-- [Add perl-authen-radius](https://github.com/linuxserver/docker-smokeping/pull/155) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 day ago)
-- [Bind to all interfaces not just IPv4](https://github.com/thespad/docker-py-kms/pull/30) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (3 days ago)
-- [Intial release](https://github.com/thespad/docker-kopia-server/pull/1) on [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) (4 days ago)
+- [Rebase to 3.18 (nightly)](https://github.com/linuxserver/docker-readarr/pull/30) on [linuxserver/docker-readarr](https://github.com/linuxserver/docker-readarr) (1 day ago)
+- [Rebase to 3.18 (develop)](https://github.com/linuxserver/docker-readarr/pull/29) on [linuxserver/docker-readarr](https://github.com/linuxserver/docker-readarr) (1 day ago)
+- [Update changelog for 3.18](https://github.com/linuxserver/docker-readarr/pull/28) on [linuxserver/docker-readarr](https://github.com/linuxserver/docker-readarr) (1 day ago)
+- [Support custom ports in readiness check (develop)](https://github.com/linuxserver/docker-pyload-ng/pull/36) on [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) (1 day ago)
+- [Support custom ports in readiness check (main)](https://github.com/linuxserver/docker-pyload-ng/pull/35) on [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) (1 day ago)
 
 #### 📜 My recent blog posts
 
