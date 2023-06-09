@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) (1 day ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (2 days ago)
-- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (4 days ago)
-- [linuxserver/docker-piwigo](https://github.com/linuxserver/docker-piwigo) (5 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
+- [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) (2 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
+- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (3 days ago)
+- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to 3.18 (nightly)](https://github.com/linuxserver/docker-readarr/pull/30) on [linuxserver/docker-readarr](https://github.com/linuxserver/docker-readarr) (1 day ago)
-- [Rebase to 3.18 (develop)](https://github.com/linuxserver/docker-readarr/pull/29) on [linuxserver/docker-readarr](https://github.com/linuxserver/docker-readarr) (1 day ago)
-- [Update changelog for 3.18](https://github.com/linuxserver/docker-readarr/pull/28) on [linuxserver/docker-readarr](https://github.com/linuxserver/docker-readarr) (1 day ago)
-- [Support custom ports in readiness check (develop)](https://github.com/linuxserver/docker-pyload-ng/pull/36) on [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) (1 day ago)
-- [Support custom ports in readiness check (main)](https://github.com/linuxserver/docker-pyload-ng/pull/35) on [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) (1 day ago)
+- [Rebase to 3.18 (master)](https://github.com/linuxserver/docker-lidarr/pull/94) on [linuxserver/docker-lidarr](https://github.com/linuxserver/docker-lidarr) (1 day ago)
+- [Rebase to 3.18 (develop)](https://github.com/linuxserver/docker-lidarr/pull/93) on [linuxserver/docker-lidarr](https://github.com/linuxserver/docker-lidarr) (1 day ago)
+- [Rebase to 3.18 (nightly)](https://github.com/linuxserver/docker-lidarr/pull/92) on [linuxserver/docker-lidarr](https://github.com/linuxserver/docker-lidarr) (1 day ago)
+- [Rebase to 3.18 (nightly)](https://github.com/linuxserver/docker-radarr/pull/209) on [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) (1 day ago)
+- [Rebase to 3.18 (develop)](https://github.com/linuxserver/docker-radarr/pull/208) on [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -36,7 +36,7 @@
 
 - [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance (1 week ago)
 - [leomos/dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver (2 weeks ago)
-- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (2 weeks ago)
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (3 weeks ago)
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets. (1 month ago)
 - [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin to apply crowdsec decisions from local API (1 month ago)
 
