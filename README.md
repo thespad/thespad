@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (1 day ago)
-- [linuxserver/docker-transmission](https://github.com/linuxserver/docker-transmission) (1 day ago)
-- [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (2 days ago)
-- [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (3 days ago)
-- [linuxserver/docker-feed2toot](https://github.com/linuxserver/docker-feed2toot) (3 days ago)
+- [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (2 days ago)
+- [linuxserver/docker-transmission](https://github.com/linuxserver/docker-transmission) (2 days ago)
+- [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (3 days ago)
+- [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (4 days ago)
+- [linuxserver/docker-feed2toot](https://github.com/linuxserver/docker-feed2toot) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix build artefact copy path](https://github.com/linuxserver/docker-hishtory-server/pull/3) on [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (1 day ago)
-- [Update default conf and improve conf version check](https://github.com/linuxserver/docker-syslog-ng/pull/18) on [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (3 days ago)
-- [Fix arm build](https://github.com/thespad/docker-kopia-server/pull/2) on [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) (5 days ago)
-- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-openssh-server/pull/74) on [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server) (5 days ago)
-- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-endlessh/pull/15) on [linuxserver/docker-endlessh](https://github.com/linuxserver/docker-endlessh) (5 days ago)
+- [Rebase to 3.18, deprecate armhf (libtorrentv1)](https://github.com/linuxserver/docker-qbittorrent/pull/247) on [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (1 day ago)
+- [Deprecate armhf](https://github.com/linuxserver/docker-qbittorrent/pull/246) on [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (1 day ago)
+- [Fix build artefact copy path](https://github.com/linuxserver/docker-hishtory-server/pull/3) on [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (2 days ago)
+- [Update default conf and improve conf version check](https://github.com/linuxserver/docker-syslog-ng/pull/18) on [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (4 days ago)
+- [Fix arm build](https://github.com/thespad/docker-kopia-server/pull/2) on [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018. (1 day ago)
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018. (2 days ago)
 - [ryanries/ADReplStatus](https://github.com/ryanries/ADReplStatus) - AD Replication Status Tool (1 week ago)
 - [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance (2 weeks ago)
-- [leomos/dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver (3 weeks ago)
-- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (4 weeks ago)
+- [leomos/dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver (4 weeks ago)
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (1 month ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
