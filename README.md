@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-prowlarr](https://github.com/linuxserver/docker-prowlarr) - Docker image for Prowlarr/Prowlarr (1 day ago)
-- [linuxserver/docker-lidarr](https://github.com/linuxserver/docker-lidarr) (1 day ago)
-- [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) (1 day ago)
-- [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (3 days ago)
-- [linuxserver/docker-plex-meta-manager](https://github.com/linuxserver/docker-plex-meta-manager) (4 days ago)
+- [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (1 day ago)
+- [linuxserver/docker-prowlarr](https://github.com/linuxserver/docker-prowlarr) - Docker image for Prowlarr/Prowlarr (2 days ago)
+- [linuxserver/docker-lidarr](https://github.com/linuxserver/docker-lidarr) (2 days ago)
+- [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) (2 days ago)
+- [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-hedgedoc/pull/37) on [linuxserver/docker-hedgedoc](https://github.com/linuxserver/docker-hedgedoc) (4 days ago)
-- [Rebase to 3.18, deprecate armhf (libtorrentv1)](https://github.com/linuxserver/docker-qbittorrent/pull/247) on [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (5 days ago)
-- [Deprecate armhf](https://github.com/linuxserver/docker-qbittorrent/pull/246) on [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (5 days ago)
-- [Fix build artefact copy path](https://github.com/linuxserver/docker-hishtory-server/pull/3) on [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (6 days ago)
-- [Update default conf and improve conf version check](https://github.com/linuxserver/docker-syslog-ng/pull/18) on [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (1 week ago)
+- [Revert to 3.17 for python 3.10](https://github.com/linuxserver/docker-tautulli/pull/121) on [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (1 day ago)
+- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-hedgedoc/pull/37) on [linuxserver/docker-hedgedoc](https://github.com/linuxserver/docker-hedgedoc) (5 days ago)
+- [Rebase to 3.18, deprecate armhf (libtorrentv1)](https://github.com/linuxserver/docker-qbittorrent/pull/247) on [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (6 days ago)
+- [Deprecate armhf](https://github.com/linuxserver/docker-qbittorrent/pull/246) on [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (6 days ago)
+- [Fix build artefact copy path](https://github.com/linuxserver/docker-hishtory-server/pull/3) on [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent stars
 
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018. (6 days ago)
-- [ryanries/ADReplStatus](https://github.com/ryanries/ADReplStatus) - AD Replication Status Tool (1 week ago)
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018. (1 week ago)
+- [ryanries/ADReplStatus](https://github.com/ryanries/ADReplStatus) - AD Replication Status Tool (2 weeks ago)
 - [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance (3 weeks ago)
 - [leomos/dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver (1 month ago)
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context (1 month ago)
