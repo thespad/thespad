@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (1 day ago)
-- [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (2 days ago)
-- [linuxserver/docker-prowlarr](https://github.com/linuxserver/docker-prowlarr) - Docker image for Prowlarr/Prowlarr (3 days ago)
-- [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) (3 days ago)
-- [linuxserver/docker-lidarr](https://github.com/linuxserver/docker-lidarr) (3 days ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (2 days ago)
+- [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (3 days ago)
+- [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) (4 days ago)
+- [linuxserver/docker-lidarr](https://github.com/linuxserver/docker-lidarr) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Revert to 3.17 for python 3.10](https://github.com/linuxserver/docker-tautulli/pull/121) on [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (2 days ago)
-- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-hedgedoc/pull/37) on [linuxserver/docker-hedgedoc](https://github.com/linuxserver/docker-hedgedoc) (6 days ago)
+- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-wireguard/pull/276) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [Deprecate armhf (legacy)](https://github.com/linuxserver/docker-wireguard/pull/275) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [Revert to 3.17 for python 3.10](https://github.com/linuxserver/docker-tautulli/pull/121) on [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (3 days ago)
+- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-hedgedoc/pull/37) on [linuxserver/docker-hedgedoc](https://github.com/linuxserver/docker-hedgedoc) (1 week ago)
 - [Rebase to 3.18, deprecate armhf (libtorrentv1)](https://github.com/linuxserver/docker-qbittorrent/pull/247) on [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (1 week ago)
-- [Deprecate armhf](https://github.com/linuxserver/docker-qbittorrent/pull/246) on [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (1 week ago)
-- [Fix build artefact copy path](https://github.com/linuxserver/docker-hishtory-server/pull/3) on [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (1 week ago)
 
 #### 📜 My recent blog posts
 
