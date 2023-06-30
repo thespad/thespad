@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (3 days ago)
-- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (6 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (4 days ago)
+- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (1 week ago)
 - [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (1 week ago)
-- [linuxserver/docker-lidarr](https://github.com/linuxserver/docker-lidarr) (1 week ago)
-- [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) (1 week ago)
+- [linuxserver/docker-prowlarr](https://github.com/linuxserver/docker-prowlarr) - Docker image for Prowlarr/Prowlarr (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase back to 3.18](https://github.com/linuxserver/docker-wireguard/pull/279) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (2 days ago)
-- [Revert to 3.17 base](https://github.com/linuxserver/docker-wireguard/pull/277) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (3 days ago)
-- [Set data directory during init](https://github.com/linuxserver/docker-nextcloud/pull/326) on [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (3 days ago)
-- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-wireguard/pull/276) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (5 days ago)
-- [Deprecate armhf (legacy)](https://github.com/linuxserver/docker-wireguard/pull/275) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (5 days ago)
+- [Rebase back to 3.18](https://github.com/linuxserver/docker-wireguard/pull/279) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (3 days ago)
+- [Revert to 3.17 base](https://github.com/linuxserver/docker-wireguard/pull/277) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (4 days ago)
+- [Set data directory during init](https://github.com/linuxserver/docker-nextcloud/pull/326) on [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (4 days ago)
+- [Rebase to 3.18, deprecate armhf](https://github.com/linuxserver/docker-wireguard/pull/276) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (6 days ago)
+- [Deprecate armhf (legacy)](https://github.com/linuxserver/docker-wireguard/pull/275) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
-- [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges. (2 days ago)
-- [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap) - Go CLI and Library for quickly mapping organization network ranges using ASN information. (2 days ago)
-- [sbourdeaud/nutanix](https://github.com/sbourdeaud/nutanix) (3 days ago)
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018. (1 week ago)
-- [ryanries/ADReplStatus](https://github.com/ryanries/ADReplStatus) - AD Replication Status Tool (2 weeks ago)
+- [nutanix/nutanix.ansible](https://github.com/nutanix/nutanix.ansible) - Official Nutanix Ansible collections (1 day ago)
+- [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges. (3 days ago)
+- [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap) - Go CLI and Library for quickly mapping organization network ranges using ASN information. (3 days ago)
+- [sbourdeaud/nutanix](https://github.com/sbourdeaud/nutanix) (4 days ago)
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018. (2 weeks ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
