@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) - Multi-arch kopia server docker image  (3 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
-- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (4 days ago)
-- [thespad/actions](https://github.com/thespad/actions) (5 days ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 week ago)
+- [linuxserver/docker-nntp2nntp](https://github.com/linuxserver/docker-nntp2nntp) (1 day ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (4 days ago)
+- [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) - Multi-arch kopia server docker image  (4 days ago)
+- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (5 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,23 +18,23 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add GNU findutils](https://github.com/thespad/docker-kopia-server/pull/3) on [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) (3 days ago)
-- [Bump unrar, deprecate armhf](https://github.com/linuxserver/docker-deluge/pull/184) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (4 days ago)
+- [Fix build and deprecate](https://github.com/linuxserver/docker-nntp2nntp/pull/11) on [linuxserver/docker-nntp2nntp](https://github.com/linuxserver/docker-nntp2nntp) (1 day ago)
+- [Add GNU findutils](https://github.com/thespad/docker-kopia-server/pull/3) on [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) (4 days ago)
+- [Bump unrar, deprecate armhf](https://github.com/linuxserver/docker-deluge/pull/184) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (5 days ago)
 - [Rebase back to 3.18](https://github.com/linuxserver/docker-wireguard/pull/279) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 week ago)
 - [Revert to 3.17 base](https://github.com/linuxserver/docker-wireguard/pull/277) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 week ago)
-- [Set data directory during init](https://github.com/linuxserver/docker-nextcloud/pull/326) on [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (1 week ago)
 
 #### 📜 My recent blog posts
 
 - [Really Simple Network Bridging With qemu](https://spad.uk/really-simple-network-bridging-with-qemu/) (10 months ago)
 - [Changing Docker Daemon Options For Fun and Profit](https://spad.uk/changing-docker-daemon-options-for-fun-and-profit/) (1 year ago)
-- [Integrating CrowdSec with Traefik &amp; Discord](https://spad.uk/integrating-crowdsec-with-traefik-discord/) (1 year ago)
+- [Integrating CrowdSec with Traefik &amp; Discord](https://spad.uk/integrating-crowdsec-with-traefik-discord/) (2 years ago)
 - [The Dockers I Have Done](https://spad.uk/the-dockers-ive-done/) (2 years ago)
 - [How Exactly Does ProxySettingsPerUser Work?](https://spad.uk/how-does-proxysettingsperuser-work/) (2 years ago)
 
 #### ⭐ Recent stars
 
-- [nutanix/nutanix.ansible](https://github.com/nutanix/nutanix.ansible) - Official Nutanix Ansible collections (5 days ago)
+- [nutanix/nutanix.ansible](https://github.com/nutanix/nutanix.ansible) - Official Nutanix Ansible collections (6 days ago)
 - [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges. (1 week ago)
 - [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap) - Go CLI and Library for quickly mapping organization network ranges using ASN information. (1 week ago)
 - [sbourdeaud/nutanix](https://github.com/sbourdeaud/nutanix) (1 week ago)
