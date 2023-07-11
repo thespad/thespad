@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-flexget](https://github.com/linuxserver/docker-flexget) (1 day ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (2 days ago)
-- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
-- [thespad/docker-dive](https://github.com/thespad/docker-dive) - Multi-arch dive docker image (2 days ago)
-- [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin) (5 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) (1 day ago)
+- [linuxserver/docker-flexget](https://github.com/linuxserver/docker-flexget) (2 days ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (3 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release FlexGet](https://github.com/linuxserver/cstate/pull/167) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [Initial release](https://github.com/linuxserver/docker-flexget/pull/1) on [linuxserver/docker-flexget](https://github.com/linuxserver/docker-flexget) (2 days ago)
-- [Revert to using upstream deps](https://github.com/thespad/docker-dive/pull/23) on [thespad/docker-dive](https://github.com/thespad/docker-dive) (2 days ago)
-- [Update readme links and readiness check](https://github.com/linuxserver/docker-jellyfin/pull/203) on [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin) (5 days ago)
-- [Fix build and deprecate](https://github.com/linuxserver/docker-nntp2nntp/pull/11) on [linuxserver/docker-nntp2nntp](https://github.com/linuxserver/docker-nntp2nntp) (6 days ago)
+- [Rebase to 3.18 (master)](https://github.com/linuxserver/docker-jackett/pull/143) on [linuxserver/docker-jackett](https://github.com/linuxserver/docker-jackett) (1 day ago)
+- [Rebase to 3.18 (develop)](https://github.com/linuxserver/docker-jackett/pull/142) on [linuxserver/docker-jackett](https://github.com/linuxserver/docker-jackett) (1 day ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-booksonic-air/pull/19) on [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) (1 day ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-apprise-api/pull/9) on [linuxserver/docker-apprise-api](https://github.com/linuxserver/docker-apprise-api) (1 day ago)
+- [Release FlexGet](https://github.com/linuxserver/cstate/pull/167) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -35,8 +35,8 @@
 #### ⭐ Recent stars
 
 - [nutanix/nutanix.ansible](https://github.com/nutanix/nutanix.ansible) - Official Nutanix Ansible collections (1 week ago)
-- [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges. (1 week ago)
-- [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap) - Go CLI and Library for quickly mapping organization network ranges using ASN information. (1 week ago)
+- [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges. (2 weeks ago)
+- [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap) - Go CLI and Library for quickly mapping organization network ranges using ASN information. (2 weeks ago)
 - [sbourdeaud/nutanix](https://github.com/sbourdeaud/nutanix) (2 weeks ago)
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018. (3 weeks ago)
 
