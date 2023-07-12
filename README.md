@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) (1 day ago)
-- [linuxserver/docker-flexget](https://github.com/linuxserver/docker-flexget) (2 days ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (3 days ago)
-- [thespad/actions](https://github.com/thespad/actions) (3 days ago)
+- [linuxserver/docker-medusa](https://github.com/linuxserver/docker-medusa) (1 day ago)
+- [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki (1 day ago)
+- [linuxserver/docker-jackett](https://github.com/linuxserver/docker-jackett) (1 day ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [linuxserver/docker-apprise-api](https://github.com/linuxserver/docker-apprise-api) - A container for the apprise api server (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to 3.18 (master)](https://github.com/linuxserver/docker-jackett/pull/143) on [linuxserver/docker-jackett](https://github.com/linuxserver/docker-jackett) (1 day ago)
-- [Rebase to 3.18 (develop)](https://github.com/linuxserver/docker-jackett/pull/142) on [linuxserver/docker-jackett](https://github.com/linuxserver/docker-jackett) (1 day ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-booksonic-air/pull/19) on [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) (1 day ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-apprise-api/pull/9) on [linuxserver/docker-apprise-api](https://github.com/linuxserver/docker-apprise-api) (1 day ago)
-- [Release FlexGet](https://github.com/linuxserver/cstate/pull/167) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
+- [Rebase to 3.18 (develop)](https://github.com/linuxserver/docker-bazarr/pull/116) on [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 day ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-medusa/pull/50) on [linuxserver/docker-medusa](https://github.com/linuxserver/docker-medusa) (1 day ago)
+- [Rebase to 3.18 (master)](https://github.com/linuxserver/docker-mylar3/pull/34) on [linuxserver/docker-mylar3](https://github.com/linuxserver/docker-mylar3) (1 day ago)
+- [Rebase to 3.18 (nightly)](https://github.com/linuxserver/docker-mylar3/pull/33) on [linuxserver/docker-mylar3](https://github.com/linuxserver/docker-mylar3) (1 day ago)
+- [Rebase to 3.18 (master)](https://github.com/linuxserver/docker-jackett/pull/143) on [linuxserver/docker-jackett](https://github.com/linuxserver/docker-jackett) (2 days ago)
 
 #### 📜 My recent blog posts
 
