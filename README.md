@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-medusa](https://github.com/linuxserver/docker-medusa) (1 day ago)
-- [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki (1 day ago)
-- [linuxserver/docker-jackett](https://github.com/linuxserver/docker-jackett) (1 day ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [linuxserver/docker-apprise-api](https://github.com/linuxserver/docker-apprise-api) - A container for the apprise api server (2 days ago)
+- [linuxserver/docker-pylon](https://github.com/linuxserver/docker-pylon) (1 day ago)
+- [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) - Container for SickChill (1 day ago)
+- [linuxserver/docker-mylar3](https://github.com/linuxserver/docker-mylar3) (1 day ago)
+- [linuxserver/docker-ngircd](https://github.com/linuxserver/docker-ngircd) (1 day ago)
+- [linuxserver/docker-davos](https://github.com/linuxserver/docker-davos) - Docker configuration for davos (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to 3.18 (develop)](https://github.com/linuxserver/docker-bazarr/pull/116) on [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 day ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-medusa/pull/50) on [linuxserver/docker-medusa](https://github.com/linuxserver/docker-medusa) (1 day ago)
-- [Rebase to 3.18 (master)](https://github.com/linuxserver/docker-mylar3/pull/34) on [linuxserver/docker-mylar3](https://github.com/linuxserver/docker-mylar3) (1 day ago)
-- [Rebase to 3.18 (nightly)](https://github.com/linuxserver/docker-mylar3/pull/33) on [linuxserver/docker-mylar3](https://github.com/linuxserver/docker-mylar3) (1 day ago)
-- [Rebase to 3.18 (master)](https://github.com/linuxserver/docker-jackett/pull/143) on [linuxserver/docker-jackett](https://github.com/linuxserver/docker-jackett) (2 days ago)
+- [Rebease to 3.18](https://github.com/linuxserver/docker-znc/pull/43) on [linuxserver/docker-znc](https://github.com/linuxserver/docker-znc) (1 day ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-ubooquity/pull/45) on [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (1 day ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-sickchill/pull/51) on [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) (1 day ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-raneto/pull/21) on [linuxserver/docker-raneto](https://github.com/linuxserver/docker-raneto) (1 day ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-pylon/pull/7) on [linuxserver/docker-pylon](https://github.com/linuxserver/docker-pylon) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [nutanix/nutanix.ansible](https://github.com/nutanix/nutanix.ansible) - Official Nutanix Ansible collections (1 week ago)
+- [nutanix/nutanix.ansible](https://github.com/nutanix/nutanix.ansible) - Official Nutanix Ansible collections (2 weeks ago)
 - [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges. (2 weeks ago)
 - [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap) - Go CLI and Library for quickly mapping organization network ranges using ASN information. (2 weeks ago)
 - [sbourdeaud/nutanix](https://github.com/sbourdeaud/nutanix) (2 weeks ago)
