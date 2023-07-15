@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
-- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
-- [linuxserver/docker-pylon](https://github.com/linuxserver/docker-pylon) (2 days ago)
-- [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (2 days ago)
-- [linuxserver/docker-davos](https://github.com/linuxserver/docker-davos) - Docker configuration for davos (2 days ago)
+- [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) (1 day ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (2 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
+- [linuxserver/docker-ngircd](https://github.com/linuxserver/docker-ngircd) (3 days ago)
+- [linuxserver/docker-mylar3](https://github.com/linuxserver/docker-mylar3) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebease to 3.18](https://github.com/linuxserver/docker-znc/pull/43) on [linuxserver/docker-znc](https://github.com/linuxserver/docker-znc) (2 days ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-ubooquity/pull/45) on [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (2 days ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-sickchill/pull/51) on [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) (2 days ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-raneto/pull/21) on [linuxserver/docker-raneto](https://github.com/linuxserver/docker-raneto) (2 days ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-pylon/pull/7) on [linuxserver/docker-pylon](https://github.com/linuxserver/docker-pylon) (2 days ago)
+- [Rebease to 3.18](https://github.com/linuxserver/docker-znc/pull/43) on [linuxserver/docker-znc](https://github.com/linuxserver/docker-znc) (3 days ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-ubooquity/pull/45) on [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (3 days ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-sickchill/pull/51) on [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) (3 days ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-raneto/pull/21) on [linuxserver/docker-raneto](https://github.com/linuxserver/docker-raneto) (3 days ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-pylon/pull/7) on [linuxserver/docker-pylon](https://github.com/linuxserver/docker-pylon) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
+- [benpye/alpine-droplet](https://github.com/benpye/alpine-droplet) - Alpine Linux image generator for digital ocean (1 day ago)
 - [nutanix/nutanix.ansible](https://github.com/nutanix/nutanix.ansible) - Official Nutanix Ansible collections (2 weeks ago)
 - [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges. (2 weeks ago)
 - [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap) - Go CLI and Library for quickly mapping organization network ranges using ASN information. (2 weeks ago)
 - [sbourdeaud/nutanix](https://github.com/sbourdeaud/nutanix) (2 weeks ago)
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018. (4 weeks ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
