@@ -2,10 +2,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (2 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
-- [linuxserver/docker-dokuwiki](https://github.com/linuxserver/docker-dokuwiki) (4 days ago)
-- [thespad/actions](https://github.com/thespad/actions) (1 week ago)
+- [linuxserver/docker-flexget](https://github.com/linuxserver/docker-flexget) (1 day ago)
+- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (3 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (4 days ago)
+- [linuxserver/docker-dokuwiki](https://github.com/linuxserver/docker-dokuwiki) (5 days ago)
 - [linuxserver/docker-feed2toot](https://github.com/linuxserver/docker-feed2toot) (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,11 +18,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Deprecate nano](https://github.com/linuxserver/cstate/pull/169) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
-- [Add Authen::TacacsPlus for tacacs&#43; support](https://github.com/linuxserver/docker-smokeping/pull/157) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (3 days ago)
-- [Update built-in plugins on container update](https://github.com/linuxserver/docker-dokuwiki/pull/65) on [linuxserver/docker-dokuwiki](https://github.com/linuxserver/docker-dokuwiki) (5 days ago)
-- [Discourse issue](https://github.com/linuxserver/cstate/pull/168) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (6 days ago)
-- [Update path in readme to reflect venv](https://github.com/linuxserver/docker-feed2toot/pull/12) on [linuxserver/docker-feed2toot](https://github.com/linuxserver/docker-feed2toot) (1 week ago)
+- [Deprecate nano](https://github.com/linuxserver/cstate/pull/169) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (4 days ago)
+- [Add Authen::TacacsPlus for tacacs&#43; support](https://github.com/linuxserver/docker-smokeping/pull/157) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (4 days ago)
+- [Update built-in plugins on container update](https://github.com/linuxserver/docker-dokuwiki/pull/65) on [linuxserver/docker-dokuwiki](https://github.com/linuxserver/docker-dokuwiki) (6 days ago)
+- [Discourse issue](https://github.com/linuxserver/cstate/pull/168) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +33,11 @@
 
 #### ⭐ Recent stars
 
+- [ABaumher/galaxy-integration-steam](https://github.com/ABaumher/galaxy-integration-steam) - Integration with Steam for Galaxy (1 day ago)
+- [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas) (1 day ago)
 - [benpye/alpine-droplet](https://github.com/benpye/alpine-droplet) - Alpine Linux image generator for digital ocean (1 week ago)
-- [nutanix/nutanix.ansible](https://github.com/nutanix/nutanix.ansible) - Official Nutanix Ansible collections (3 weeks ago)
-- [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges. (4 weeks ago)
-- [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap) - Go CLI and Library for quickly mapping organization network ranges using ASN information. (4 weeks ago)
-- [sbourdeaud/nutanix](https://github.com/sbourdeaud/nutanix) (1 month ago)
+- [nutanix/nutanix.ansible](https://github.com/nutanix/nutanix.ansible) - Official Nutanix Ansible collections (4 weeks ago)
+- [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges. (1 month ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
