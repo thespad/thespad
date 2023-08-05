@@ -6,7 +6,7 @@
 - [linuxserver/docker-flexget](https://github.com/linuxserver/docker-flexget) (1 week ago)
 - [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 week ago)
 - [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
-- [linuxserver/docker-dokuwiki](https://github.com/linuxserver/docker-dokuwiki) (1 week ago)
+- [linuxserver/docker-dokuwiki](https://github.com/linuxserver/docker-dokuwiki) (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix v4 build issues.](https://github.com/linuxserver/docker-grocy/pull/69) on [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) (6 days ago)
+- [Fix v4 build issues.](https://github.com/linuxserver/docker-grocy/pull/69) on [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) (1 week ago)
 - [Add mod debug support](https://github.com/linuxserver/docker-mods/pull/735) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 week ago)
 - [Ensure geoip directory exists](https://github.com/linuxserver/docker-mods/pull/734) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 week ago)
 - [Deprecate nano](https://github.com/linuxserver/cstate/pull/169) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
