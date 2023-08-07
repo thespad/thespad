@@ -2,26 +2,27 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 week ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
 - [linuxserver/docker-flexget](https://github.com/linuxserver/docker-flexget) (1 week ago)
-- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 week ago)
+- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (2 weeks ago)
 - [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 weeks ago)
 - [linuxserver/docker-dokuwiki](https://github.com/linuxserver/docker-dokuwiki) (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [thespad/docker-apcupsd_exporter](https://github.com/thespad/docker-apcupsd_exporter)
 - [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) - Multi-arch kopia server docker image 
 - [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer)
 - [thespad/docker-twitfix](https://github.com/thespad/docker-twitfix) - Multi-arch twitfix docker image
 - [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) - A really dumb proof of concept that bundles the nightly branch builds of all of the *arr applications into a single container.
-- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) - Multi-arch whisparr docker image
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix coredns env logic](https://github.com/linuxserver/docker-wireguard/pull/293) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [Initial release](https://github.com/thespad/docker-apcupsd_exporter/pull/1) on [thespad/docker-apcupsd_exporter](https://github.com/thespad/docker-apcupsd_exporter) (1 day ago)
+- [Rebase to 3.17](https://github.com/linuxserver/docker-grocy/pull/71) on [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) (1 day ago)
+- [Fix coredns env logic](https://github.com/linuxserver/docker-wireguard/pull/293) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (2 days ago)
 - [Fix v4 build issues.](https://github.com/linuxserver/docker-grocy/pull/69) on [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) (1 week ago)
 - [Add mod debug support](https://github.com/linuxserver/docker-mods/pull/735) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 week ago)
-- [Ensure geoip directory exists](https://github.com/linuxserver/docker-mods/pull/734) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -33,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [mdlayher/apcupsd_exporter](https://github.com/mdlayher/apcupsd_exporter) - Prometheus exporter that exposes metrics from apcupsd&#39;s NIS. MIT Licensed. (1 day ago)
+- [mdlayher/apcupsd_exporter](https://github.com/mdlayher/apcupsd_exporter) - Prometheus exporter that exposes metrics from apcupsd&#39;s NIS. MIT Licensed. (2 days ago)
 - [ABaumher/galaxy-integration-steam](https://github.com/ABaumher/galaxy-integration-steam) - Integration with Steam for Galaxy (1 week ago)
 - [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas) (1 week ago)
 - [benpye/alpine-droplet](https://github.com/benpye/alpine-droplet) - Alpine Linux image generator for digital ocean (3 weeks ago)
