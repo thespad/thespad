@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-transmission](https://github.com/linuxserver/docker-transmission) (1 day ago)
 - [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 day ago)
-- [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (1 day ago)
-- [linuxserver/docker-lazylibrarian](https://github.com/linuxserver/docker-lazylibrarian) (1 day ago)
-- [linuxserver/docker-mylar3](https://github.com/linuxserver/docker-mylar3) (1 day ago)
+- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (2 days ago)
+- [linuxserver/docker-mylar3](https://github.com/linuxserver/docker-mylar3) (2 days ago)
+- [linuxserver/docker-sickgear](https://github.com/linuxserver/docker-sickgear) (2 days ago)
+- [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Bump unrar to 6.2.10 (develop)](https://github.com/linuxserver/docker-sickgear/pull/33) on [linuxserver/docker-sickgear](https://github.com/linuxserver/docker-sickgear) (1 day ago)
-- [Bump unrar to 6.2.10 (develop)](https://github.com/linuxserver/docker-pyload-ng/pull/39) on [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) (1 day ago)
-- [Bump unrar to 6.2.10](https://github.com/linuxserver/docker-sickchill/pull/53) on [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) (1 day ago)
-- [Bump unrar to 6.2.10](https://github.com/linuxserver/docker-lazylibrarian/pull/69) on [linuxserver/docker-lazylibrarian](https://github.com/linuxserver/docker-lazylibrarian) (1 day ago)
-- [Bump unrar to 6.2.10](https://github.com/linuxserver/docker-deluge/pull/187) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 day ago)
+- [Fix readme arch table](https://github.com/linuxserver/docker-deluge/pull/188) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 day ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-bazarr/pull/119) on [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 day ago)
+- [Bump unrar to 6.2.10 (develop)](https://github.com/linuxserver/docker-sickgear/pull/33) on [linuxserver/docker-sickgear](https://github.com/linuxserver/docker-sickgear) (2 days ago)
+- [Bump unrar to 6.2.10 (develop)](https://github.com/linuxserver/docker-pyload-ng/pull/39) on [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) (2 days ago)
+- [Bump unrar to 6.2.10](https://github.com/linuxserver/docker-sickchill/pull/53) on [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [mdlayher/apcupsd_exporter](https://github.com/mdlayher/apcupsd_exporter) - Prometheus exporter that exposes metrics from apcupsd&#39;s NIS. MIT Licensed. (6 days ago)
+- [mdlayher/apcupsd_exporter](https://github.com/mdlayher/apcupsd_exporter) - Prometheus exporter that exposes metrics from apcupsd&#39;s NIS. MIT Licensed. (1 week ago)
 - [ABaumher/galaxy-integration-steam](https://github.com/ABaumher/galaxy-integration-steam) - Integration with Steam for Galaxy (2 weeks ago)
 - [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas) (2 weeks ago)
 - [benpye/alpine-droplet](https://github.com/benpye/alpine-droplet) - Alpine Linux image generator for digital ocean (4 weeks ago)
