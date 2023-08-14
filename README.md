@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 day ago)
-- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (2 days ago)
-- [linuxserver/docker-mylar3](https://github.com/linuxserver/docker-mylar3) (3 days ago)
-- [linuxserver/docker-sickgear](https://github.com/linuxserver/docker-sickgear) (3 days ago)
-- [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (3 days ago)
+- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (2 days ago)
+- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (3 days ago)
+- [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) - Container for SickChill (4 days ago)
+- [linuxserver/docker-medusa](https://github.com/linuxserver/docker-medusa) (4 days ago)
+- [linuxserver/docker-mylar3](https://github.com/linuxserver/docker-mylar3) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix readme arch table](https://github.com/linuxserver/docker-deluge/pull/188) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (2 days ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-bazarr/pull/119) on [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (2 days ago)
-- [Bump unrar to 6.2.10 (develop)](https://github.com/linuxserver/docker-sickgear/pull/33) on [linuxserver/docker-sickgear](https://github.com/linuxserver/docker-sickgear) (3 days ago)
-- [Bump unrar to 6.2.10 (develop)](https://github.com/linuxserver/docker-pyload-ng/pull/39) on [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) (3 days ago)
-- [Bump unrar to 6.2.10](https://github.com/linuxserver/docker-sickchill/pull/53) on [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) (3 days ago)
+- [Fix readme arch table](https://github.com/linuxserver/docker-deluge/pull/188) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (3 days ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-bazarr/pull/119) on [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (3 days ago)
+- [Bump unrar to 6.2.10 (develop)](https://github.com/linuxserver/docker-sickgear/pull/33) on [linuxserver/docker-sickgear](https://github.com/linuxserver/docker-sickgear) (4 days ago)
+- [Bump unrar to 6.2.10 (develop)](https://github.com/linuxserver/docker-pyload-ng/pull/39) on [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) (4 days ago)
+- [Bump unrar to 6.2.10](https://github.com/linuxserver/docker-sickchill/pull/53) on [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) (4 days ago)
 
 #### 📜 My recent blog posts
 
