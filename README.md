@@ -2,8 +2,8 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (5 days ago)
-- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (6 days ago)
+- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (6 days ago)
+- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 week ago)
 - [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) - Container for SickChill (1 week ago)
 - [linuxserver/docker-medusa](https://github.com/linuxserver/docker-medusa) (1 week ago)
 - [linuxserver/docker-mylar3](https://github.com/linuxserver/docker-mylar3) (1 week ago)
@@ -18,15 +18,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix readme arch table](https://github.com/linuxserver/docker-deluge/pull/188) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (6 days ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-bazarr/pull/119) on [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (6 days ago)
+- [Fix readme arch table](https://github.com/linuxserver/docker-deluge/pull/188) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 week ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-bazarr/pull/119) on [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 week ago)
 - [Bump unrar to 6.2.10 (develop)](https://github.com/linuxserver/docker-sickgear/pull/33) on [linuxserver/docker-sickgear](https://github.com/linuxserver/docker-sickgear) (1 week ago)
 - [Bump unrar to 6.2.10 (develop)](https://github.com/linuxserver/docker-pyload-ng/pull/39) on [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) (1 week ago)
 - [Bump unrar to 6.2.10](https://github.com/linuxserver/docker-sickchill/pull/53) on [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [Practical Configuration of Traefik as a Reverse Proxy For Docker - Updated for 2023](https://spad.uk/practical-configuration-of-traefik-as-a-reverse-proxy-for-docker-updated-for-2023/) (4 weeks ago)
+- [Practical Configuration of Traefik as a Reverse Proxy For Docker - Updated for 2023](https://spad.uk/practical-configuration-of-traefik-as-a-reverse-proxy-for-docker-updated-for-2023/) (1 month ago)
 - [Really Simple Network Bridging With qemu](https://spad.uk/really-simple-network-bridging-with-qemu/) (11 months ago)
 - [Changing Docker Daemon Options For Fun and Profit](https://spad.uk/changing-docker-daemon-options-for-fun-and-profit/) (1 year ago)
 - [Integrating CrowdSec with Traefik &amp; Discord](https://spad.uk/integrating-crowdsec-with-traefik-discord/) (2 years ago)
