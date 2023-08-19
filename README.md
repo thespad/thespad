@@ -2,7 +2,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (6 days ago)
+- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 week ago)
 - [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 week ago)
 - [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) - Container for SickChill (1 week ago)
 - [linuxserver/docker-medusa](https://github.com/linuxserver/docker-medusa) (1 week ago)
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [mdlayher/apcupsd_exporter](https://github.com/mdlayher/apcupsd_exporter) - Prometheus exporter that exposes metrics from apcupsd&#39;s NIS. MIT Licensed. (1 week ago)
+- [mdlayher/apcupsd_exporter](https://github.com/mdlayher/apcupsd_exporter) - Prometheus exporter that exposes metrics from apcupsd&#39;s NIS. MIT Licensed. (2 weeks ago)
 - [ABaumher/galaxy-integration-steam](https://github.com/ABaumher/galaxy-integration-steam) - Integration with Steam for Galaxy (3 weeks ago)
 - [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas) (3 weeks ago)
 - [benpye/alpine-droplet](https://github.com/benpye/alpine-droplet) - Alpine Linux image generator for digital ocean (1 month ago)
