@@ -2,9 +2,9 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (3 days ago)
+- [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (4 days ago)
 - [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 week ago)
-- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 week ago)
+- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (2 weeks ago)
 - [linuxserver/docker-transmission](https://github.com/linuxserver/docker-transmission) (2 weeks ago)
 - [linuxserver/docker-medusa](https://github.com/linuxserver/docker-medusa) (2 weeks ago)
 
@@ -18,10 +18,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Remove unnecessary cached files (glitch)](https://github.com/linuxserver/docker-mastodon/pull/63) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
-- [Remove unnecessary cached files (develop)](https://github.com/linuxserver/docker-mastodon/pull/62) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
-- [Fix readme arch table](https://github.com/linuxserver/docker-deluge/pull/188) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 week ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-bazarr/pull/119) on [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 week ago)
+- [Remove unnecessary cached files (glitch)](https://github.com/linuxserver/docker-mastodon/pull/63) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (4 days ago)
+- [Remove unnecessary cached files (develop)](https://github.com/linuxserver/docker-mastodon/pull/62) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (4 days ago)
+- [Fix readme arch table](https://github.com/linuxserver/docker-deluge/pull/188) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (2 weeks ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-bazarr/pull/119) on [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (2 weeks ago)
 - [Bump unrar to 6.2.10 (develop)](https://github.com/linuxserver/docker-sickgear/pull/33) on [linuxserver/docker-sickgear](https://github.com/linuxserver/docker-sickgear) (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -35,8 +35,8 @@
 #### ⭐ Recent stars
 
 - [mdlayher/apcupsd_exporter](https://github.com/mdlayher/apcupsd_exporter) - Prometheus exporter that exposes metrics from apcupsd&#39;s NIS. MIT Licensed. (2 weeks ago)
-- [ABaumher/galaxy-integration-steam](https://github.com/ABaumher/galaxy-integration-steam) - Integration with Steam for Galaxy (4 weeks ago)
-- [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas) (4 weeks ago)
+- [ABaumher/galaxy-integration-steam](https://github.com/ABaumher/galaxy-integration-steam) - Integration with Steam for Galaxy (1 month ago)
+- [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas) (1 month ago)
 - [benpye/alpine-droplet](https://github.com/benpye/alpine-droplet) - Alpine Linux image generator for digital ocean (1 month ago)
 - [nutanix/nutanix.ansible](https://github.com/nutanix/nutanix.ansible) - Official Nutanix Ansible collections (1 month ago)
 
