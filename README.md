@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (5 days ago)
+- [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (1 day ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (6 days ago)
 - [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (2 weeks ago)
 - [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (2 weeks ago)
-- [linuxserver/docker-transmission](https://github.com/linuxserver/docker-transmission) (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add security.md](https://github.com/linuxserver/.github/pull/1) on [linuxserver/.github](https://github.com/linuxserver/.github) (1 day ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-wikijs/pull/28) on [linuxserver/docker-wikijs](https://github.com/linuxserver/docker-wikijs) (1 day ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-htpcmanager/pull/31) on [linuxserver/docker-htpcmanager](https://github.com/linuxserver/docker-htpcmanager) (1 day ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-habridge/pull/21) on [linuxserver/docker-habridge](https://github.com/linuxserver/docker-habridge) (1 day ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-ddclient/pull/71) on [linuxserver/docker-ddclient](https://github.com/linuxserver/docker-ddclient) (1 day ago)
+- [Fix breaking emoji in changelog](https://github.com/linuxserver/docker-webcord/pull/7) on [linuxserver/docker-webcord](https://github.com/linuxserver/docker-webcord) (1 day ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-synclounge/pull/15) on [linuxserver/docker-synclounge](https://github.com/linuxserver/docker-synclounge) (1 day ago)
+- [Rebase back to 3.18](https://github.com/linuxserver/docker-tautulli/pull/122) on [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (1 day ago)
+- [Add security.md](https://github.com/linuxserver/.github/pull/1) on [linuxserver/.github](https://github.com/linuxserver/.github) (2 days ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-wikijs/pull/28) on [linuxserver/docker-wikijs](https://github.com/linuxserver/docker-wikijs) (2 days ago)
 
 #### 📜 My recent blog posts
 
