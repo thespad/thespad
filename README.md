@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (1 day ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (6 days ago)
+- [linuxserver/docker-webcord](https://github.com/linuxserver/docker-webcord) - Docker container for the WebCord Desktop application (1 day ago)
+- [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (2 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
+- [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (1 week ago)
 - [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (2 weeks ago)
-- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix breaking emoji in changelog](https://github.com/linuxserver/docker-webcord/pull/7) on [linuxserver/docker-webcord](https://github.com/linuxserver/docker-webcord) (1 day ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-synclounge/pull/15) on [linuxserver/docker-synclounge](https://github.com/linuxserver/docker-synclounge) (1 day ago)
-- [Rebase back to 3.18](https://github.com/linuxserver/docker-tautulli/pull/122) on [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (1 day ago)
-- [Add security.md](https://github.com/linuxserver/.github/pull/1) on [linuxserver/.github](https://github.com/linuxserver/.github) (2 days ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-wikijs/pull/28) on [linuxserver/docker-wikijs](https://github.com/linuxserver/docker-wikijs) (2 days ago)
+- [Fix breaking emoji in changelog](https://github.com/linuxserver/docker-webcord/pull/7) on [linuxserver/docker-webcord](https://github.com/linuxserver/docker-webcord) (2 days ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-synclounge/pull/15) on [linuxserver/docker-synclounge](https://github.com/linuxserver/docker-synclounge) (2 days ago)
+- [Rebase back to 3.18](https://github.com/linuxserver/docker-tautulli/pull/122) on [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (2 days ago)
+- [Add security.md](https://github.com/linuxserver/.github/pull/1) on [linuxserver/.github](https://github.com/linuxserver/.github) (3 days ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-wikijs/pull/28) on [linuxserver/docker-wikijs](https://github.com/linuxserver/docker-wikijs) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -38,7 +38,7 @@
 - [ABaumher/galaxy-integration-steam](https://github.com/ABaumher/galaxy-integration-steam) - Integration with Steam for Galaxy (1 month ago)
 - [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas) (1 month ago)
 - [benpye/alpine-droplet](https://github.com/benpye/alpine-droplet) - Alpine Linux image generator for digital ocean (1 month ago)
-- [nutanix/nutanix.ansible](https://github.com/nutanix/nutanix.ansible) - Official Nutanix Ansible collections (1 month ago)
+- [nutanix/nutanix.ansible](https://github.com/nutanix/nutanix.ansible) - Official Nutanix Ansible collections (2 months ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
