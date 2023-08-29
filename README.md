@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-webcord](https://github.com/linuxserver/docker-webcord) - Docker container for the WebCord Desktop application (1 day ago)
-- [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (2 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
-- [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (1 week ago)
-- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (2 weeks ago)
+- [linuxserver/docker-webcord](https://github.com/linuxserver/docker-webcord) - Docker container for the WebCord Desktop application (2 days ago)
+- [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (3 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (4 days ago)
+- [linuxserver/docker-wikijs](https://github.com/linuxserver/docker-wikijs) (4 days ago)
+- [linuxserver/docker-daapd](https://github.com/linuxserver/docker-daapd) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix breaking emoji in changelog](https://github.com/linuxserver/docker-webcord/pull/7) on [linuxserver/docker-webcord](https://github.com/linuxserver/docker-webcord) (2 days ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-synclounge/pull/15) on [linuxserver/docker-synclounge](https://github.com/linuxserver/docker-synclounge) (2 days ago)
-- [Rebase back to 3.18](https://github.com/linuxserver/docker-tautulli/pull/122) on [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (2 days ago)
-- [Add security.md](https://github.com/linuxserver/.github/pull/1) on [linuxserver/.github](https://github.com/linuxserver/.github) (3 days ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-wikijs/pull/28) on [linuxserver/docker-wikijs](https://github.com/linuxserver/docker-wikijs) (3 days ago)
+- [Fix breaking emoji in changelog](https://github.com/linuxserver/docker-webcord/pull/7) on [linuxserver/docker-webcord](https://github.com/linuxserver/docker-webcord) (3 days ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-synclounge/pull/15) on [linuxserver/docker-synclounge](https://github.com/linuxserver/docker-synclounge) (3 days ago)
+- [Rebase back to 3.18](https://github.com/linuxserver/docker-tautulli/pull/122) on [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (3 days ago)
+- [Add security.md](https://github.com/linuxserver/.github/pull/1) on [linuxserver/.github](https://github.com/linuxserver/.github) (4 days ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-wikijs/pull/28) on [linuxserver/docker-wikijs](https://github.com/linuxserver/docker-wikijs) (4 days ago)
 
 #### 📜 My recent blog posts
 
