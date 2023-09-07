@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (1 day ago)
-- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
 - [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (1 day ago)
-- [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki (2 days ago)
-- [thespad/docker-planka](https://github.com/thespad/docker-planka) - Multi-arch Planka docker image (2 days ago)
+- [linuxserver/docker-phpmyadmin](https://github.com/linuxserver/docker-phpmyadmin) (1 day ago)
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release Unifi NA, deprecate Unifi Controller, resolve mariadb issue](https://github.com/linuxserver/cstate/pull/178) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [Initial Release](https://github.com/linuxserver/docker-unifi-network-application/pull/1) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
-- [Rebase to Alpine 3.18](https://github.com/linuxserver/docker-syncthing/pull/68) on [linuxserver/docker-syncthing](https://github.com/linuxserver/docker-syncthing) (1 day ago)
-- [Update deps for 7.5&#43; (mongoless)](https://github.com/linuxserver/docker-unifi-controller/pull/220) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (2 days ago)
-- [Update deps for 7.5&#43;](https://github.com/linuxserver/docker-unifi-controller/pull/219) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (2 days ago)
+- [Add deprecation warning to readme](https://github.com/linuxserver/docker-unifi-controller/pull/223) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (1 day ago)
+- [Add deprecation warning (mongoless)](https://github.com/linuxserver/docker-unifi-controller/pull/222) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (1 day ago)
+- [Add deprecation warning](https://github.com/linuxserver/docker-unifi-controller/pull/221) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (1 day ago)
+- [Add support for custom themes](https://github.com/linuxserver/docker-phpmyadmin/pull/30) on [linuxserver/docker-phpmyadmin](https://github.com/linuxserver/docker-phpmyadmin) (1 day ago)
+- [Release Unifi NA, deprecate Unifi Controller, resolve mariadb issue](https://github.com/linuxserver/cstate/pull/178) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,9 +34,9 @@
 
 #### ⭐ Recent stars
 
-- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux. (2 days ago)
-- [cesanta/docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2 (2 days ago)
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (6 days ago)
+- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux. (3 days ago)
+- [cesanta/docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2 (3 days ago)
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (1 week ago)
 - [mdlayher/apcupsd_exporter](https://github.com/mdlayher/apcupsd_exporter) - Prometheus exporter that exposes metrics from apcupsd&#39;s NIS. MIT Licensed. (1 month ago)
 - [ABaumher/galaxy-integration-steam](https://github.com/ABaumher/galaxy-integration-steam) - Integration with Steam for Galaxy (1 month ago)
 
