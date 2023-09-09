@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (1 day ago)
-- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [linuxserver/docker-phpmyadmin](https://github.com/linuxserver/docker-phpmyadmin) (2 days ago)
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (3 days ago)
+- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (2 days ago)
+- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
+- [linuxserver/docker-phpmyadmin](https://github.com/linuxserver/docker-phpmyadmin) (3 days ago)
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add readme note about MONGO_INITDB_ROOT](https://github.com/linuxserver/docker-unifi-network-application/pull/3) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
-- [Sed password last to avoid issues with special characters](https://github.com/linuxserver/docker-unifi-network-application/pull/2) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
-- [Add deprecation warning to readme](https://github.com/linuxserver/docker-unifi-controller/pull/223) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (2 days ago)
-- [Add deprecation warning (mongoless)](https://github.com/linuxserver/docker-unifi-controller/pull/222) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (2 days ago)
-- [Add deprecation warning](https://github.com/linuxserver/docker-unifi-controller/pull/221) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (2 days ago)
+- [Add readme note about MONGO_INITDB_ROOT](https://github.com/linuxserver/docker-unifi-network-application/pull/3) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
+- [Sed password last to avoid issues with special characters](https://github.com/linuxserver/docker-unifi-network-application/pull/2) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
+- [Add deprecation warning to readme](https://github.com/linuxserver/docker-unifi-controller/pull/223) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (3 days ago)
+- [Add deprecation warning (mongoless)](https://github.com/linuxserver/docker-unifi-controller/pull/222) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (3 days ago)
+- [Add deprecation warning](https://github.com/linuxserver/docker-unifi-controller/pull/221) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
-- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux. (4 days ago)
-- [cesanta/docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2 (4 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux. (5 days ago)
+- [cesanta/docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2 (5 days ago)
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (1 week ago)
 - [mdlayher/apcupsd_exporter](https://github.com/mdlayher/apcupsd_exporter) - Prometheus exporter that exposes metrics from apcupsd&#39;s NIS. MIT Licensed. (1 month ago)
-- [ABaumher/galaxy-integration-steam](https://github.com/ABaumher/galaxy-integration-steam) - Integration with Steam for Galaxy (1 month ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
