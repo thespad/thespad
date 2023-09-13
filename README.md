@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (5 days ago)
-- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (5 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (6 days ago)
-- [linuxserver/docker-phpmyadmin](https://github.com/linuxserver/docker-phpmyadmin) (6 days ago)
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (1 week ago)
+- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
+- [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin) (1 day ago)
+- [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications (1 day ago)
+- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (6 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add readme note about MONGO_INITDB_ROOT](https://github.com/linuxserver/docker-unifi-network-application/pull/3) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (5 days ago)
-- [Sed password last to avoid issues with special characters](https://github.com/linuxserver/docker-unifi-network-application/pull/2) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (5 days ago)
-- [Add deprecation warning to readme](https://github.com/linuxserver/docker-unifi-controller/pull/223) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (6 days ago)
-- [Add deprecation warning (mongoless)](https://github.com/linuxserver/docker-unifi-controller/pull/222) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (6 days ago)
-- [Add deprecation warning](https://github.com/linuxserver/docker-unifi-controller/pull/221) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (6 days ago)
+- [Add note about URL encoding username/passwords](https://github.com/linuxserver/docker-unifi-network-application/pull/7) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
+- [Add readme note about MONGO_INITDB_ROOT](https://github.com/linuxserver/docker-unifi-network-application/pull/3) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (6 days ago)
+- [Sed password last to avoid issues with special characters](https://github.com/linuxserver/docker-unifi-network-application/pull/2) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (6 days ago)
+- [Add deprecation warning to readme](https://github.com/linuxserver/docker-unifi-controller/pull/223) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (1 week ago)
+- [Add deprecation warning (mongoless)](https://github.com/linuxserver/docker-unifi-controller/pull/222) on [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -34,9 +34,9 @@
 
 #### ⭐ Recent stars
 
-- [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks (2 days ago)
-- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker! (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
+- [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks (3 days ago)
+- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker! (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux. (1 week ago)
 - [cesanta/docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2 (1 week ago)
 
