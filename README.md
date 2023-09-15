@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
-- [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 day ago)
-- [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin) (2 days ago)
-- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
-- [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications (2 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
+- [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (2 days ago)
+- [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin) (3 days ago)
+- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (3 days ago)
+- [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Deprecate 3.14](https://github.com/linuxserver/docker-baseimage-alpine/pull/196) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 day ago)
-- [Add deprecation notice](https://github.com/linuxserver/docker-mods/pull/762) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
-- [Switch to par2cmdline-turbo (master)](https://github.com/linuxserver/docker-sabnzbd/pull/207) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 day ago)
-- [Switch to par2cmdline-turbo (unstable)](https://github.com/linuxserver/docker-sabnzbd/pull/206) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 day ago)
-- [Switch to par2cmdline-turbo (nightly)](https://github.com/linuxserver/docker-sabnzbd/pull/205) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 day ago)
+- [Deprecate 3.14](https://github.com/linuxserver/docker-baseimage-alpine/pull/196) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (2 days ago)
+- [Add deprecation notice](https://github.com/linuxserver/docker-mods/pull/762) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (2 days ago)
+- [Switch to par2cmdline-turbo (master)](https://github.com/linuxserver/docker-sabnzbd/pull/207) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (2 days ago)
+- [Switch to par2cmdline-turbo (unstable)](https://github.com/linuxserver/docker-sabnzbd/pull/206) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (2 days ago)
+- [Switch to par2cmdline-turbo (nightly)](https://github.com/linuxserver/docker-sabnzbd/pull/205) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,9 +34,9 @@
 
 #### ⭐ Recent stars
 
-- [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks (4 days ago)
-- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker! (4 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
+- [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks (5 days ago)
+- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker! (5 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux. (1 week ago)
 - [cesanta/docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2 (1 week ago)
 
