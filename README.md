@@ -2,8 +2,8 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
-- [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (6 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (3 days ago)
+- [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 week ago)
 - [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin) (1 week ago)
 - [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 week ago)
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications (1 week ago)
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Deprecate 3.14](https://github.com/linuxserver/docker-baseimage-alpine/pull/196) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (6 days ago)
-- [Add deprecation notice](https://github.com/linuxserver/docker-mods/pull/762) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (6 days ago)
-- [Switch to par2cmdline-turbo (master)](https://github.com/linuxserver/docker-sabnzbd/pull/207) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (6 days ago)
-- [Switch to par2cmdline-turbo (unstable)](https://github.com/linuxserver/docker-sabnzbd/pull/206) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (6 days ago)
-- [Switch to par2cmdline-turbo (nightly)](https://github.com/linuxserver/docker-sabnzbd/pull/205) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (6 days ago)
+- [Fix build prefix to install to venv](https://github.com/linuxserver/docker-beets/pull/109) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (1 day ago)
+- [Install unrar from linuxserver repo](https://github.com/linuxserver/docker-bazarr/pull/122) on [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 day ago)
+- [Deprecate 3.14](https://github.com/linuxserver/docker-baseimage-alpine/pull/196) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 week ago)
+- [Add deprecation notice](https://github.com/linuxserver/docker-mods/pull/762) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 week ago)
+- [Switch to par2cmdline-turbo (master)](https://github.com/linuxserver/docker-sabnzbd/pull/207) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 week ago)
 
 #### 📜 My recent blog posts
 
