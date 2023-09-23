@@ -2,10 +2,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 day ago)
-- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
-- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 day ago)
-- [thespad/actions](https://github.com/thespad/actions) (5 days ago)
+- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (today)
+- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (2 days ago)
+- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (2 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (6 days ago)
 - [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Try and improve chowns to speed things up](https://github.com/linuxserver/docker-mastodon/pull/69) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
-- [Try and improve chowns to speed things up](https://github.com/linuxserver/docker-mastodon/pull/68) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
-- [Fix nokogiri build on arm](https://github.com/linuxserver/docker-mastodon/pull/67) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
-- [Fix okogiri build on arm](https://github.com/linuxserver/docker-mastodon/pull/66) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
-- [Try and improve chowns to speed things up](https://github.com/linuxserver/docker-mastodon/pull/65) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
+- [Try and improve chowns to speed things up](https://github.com/linuxserver/docker-mastodon/pull/69) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (2 days ago)
+- [Try and improve chowns to speed things up](https://github.com/linuxserver/docker-mastodon/pull/68) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (2 days ago)
+- [Fix nokogiri build on arm](https://github.com/linuxserver/docker-mastodon/pull/67) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (2 days ago)
+- [Fix okogiri build on arm](https://github.com/linuxserver/docker-mastodon/pull/66) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (2 days ago)
+- [Try and improve chowns to speed things up](https://github.com/linuxserver/docker-mastodon/pull/65) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (2 days ago)
 
 #### 📜 My recent blog posts
 
