@@ -2,9 +2,9 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
-- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (3 days ago)
-- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (3 days ago)
+- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (2 days ago)
+- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (4 days ago)
+- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (4 days ago)
 - [thespad/actions](https://github.com/thespad/actions) (1 week ago)
 - [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 week ago)
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Try and improve chowns to speed things up](https://github.com/linuxserver/docker-mastodon/pull/69) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
-- [Try and improve chowns to speed things up](https://github.com/linuxserver/docker-mastodon/pull/68) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
-- [Fix nokogiri build on arm](https://github.com/linuxserver/docker-mastodon/pull/67) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
-- [Fix okogiri build on arm](https://github.com/linuxserver/docker-mastodon/pull/66) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
-- [Try and improve chowns to speed things up](https://github.com/linuxserver/docker-mastodon/pull/65) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
+- [Deprecate](https://github.com/linuxserver/docker-gmail-order-bot/pull/1) on [linuxserver/docker-gmail-order-bot](https://github.com/linuxserver/docker-gmail-order-bot) (1 day ago)
+- [Try and improve chowns to speed things up](https://github.com/linuxserver/docker-mastodon/pull/69) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (4 days ago)
+- [Try and improve chowns to speed things up](https://github.com/linuxserver/docker-mastodon/pull/68) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (4 days ago)
+- [Fix nokogiri build on arm](https://github.com/linuxserver/docker-mastodon/pull/67) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (4 days ago)
+- [Fix okogiri build on arm](https://github.com/linuxserver/docker-mastodon/pull/66) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -37,8 +37,8 @@
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks (2 weeks ago)
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker! (2 weeks ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 weeks ago)
-- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux. (2 weeks ago)
-- [cesanta/docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2 (2 weeks ago)
+- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux. (3 weeks ago)
+- [cesanta/docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2 (3 weeks ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
