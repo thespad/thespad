@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
-- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (2 days ago)
-- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (6 days ago)
-- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (6 days ago)
+- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (2 days ago)
+- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (3 days ago)
+- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 week ago)
+- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Tweak readme wording to try and help users with first time setup](https://github.com/linuxserver/docker-unifi-network-application/pull/18) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
-- [Support no_chown option (main)](https://github.com/linuxserver/docker-mastodon/pull/72) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (2 days ago)
-- [Support no_chown option (develop)](https://github.com/linuxserver/docker-mastodon/pull/71) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (2 days ago)
-- [Support no_chown option (glitch)](https://github.com/linuxserver/docker-mastodon/pull/70) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (2 days ago)
-- [Deprecate](https://github.com/linuxserver/docker-gmail-order-bot/pull/1) on [linuxserver/docker-gmail-order-bot](https://github.com/linuxserver/docker-gmail-order-bot) (3 days ago)
+- [Tweak readme wording to try and help users with first time setup](https://github.com/linuxserver/docker-unifi-network-application/pull/18) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (3 days ago)
+- [Support no_chown option (main)](https://github.com/linuxserver/docker-mastodon/pull/72) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
+- [Support no_chown option (develop)](https://github.com/linuxserver/docker-mastodon/pull/71) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
+- [Support no_chown option (glitch)](https://github.com/linuxserver/docker-mastodon/pull/70) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
+- [Deprecate](https://github.com/linuxserver/docker-gmail-order-bot/pull/1) on [linuxserver/docker-gmail-order-bot](https://github.com/linuxserver/docker-gmail-order-bot) (4 days ago)
 
 #### 📜 My recent blog posts
 
