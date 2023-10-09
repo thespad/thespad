@@ -2,10 +2,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (2 days ago)
-- [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (4 days ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (5 days ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (6 days ago)
+- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (3 days ago)
+- [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (5 days ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (6 days ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 week ago)
 - [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add support policy](https://github.com/linuxserver/docker-documentation/pull/150) on [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) (2 days ago)
-- [Don&#39;t try and download asc file for release artifact](https://github.com/linuxserver/docker-mullvad-browser/pull/6) on [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (4 days ago)
-- [Don&#39;t get confused by firefox extension download](https://github.com/linuxserver/docker-mullvad-browser/pull/5) on [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (6 days ago)
-- [Tweak readme wording to try and help users with first time setup](https://github.com/linuxserver/docker-unifi-network-application/pull/18) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 week ago)
-- [Support no_chown option (main)](https://github.com/linuxserver/docker-mastodon/pull/72) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 week ago)
+- [Add support policy](https://github.com/linuxserver/docker-documentation/pull/150) on [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) (3 days ago)
+- [Don&#39;t try and download asc file for release artifact](https://github.com/linuxserver/docker-mullvad-browser/pull/6) on [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (5 days ago)
+- [Don&#39;t get confused by firefox extension download](https://github.com/linuxserver/docker-mullvad-browser/pull/5) on [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (1 week ago)
+- [Tweak readme wording to try and help users with first time setup](https://github.com/linuxserver/docker-unifi-network-application/pull/18) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 weeks ago)
+- [Support no_chown option (main)](https://github.com/linuxserver/docker-mastodon/pull/72) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
+- [oetiker/znapzend](https://github.com/oetiker/znapzend) - zfs backup with remote capabilities and mbuffer integration. (1 day ago)
+- [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested. (1 day ago)
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks (4 weeks ago)
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker! (4 weeks ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 month ago)
-- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux. (1 month ago)
-- [cesanta/docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2 (1 month ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
