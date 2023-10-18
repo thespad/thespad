@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 day ago)
-- [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (1 day ago)
-- [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (4 days ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (5 days ago)
-- [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) - The repo behind... (6 days ago)
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (1 day ago)
+- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [linuxserver/docker-headphones](https://github.com/linuxserver/docker-headphones) (1 day ago)
+- [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update default config to match master](https://github.com/linuxserver/docker-beets/pull/113) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (1 day ago)
-- [Add mesa-va-gallium package for AMD transcoding](https://github.com/linuxserver/docker-tvheadend/pull/242) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 day ago)
-- [Switch to their new artifact naming format](https://github.com/linuxserver/docker-mullvad-browser/pull/7) on [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (4 days ago)
-- [Add support policy](https://github.com/linuxserver/docker-documentation/pull/150) on [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) (1 week ago)
-- [Don&#39;t try and download asc file for release artifact](https://github.com/linuxserver/docker-mullvad-browser/pull/6) on [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (1 week ago)
+- [Deprecate](https://github.com/linuxserver/docker-headphones/pull/60) on [linuxserver/docker-headphones](https://github.com/linuxserver/docker-headphones) (1 day ago)
+- [Deprecate headphones](https://github.com/linuxserver/cstate/pull/182) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [Update default config to match master](https://github.com/linuxserver/docker-beets/pull/113) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (2 days ago)
+- [Add mesa-va-gallium package for AMD transcoding](https://github.com/linuxserver/docker-tvheadend/pull/242) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (2 days ago)
+- [Switch to their new artifact naming format](https://github.com/linuxserver/docker-mullvad-browser/pull/7) on [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
-- [lorenz/zfs_exporter](https://github.com/lorenz/zfs_exporter) - ZFS exporter [WIP] (5 days ago)
-- [serjs/socks5-server](https://github.com/serjs/socks5-server) (6 days ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 day ago)
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 day ago)
+- [lorenz/zfs_exporter](https://github.com/lorenz/zfs_exporter) - ZFS exporter [WIP] (6 days ago)
+- [serjs/socks5-server](https://github.com/serjs/socks5-server) (1 week ago)
 - [oetiker/znapzend](https://github.com/oetiker/znapzend) - zfs backup with remote capabilities and mbuffer integration. (1 week ago)
-- [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested. (1 week ago)
-- [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks (1 month ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
