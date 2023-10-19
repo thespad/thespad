@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (1 day ago)
-- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [linuxserver/docker-headphones](https://github.com/linuxserver/docker-headphones) (1 day ago)
-- [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (2 days ago)
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (2 days ago)
+- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [linuxserver/docker-headphones](https://github.com/linuxserver/docker-headphones) (2 days ago)
+- [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Deprecate](https://github.com/linuxserver/docker-headphones/pull/60) on [linuxserver/docker-headphones](https://github.com/linuxserver/docker-headphones) (1 day ago)
-- [Deprecate headphones](https://github.com/linuxserver/cstate/pull/182) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [Update default config to match master](https://github.com/linuxserver/docker-beets/pull/113) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (2 days ago)
-- [Add mesa-va-gallium package for AMD transcoding](https://github.com/linuxserver/docker-tvheadend/pull/242) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (2 days ago)
-- [Switch to their new artifact naming format](https://github.com/linuxserver/docker-mullvad-browser/pull/7) on [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (5 days ago)
+- [Deprecate](https://github.com/linuxserver/docker-headphones/pull/60) on [linuxserver/docker-headphones](https://github.com/linuxserver/docker-headphones) (2 days ago)
+- [Deprecate headphones](https://github.com/linuxserver/cstate/pull/182) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [Update default config to match master](https://github.com/linuxserver/docker-beets/pull/113) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (3 days ago)
+- [Add mesa-va-gallium package for AMD transcoding](https://github.com/linuxserver/docker-tvheadend/pull/242) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (3 days ago)
+- [Switch to their new artifact naming format](https://github.com/linuxserver/docker-mullvad-browser/pull/7) on [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,9 +34,9 @@
 
 #### ⭐ Recent stars
 
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 day ago)
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 day ago)
-- [lorenz/zfs_exporter](https://github.com/lorenz/zfs_exporter) - ZFS exporter [WIP] (6 days ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (2 days ago)
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (2 days ago)
+- [lorenz/zfs_exporter](https://github.com/lorenz/zfs_exporter) - ZFS exporter [WIP] (1 week ago)
 - [serjs/socks5-server](https://github.com/serjs/socks5-server) (1 week ago)
 - [oetiker/znapzend](https://github.com/oetiker/znapzend) - zfs backup with remote capabilities and mbuffer integration. (1 week ago)
 
