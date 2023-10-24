@@ -2,10 +2,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (6 days ago)
-- [linuxserver/docker-headphones](https://github.com/linuxserver/docker-headphones) (6 days ago)
-- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (6 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (6 days ago)
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (1 week ago)
+- [linuxserver/docker-headphones](https://github.com/linuxserver/docker-headphones) (1 week ago)
+- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 week ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
 - [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Deprecate](https://github.com/linuxserver/docker-headphones/pull/60) on [linuxserver/docker-headphones](https://github.com/linuxserver/docker-headphones) (6 days ago)
-- [Deprecate headphones](https://github.com/linuxserver/cstate/pull/182) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (6 days ago)
+- [Deprecate](https://github.com/linuxserver/docker-headphones/pull/60) on [linuxserver/docker-headphones](https://github.com/linuxserver/docker-headphones) (1 week ago)
+- [Deprecate headphones](https://github.com/linuxserver/cstate/pull/182) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
 - [Update default config to match master](https://github.com/linuxserver/docker-beets/pull/113) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (1 week ago)
 - [Add mesa-va-gallium package for AMD transcoding](https://github.com/linuxserver/docker-tvheadend/pull/242) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 week ago)
 - [Switch to their new artifact naming format](https://github.com/linuxserver/docker-mullvad-browser/pull/7) on [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (1 week ago)
@@ -34,9 +34,9 @@
 
 #### ⭐ Recent stars
 
-- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (2 days ago)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (6 days ago)
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (6 days ago)
+- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (3 days ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 week ago)
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 week ago)
 - [lorenz/zfs_exporter](https://github.com/lorenz/zfs_exporter) - ZFS exporter [WIP] (1 week ago)
 - [serjs/socks5-server](https://github.com/serjs/socks5-server) (1 week ago)
 
