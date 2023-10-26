@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
-- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (4 days ago)
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (1 day ago)
+- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (5 days ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 week ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 week ago)
-- [lorenz/zfs_exporter](https://github.com/lorenz/zfs_exporter) - ZFS exporter [WIP] (1 week ago)
-- [serjs/socks5-server](https://github.com/serjs/socks5-server) (2 weeks ago)
+- [lorenz/zfs_exporter](https://github.com/lorenz/zfs_exporter) - ZFS exporter [WIP] (2 weeks ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
