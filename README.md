@@ -22,7 +22,7 @@
 - [Deprecate headphones](https://github.com/linuxserver/cstate/pull/182) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
 - [Update default config to match master](https://github.com/linuxserver/docker-beets/pull/113) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (1 week ago)
 - [Add mesa-va-gallium package for AMD transcoding](https://github.com/linuxserver/docker-tvheadend/pull/242) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 week ago)
-- [Switch to their new artifact naming format](https://github.com/linuxserver/docker-mullvad-browser/pull/7) on [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (1 week ago)
+- [Switch to their new artifact naming format](https://github.com/linuxserver/docker-mullvad-browser/pull/7) on [linuxserver/docker-mullvad-browser](https://github.com/linuxserver/docker-mullvad-browser) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent stars
 
-- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (1 day ago)
-- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (5 days ago)
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (2 days ago)
+- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (6 days ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 week ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 week ago)
 - [lorenz/zfs_exporter](https://github.com/lorenz/zfs_exporter) - ZFS exporter [WIP] (2 weeks ago)
