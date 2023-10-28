@@ -34,8 +34,8 @@
 
 #### ⭐ Recent stars
 
-- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (2 days ago)
-- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (6 days ago)
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (3 days ago)
+- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (1 week ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 week ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 week ago)
 - [lorenz/zfs_exporter](https://github.com/lorenz/zfs_exporter) - ZFS exporter [WIP] (2 weeks ago)
