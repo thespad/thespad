@@ -16,7 +16,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://spad.uk/rss/" 5}}
+{{range rss "https://www.spad.uk/posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
