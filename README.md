@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 day ago)
-- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
-- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (2 days ago)
-- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 weeks ago)
+- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (3 days ago)
+- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (3 days ago)
+- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (4 days ago)
+- [linuxserver/docker-headphones](https://github.com/linuxserver/docker-headphones) (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Enhance db wait startup check](https://github.com/linuxserver/docker-unifi-network-application/pull/27) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
-- [Provide IPv4-only option for legacy hosts](https://github.com/thespad/docker-py-kms/pull/33) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (2 days ago)
-- [Bump JRE to 17 for v3](https://github.com/linuxserver/docker-ubooquity/pull/48) on [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (2 days ago)
-- [Add libyaml packages](https://github.com/linuxserver/docker-mastodon/pull/76) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
-- [Add libyaml packages](https://github.com/linuxserver/docker-mastodon/pull/75) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
+- [Default to sanitizing newlines in secrets](https://github.com/linuxserver/docker-baseimage-alpine/pull/198) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 day ago)
+- [Install ruby-rdoc explicitly](https://github.com/linuxserver/docker-mastodon/pull/81) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
+- [Install ruby-rdoc explicitly](https://github.com/linuxserver/docker-mastodon/pull/80) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
+- [Install rdoc explicitly so it doesn&#39;t get removed by cleanup](https://github.com/linuxserver/docker-mastodon/pull/79) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
+- [Enhance db wait startup check](https://github.com/linuxserver/docker-unifi-network-application/pull/27) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent stars
 
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme. (2 days ago)
-- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (6 days ago)
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme. (3 days ago)
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (1 week ago)
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (1 week ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (2 weeks ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (2 weeks ago)
