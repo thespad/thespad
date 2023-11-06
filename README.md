@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (2 days ago)
-- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (3 days ago)
-- [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server) (4 days ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (5 days ago)
-- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 week ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (3 days ago)
+- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (4 days ago)
+- [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server) (5 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Remove watchtower from readme](https://github.com/linuxserver/docker-jenkins-builder/pull/222) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
-- [Use full JRE packages](https://github.com/linuxserver/docker-ubooquity/pull/49) on [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (2 days ago)
-- [[code-server-nodejs] Update repo, drop support for node 14](https://github.com/linuxserver/docker-mods/pull/780) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (4 days ago)
-- [Allow logging to stdout](https://github.com/linuxserver/docker-openssh-server/pull/78) on [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server) (4 days ago)
-- [Default to sanitizing newlines in secrets](https://github.com/linuxserver/docker-baseimage-alpine/pull/198) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (5 days ago)
+- [Remove unnecessary packages](https://github.com/linuxserver/docker-wireguard/pull/310) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [Remove watchtower from readme](https://github.com/linuxserver/docker-jenkins-builder/pull/222) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (2 days ago)
+- [Use full JRE packages](https://github.com/linuxserver/docker-ubooquity/pull/49) on [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (3 days ago)
+- [[code-server-nodejs] Update repo, drop support for node 14](https://github.com/linuxserver/docker-mods/pull/780) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (5 days ago)
+- [Allow logging to stdout](https://github.com/linuxserver/docker-openssh-server/pull/78) on [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [furlongm/patchman](https://github.com/furlongm/patchman) - Patchman is a Linux Patch Status Monitoring System (3 days ago)
+- [furlongm/patchman](https://github.com/furlongm/patchman) - Patchman is a Linux Patch Status Monitoring System (4 days ago)
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme. (1 week ago)
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (1 week ago)
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (2 weeks ago)
