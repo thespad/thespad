@@ -2,10 +2,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (3 days ago)
-- [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (5 days ago)
-- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (6 days ago)
+- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (4 days ago)
+- [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (6 days ago)
+- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 week ago)
 - [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server) (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,10 +18,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix init permissions for older mongo versions](https://github.com/linuxserver/docker-unifi-network-application/pull/28) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
-- [Remove unnecessary packages](https://github.com/linuxserver/docker-wireguard/pull/310) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (3 days ago)
-- [Remove watchtower from readme](https://github.com/linuxserver/docker-jenkins-builder/pull/222) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (4 days ago)
-- [Use full JRE packages](https://github.com/linuxserver/docker-ubooquity/pull/49) on [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (5 days ago)
+- [Fix init permissions for older mongo versions](https://github.com/linuxserver/docker-unifi-network-application/pull/28) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
+- [Remove unnecessary packages](https://github.com/linuxserver/docker-wireguard/pull/310) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (4 days ago)
+- [Remove watchtower from readme](https://github.com/linuxserver/docker-jenkins-builder/pull/222) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (5 days ago)
+- [Use full JRE packages](https://github.com/linuxserver/docker-ubooquity/pull/49) on [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (6 days ago)
 - [[code-server-nodejs] Update repo, drop support for node 14](https://github.com/linuxserver/docker-mods/pull/780) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [furlongm/patchman](https://github.com/furlongm/patchman) - Patchman is a Linux Patch Status Monitoring System (6 days ago)
+- [furlongm/patchman](https://github.com/furlongm/patchman) - Patchman is a Linux Patch Status Monitoring System (1 week ago)
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme. (1 week ago)
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (2 weeks ago)
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (2 weeks ago)
