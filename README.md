@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) - The repo behind... (1 day ago)
-- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (3 days ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (5 days ago)
+- [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (1 day ago)
+- [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) - The repo behind... (2 days ago)
+- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (4 days ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (6 days ago)
 - [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (1 week ago)
-- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update wording, remove refs to our image, general tidy](https://github.com/linuxserver/docker-documentation/pull/162) on [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) (1 day ago)
-- [Fix init permissions for older mongo versions](https://github.com/linuxserver/docker-unifi-network-application/pull/28) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (3 days ago)
-- [Remove unnecessary packages](https://github.com/linuxserver/docker-wireguard/pull/310) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (5 days ago)
-- [Remove watchtower from readme](https://github.com/linuxserver/docker-jenkins-builder/pull/222) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (6 days ago)
-- [Use full JRE packages](https://github.com/linuxserver/docker-ubooquity/pull/49) on [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (1 week ago)
+- [Rebase to Alpine 3.18](https://github.com/linuxserver/docker-quassel-core/pull/54) on [linuxserver/docker-quassel-core](https://github.com/linuxserver/docker-quassel-core) (1 day ago)
+- [Fix change to upstream settings file name, rebase to 3.18](https://github.com/linuxserver/docker-quassel-web/pull/13) on [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (1 day ago)
+- [Default to sanitizing newlines in secrets (bullseye)](https://github.com/linuxserver/docker-baseimage-debian/pull/6) on [linuxserver/docker-baseimage-debian](https://github.com/linuxserver/docker-baseimage-debian) (1 day ago)
+- [Default to sanitizing newlines in secrets (38)](https://github.com/linuxserver/docker-baseimage-fedora/pull/30) on [linuxserver/docker-baseimage-fedora](https://github.com/linuxserver/docker-baseimage-fedora) (1 day ago)
+- [Default to sanitizing newlines in secrets (focal)](https://github.com/linuxserver/docker-baseimage-ubuntu/pull/149) on [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -37,7 +37,7 @@
 - [furlongm/patchman](https://github.com/furlongm/patchman) - Patchman is a Linux Patch Status Monitoring System (1 week ago)
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme. (1 week ago)
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (2 weeks ago)
-- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (2 weeks ago)
+- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (3 weeks ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (3 weeks ago)
 
 #### 📫 How to reach me
