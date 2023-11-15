@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
-- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 day ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [linuxserver/docker-quassel-core](https://github.com/linuxserver/docker-quassel-core) - Docker container of quassel-core IRC application. (3 days ago)
-- [linuxserver/docker-baseimage-arch](https://github.com/linuxserver/docker-baseimage-arch) (3 days ago)
+- [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (1 day ago)
+- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (2 days ago)
+- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (2 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
+- [linuxserver/docker-baseimage-arch](https://github.com/linuxserver/docker-baseimage-arch) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Unifi deprecation reminder](https://github.com/linuxserver/cstate/pull/184) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [Deprecate 3.15](https://github.com/linuxserver/docker-baseimage-alpine/pull/210) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (3 days ago)
-- [Rebase to Alpine 3.18](https://github.com/linuxserver/docker-quassel-core/pull/54) on [linuxserver/docker-quassel-core](https://github.com/linuxserver/docker-quassel-core) (4 days ago)
-- [Fix change to upstream settings file name, rebase to 3.18](https://github.com/linuxserver/docker-quassel-web/pull/13) on [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (4 days ago)
-- [Warn about newlines in secrets (bullseye)](https://github.com/linuxserver/docker-baseimage-debian/pull/6) on [linuxserver/docker-baseimage-debian](https://github.com/linuxserver/docker-baseimage-debian) (4 days ago)
+- [Handle SQLite dbs](https://github.com/linuxserver/docker-hishtory-server/pull/6) on [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (1 day ago)
+- [Unifi deprecation reminder](https://github.com/linuxserver/cstate/pull/184) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
+- [Deprecate 3.15](https://github.com/linuxserver/docker-baseimage-alpine/pull/210) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (4 days ago)
+- [Rebase to Alpine 3.18](https://github.com/linuxserver/docker-quassel-core/pull/54) on [linuxserver/docker-quassel-core](https://github.com/linuxserver/docker-quassel-core) (5 days ago)
+- [Fix change to upstream settings file name, rebase to 3.18](https://github.com/linuxserver/docker-quassel-web/pull/13) on [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
+- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI (1 day ago)
 - [furlongm/patchman](https://github.com/furlongm/patchman) - Patchman is a Linux Patch Status Monitoring System (1 week ago)
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme. (2 weeks ago)
-- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (2 weeks ago)
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (3 weeks ago)
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (3 weeks ago)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (4 weeks ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
