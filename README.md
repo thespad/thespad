@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (2 days ago)
-- [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (3 days ago)
-- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (4 days ago)
-- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (4 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (5 days ago)
+- [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (1 day ago)
+- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (3 days ago)
+- [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (4 days ago)
+- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (5 days ago)
+- [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update manifest docs link](https://github.com/linuxserver/docker-jenkins-builder/pull/223) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (2 days ago)
-- [Handle SQLite dbs](https://github.com/linuxserver/docker-hishtory-server/pull/6) on [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (3 days ago)
-- [Unifi deprecation reminder](https://github.com/linuxserver/cstate/pull/184) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (5 days ago)
-- [Deprecate 3.15](https://github.com/linuxserver/docker-baseimage-alpine/pull/210) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (6 days ago)
-- [Rebase to Alpine 3.18](https://github.com/linuxserver/docker-quassel-core/pull/54) on [linuxserver/docker-quassel-core](https://github.com/linuxserver/docker-quassel-core) (1 week ago)
+- [Fix protocol regression](https://github.com/linuxserver/docker-quassel-web/pull/15) on [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (1 day ago)
+- [Use API token instead of global key](https://github.com/linuxserver/docker-documentation/pull/163) on [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) (1 day ago)
+- [Remove schema version from sample compose](https://github.com/linuxserver/docker-jenkins-builder/pull/224) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
+- [Update manifest docs link](https://github.com/linuxserver/docker-jenkins-builder/pull/223) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (3 days ago)
+- [Handle SQLite dbs](https://github.com/linuxserver/docker-hishtory-server/pull/6) on [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
-- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI (3 days ago)
+- [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby! (1 day ago)
+- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI (4 days ago)
 - [furlongm/patchman](https://github.com/furlongm/patchman) - Patchman is a Linux Patch Status Monitoring System (2 weeks ago)
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme. (2 weeks ago)
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (3 weeks ago)
-- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (3 weeks ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
