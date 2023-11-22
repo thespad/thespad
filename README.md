@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
-- [thespad/actions](https://github.com/thespad/actions) (3 days ago)
-- [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (3 days ago)
-- [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) - The repo behind... (3 days ago)
-- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (6 days ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (2 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (4 days ago)
+- [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (4 days ago)
+- [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) - The repo behind... (4 days ago)
+- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,10 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix missing line continuation in URL_BASE sed](https://github.com/linuxserver/docker-quassel-web/pull/17) on [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (3 days ago)
-- [Fix protocol regression](https://github.com/linuxserver/docker-quassel-web/pull/15) on [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (4 days ago)
-- [Use API token instead of global key](https://github.com/linuxserver/docker-documentation/pull/163) on [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) (4 days ago)
-- [Remove schema version from sample compose](https://github.com/linuxserver/docker-jenkins-builder/pull/224) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (4 days ago)
+- [Don&#39;t set an authsource unless one is specified by the user](https://github.com/linuxserver/docker-unifi-network-application/pull/37) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
+- [Fix missing line continuation in URL_BASE sed](https://github.com/linuxserver/docker-quassel-web/pull/17) on [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (4 days ago)
+- [Fix protocol regression](https://github.com/linuxserver/docker-quassel-web/pull/15) on [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (5 days ago)
+- [Use API token instead of global key](https://github.com/linuxserver/docker-documentation/pull/163) on [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) (5 days ago)
+- [Remove schema version from sample compose](https://github.com/linuxserver/docker-jenkins-builder/pull/224) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -33,11 +34,11 @@
 
 #### ⭐ Recent stars
 
-- [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby! (4 days ago)
+- [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby! (5 days ago)
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI (1 week ago)
 - [furlongm/patchman](https://github.com/furlongm/patchman) - Patchman is a Linux Patch Status Monitoring System (2 weeks ago)
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme. (3 weeks ago)
-- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (3 weeks ago)
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr (4 weeks ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
