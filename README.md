@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-domoticz](https://github.com/linuxserver/docker-domoticz) (1 day ago)
 - [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (2 days ago)
-- [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (2 days ago)
-- [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki (5 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
+- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
+- [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (1 day ago)
+- [linuxserver/docker-piper](https://github.com/linuxserver/docker-piper) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release piper &amp; faster-whisper](https://github.com/linuxserver/cstate/pull/196) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [Tweak description](https://github.com/linuxserver/docker-faster-whisper/pull/2) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
-- [Deprecate](https://github.com/linuxserver/docker-domoticz/pull/108) on [linuxserver/docker-domoticz](https://github.com/linuxserver/docker-domoticz) (1 day ago)
-- [Deprecate domoticz](https://github.com/linuxserver/cstate/pull/195) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [Bump tcpping to 1.8](https://github.com/linuxserver/docker-smokeping/pull/165) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 day ago)
+- [Add donate links](https://github.com/linuxserver/docker-adguardhome-sync/pull/11) on [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (1 day ago)
+- [Release piper &amp; faster-whisper](https://github.com/linuxserver/cstate/pull/196) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [Tweak description](https://github.com/linuxserver/docker-faster-whisper/pull/2) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (2 days ago)
+- [Deprecate](https://github.com/linuxserver/docker-domoticz/pull/108) on [linuxserver/docker-domoticz](https://github.com/linuxserver/docker-domoticz) (2 days ago)
+- [Deprecate domoticz](https://github.com/linuxserver/cstate/pull/195) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,9 +34,9 @@
 
 #### ⭐ Recent stars
 
-- [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant (5 days ago)
+- [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant (6 days ago)
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla&#39;s Speedtest service. (1 week ago)
-- [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby! (1 week ago)
+- [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby! (2 weeks ago)
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI (2 weeks ago)
 - [furlongm/patchman](https://github.com/furlongm/patchman) - Patchman is a Linux Patch Status Monitoring System (4 weeks ago)
 
