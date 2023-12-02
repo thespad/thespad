@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
-- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
-- [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (1 day ago)
-- [linuxserver/docker-piper](https://github.com/linuxserver/docker-piper) (1 day ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
+- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (2 days ago)
+- [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add donate links](https://github.com/linuxserver/docker-adguardhome-sync/pull/11) on [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (1 day ago)
-- [Release piper &amp; faster-whisper](https://github.com/linuxserver/cstate/pull/196) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [Tweak description](https://github.com/linuxserver/docker-faster-whisper/pull/2) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (2 days ago)
-- [Deprecate](https://github.com/linuxserver/docker-domoticz/pull/108) on [linuxserver/docker-domoticz](https://github.com/linuxserver/docker-domoticz) (2 days ago)
-- [Deprecate domoticz](https://github.com/linuxserver/cstate/pull/195) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [General tidy](https://github.com/linuxserver/docker-faster-whisper/pull/3) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
+- [General tidy](https://github.com/linuxserver/docker-piper/pull/2) on [linuxserver/docker-piper](https://github.com/linuxserver/docker-piper) (1 day ago)
+- [Add donate links](https://github.com/linuxserver/docker-adguardhome-sync/pull/11) on [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (2 days ago)
+- [Release piper &amp; faster-whisper](https://github.com/linuxserver/cstate/pull/196) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
+- [Tweak description](https://github.com/linuxserver/docker-faster-whisper/pull/2) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
-- [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant (6 days ago)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. (1 day ago)
+- [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant (1 week ago)
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla&#39;s Speedtest service. (1 week ago)
 - [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby! (2 weeks ago)
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI (2 weeks ago)
-- [furlongm/patchman](https://github.com/furlongm/patchman) - Patchman is a Linux Patch Status Monitoring System (4 weeks ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
