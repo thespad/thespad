@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-piper](https://github.com/linuxserver/docker-piper) (1 day ago)
-- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (2 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
-- [thespad/actions](https://github.com/thespad/actions) (3 days ago)
+- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 day ago)
+- [linuxserver/docker-piper](https://github.com/linuxserver/docker-piper) (2 days ago)
+- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (2 days ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (3 days ago)
+- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [General tidy](https://github.com/linuxserver/docker-faster-whisper/pull/3) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (2 days ago)
-- [General tidy](https://github.com/linuxserver/docker-piper/pull/2) on [linuxserver/docker-piper](https://github.com/linuxserver/docker-piper) (2 days ago)
-- [Add donate links](https://github.com/linuxserver/docker-adguardhome-sync/pull/11) on [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (3 days ago)
-- [Release piper &amp; faster-whisper](https://github.com/linuxserver/cstate/pull/196) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (4 days ago)
-- [Tweak description](https://github.com/linuxserver/docker-faster-whisper/pull/2) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (4 days ago)
+- [Add speedtest-tracker logo](https://github.com/linuxserver/docker-templates/pull/301) on [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 day ago)
+- [General tidy](https://github.com/linuxserver/docker-faster-whisper/pull/3) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (3 days ago)
+- [General tidy](https://github.com/linuxserver/docker-piper/pull/2) on [linuxserver/docker-piper](https://github.com/linuxserver/docker-piper) (3 days ago)
+- [Add donate links](https://github.com/linuxserver/docker-adguardhome-sync/pull/11) on [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (4 days ago)
+- [Release piper &amp; faster-whisper](https://github.com/linuxserver/cstate/pull/196) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. (2 days ago)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. (3 days ago)
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant (1 week ago)
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla&#39;s Speedtest service. (1 week ago)
 - [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby! (2 weeks ago)
