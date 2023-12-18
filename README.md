@@ -2,9 +2,9 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-mstream](https://github.com/linuxserver/docker-mstream) (2 days ago)
-- [linuxserver/docker-piwigo](https://github.com/linuxserver/docker-piwigo) (5 days ago)
-- [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (6 days ago)
+- [linuxserver/docker-mstream](https://github.com/linuxserver/docker-mstream) (3 days ago)
+- [linuxserver/docker-piwigo](https://github.com/linuxserver/docker-piwigo) (6 days ago)
+- [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (1 week ago)
 - [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 week ago)
 - [linuxserver/docker-minetest](https://github.com/linuxserver/docker-minetest) (1 week ago)
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to 3.19](https://github.com/linuxserver/docker-mstream/pull/20) on [linuxserver/docker-mstream](https://github.com/linuxserver/docker-mstream) (5 days ago)
-- [Rebase to 3.18](https://github.com/linuxserver/docker-piwigo/pull/74) on [linuxserver/docker-piwigo](https://github.com/linuxserver/docker-piwigo) (5 days ago)
+- [Fix model names in readme](https://github.com/linuxserver/docker-faster-whisper/pull/5) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
+- [Rebase to 3.19](https://github.com/linuxserver/docker-mstream/pull/20) on [linuxserver/docker-mstream](https://github.com/linuxserver/docker-mstream) (6 days ago)
+- [Rebase to 3.18](https://github.com/linuxserver/docker-piwigo/pull/74) on [linuxserver/docker-piwigo](https://github.com/linuxserver/docker-piwigo) (6 days ago)
 - [Rebase to 3.19, switch from commits to releases](https://github.com/linuxserver/docker-minisatip/pull/30) on [linuxserver/docker-minisatip](https://github.com/linuxserver/docker-minisatip) (1 week ago)
 - [Bump s6 to 3.1.6.2](https://github.com/linuxserver/docker-baseimage-alpine/pull/221) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 week ago)
-- [Release 3.19](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/154) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (1 week ago)
 
 #### 📜 My recent blog posts
 
