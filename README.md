@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (1 week ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 week ago)
-- [thespad/actions](https://github.com/thespad/actions) (1 week ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 week ago)
-- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 week ago)
+- [thespad/actions](https://github.com/thespad/actions) (today)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (1 day ago)
+- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) - Multi-arch whisparr docker image (1 day ago)
+- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) - A really dumb proof of concept that bundles the nightly branch builds of all of the *arr applications into a single container. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -18,10 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rework image for v5](https://github.com/linuxserver/docker-lychee/pull/78) on [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (3 days ago)
-- [Avoid duplicate mime definition](https://github.com/linuxserver/docker-nextcloud/pull/396) on [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (1 week ago)
-- [Avoid duplicate mime definition](https://github.com/linuxserver/docker-nextcloud/pull/395) on [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (1 week ago)
-- [sync with upstream nextcloud docs](https://github.com/linuxserver/docker-nextcloud/pull/393) on [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (1 week ago)
+- [Revert &#34;Add author label, don&#39;t override description.&#34;](https://github.com/thespad/actions/pull/89) on [thespad/actions](https://github.com/thespad/actions) (today)
+- [Rebase to Alpine 3.19](https://github.com/thespad/docker-whisparr/pull/16) on [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) (1 day ago)
+- [Rebase to Alpine 3.19](https://github.com/thespad/docker-traefik-crowdsec-bouncer/pull/5) on [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (1 day ago)
+- [Rebase to Alpine 3.19](https://github.com/thespad/docker-py-kms/pull/34) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (1 day ago)
+- [Rebase to Alpine 3.19](https://github.com/thespad/docker-planka/pull/3) on [thespad/docker-planka](https://github.com/thespad/docker-planka) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -34,7 +35,7 @@
 #### ⭐ Recent stars
 
 - [aserper/masto-rss](https://github.com/aserper/masto-rss) - A Mastodon bot that posts RSS updates to a Mastodon account (3 weeks ago)
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. (4 weeks ago)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. (1 month ago)
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant (1 month ago)
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla&#39;s Speedtest service. (1 month ago)
 - [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby! (1 month ago)
