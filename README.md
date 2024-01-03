@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 day ago)
-- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (1 day ago)
-- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
-- [thespad/docker-dive](https://github.com/thespad/docker-dive) - Multi-arch dive docker image (3 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (2 days ago)
+- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) (2 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (3 days ago)
+- [thespad/docker-apcupsd_exporter](https://github.com/thespad/docker-apcupsd_exporter) - Multi-arch apcupds_exporter docker image (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Revert &#34;Add author label, don&#39;t override description.&#34;](https://github.com/thespad/actions/pull/89) on [thespad/actions](https://github.com/thespad/actions) (2 days ago)
-- [Rebase to Alpine 3.19](https://github.com/thespad/docker-whisparr/pull/16) on [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) (3 days ago)
-- [Rebase to Alpine 3.19](https://github.com/thespad/docker-traefik-crowdsec-bouncer/pull/5) on [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (3 days ago)
-- [Rebase to Alpine 3.19](https://github.com/thespad/docker-py-kms/pull/34) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (3 days ago)
-- [Rebase to Alpine 3.19](https://github.com/thespad/docker-planka/pull/3) on [thespad/docker-planka](https://github.com/thespad/docker-planka) (3 days ago)
+- [Revert &#34;Add author label, don&#39;t override description.&#34;](https://github.com/thespad/actions/pull/89) on [thespad/actions](https://github.com/thespad/actions) (3 days ago)
+- [Rebase to Alpine 3.19](https://github.com/thespad/docker-whisparr/pull/16) on [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) (4 days ago)
+- [Rebase to Alpine 3.19](https://github.com/thespad/docker-traefik-crowdsec-bouncer/pull/5) on [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (4 days ago)
+- [Rebase to Alpine 3.19](https://github.com/thespad/docker-py-kms/pull/34) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (4 days ago)
+- [Rebase to Alpine 3.19](https://github.com/thespad/docker-planka/pull/3) on [thespad/docker-planka](https://github.com/thespad/docker-planka) (4 days ago)
 
 #### 📜 My recent blog posts
 
