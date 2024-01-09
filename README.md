@@ -2,10 +2,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (1 day ago)
-- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
-- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (1 day ago)
-- [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) - Multi-arch kopia server docker image  (1 day ago)
+- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (2 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
+- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (2 days ago)
+- [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) - Multi-arch kopia server docker image  (2 days ago)
 - [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Bump to 6.2.12 and use Alpine 3.19](https://github.com/linuxserver/docker-unrar/pull/2) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (1 day ago)
-- [Deprecate Focal Branch](https://github.com/linuxserver/docker-baseimage-ubuntu/pull/156) on [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (1 day ago)
-- [Use awk as grep -P isn&#39;t available with busybox](https://github.com/linuxserver/docker-mods/pull/814) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (2 days ago)
-- [Support arbitrary registries, sideloading mods, and multiarch mods](https://github.com/linuxserver/docker-mods/pull/810) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (5 days ago)
-- [Revert &#34;Add author label, don&#39;t override description.&#34;](https://github.com/thespad/actions/pull/89) on [thespad/actions](https://github.com/thespad/actions) (1 week ago)
+- [Initial release of GPU branch](https://github.com/linuxserver/docker-faster-whisper/pull/6) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
+- [Bump to 6.2.12 and use Alpine 3.19](https://github.com/linuxserver/docker-unrar/pull/2) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (2 days ago)
+- [Deprecate Focal Branch](https://github.com/linuxserver/docker-baseimage-ubuntu/pull/156) on [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (2 days ago)
+- [Use awk as grep -P isn&#39;t available with busybox](https://github.com/linuxserver/docker-mods/pull/814) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (3 days ago)
+- [Support arbitrary registries, sideloading mods, and multiarch mods](https://github.com/linuxserver/docker-mods/pull/810) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [RUB-NDS/Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner) - This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper &#34;Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation&#34;. (5 days ago)
+- [RUB-NDS/Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner) - This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper &#34;Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation&#34;. (6 days ago)
 - [aserper/masto-rss](https://github.com/aserper/masto-rss) - A Mastodon bot that posts RSS updates to a Mastodon account (1 month ago)
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. (1 month ago)
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant (1 month ago)
