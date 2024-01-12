@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (2 days ago)
-- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
-- [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) - Multi-arch kopia server docker image  (4 days ago)
-- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (4 days ago)
-- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (4 days ago)
+- [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (1 day ago)
+- [thespad/actions](https://github.com/thespad/actions) (3 days ago)
+- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (5 days ago)
+- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (5 days ago)
+- [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) - Multi-arch kopia server docker image  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Initial release of GPU branch](https://github.com/linuxserver/docker-faster-whisper/pull/6) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (3 days ago)
-- [Bump to 6.2.12 and use Alpine 3.19](https://github.com/linuxserver/docker-unrar/pull/2) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (4 days ago)
-- [Deprecate Focal Branch](https://github.com/linuxserver/docker-baseimage-ubuntu/pull/156) on [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (4 days ago)
-- [Use awk as grep -P isn&#39;t available with busybox](https://github.com/linuxserver/docker-mods/pull/814) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (5 days ago)
-- [Support arbitrary registries, sideloading mods, and multiarch mods](https://github.com/linuxserver/docker-mods/pull/810) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 week ago)
+- [Restore non-pdo DB packages to stop diagnostic warnings](https://github.com/linuxserver/docker-lychee/pull/79) on [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (1 day ago)
+- [Initial release of GPU branch](https://github.com/linuxserver/docker-faster-whisper/pull/6) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (4 days ago)
+- [Bump to 6.2.12 and use Alpine 3.19](https://github.com/linuxserver/docker-unrar/pull/2) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (5 days ago)
+- [Deprecate Focal Branch](https://github.com/linuxserver/docker-baseimage-ubuntu/pull/156) on [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (5 days ago)
+- [Use awk as grep -P isn&#39;t available with busybox](https://github.com/linuxserver/docker-mods/pull/814) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [packruler/traefik-themepark](https://github.com/packruler/traefik-themepark) - Easily add theme-park.dev themes to supported applications (2 days ago)
+- [packruler/traefik-themepark](https://github.com/packruler/traefik-themepark) - Easily add theme-park.dev themes to supported applications (3 days ago)
 - [RUB-NDS/Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner) - This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper &#34;Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation&#34;. (1 week ago)
 - [aserper/masto-rss](https://github.com/aserper/masto-rss) - A Mastodon bot that posts RSS updates to a Mastodon account (1 month ago)
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. (1 month ago)
