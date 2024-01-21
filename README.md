@@ -2,9 +2,9 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 day ago)
-- [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (2 days ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (3 days ago)
+- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (2 days ago)
+- [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (3 days ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (4 days ago)
 - [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
 - [thespad/actions](https://github.com/thespad/actions) (1 week ago)
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Initial release](https://github.com/linuxserver/docker-monica/pull/1) on [linuxserver/docker-monica](https://github.com/linuxserver/docker-monica) (1 day ago)
-- [Release monica](https://github.com/linuxserver/cstate/pull/205) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [Add monica logo](https://github.com/linuxserver/docker-templates/pull/304) on [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 day ago)
-- [Add php83-sodium](https://github.com/linuxserver/docker-lychee/pull/81) on [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (2 days ago)
-- [Do persist static themes directory](https://github.com/linuxserver/docker-xbackbone/pull/33) on [linuxserver/docker-xbackbone](https://github.com/linuxserver/docker-xbackbone) (5 days ago)
+- [Initial release](https://github.com/linuxserver/docker-monica/pull/1) on [linuxserver/docker-monica](https://github.com/linuxserver/docker-monica) (2 days ago)
+- [Release monica](https://github.com/linuxserver/cstate/pull/205) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [Add monica logo](https://github.com/linuxserver/docker-templates/pull/304) on [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (2 days ago)
+- [Add php83-sodium](https://github.com/linuxserver/docker-lychee/pull/81) on [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (3 days ago)
+- [Do persist static themes directory](https://github.com/linuxserver/docker-xbackbone/pull/33) on [linuxserver/docker-xbackbone](https://github.com/linuxserver/docker-xbackbone) (6 days ago)
 
 #### 📜 My recent blog posts
 
