@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (2 days ago)
-- [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (3 days ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (4 days ago)
+- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) - A really dumb proof of concept that bundles the nightly branch builds of all of the *arr applications into a single container. (1 day ago)
+- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (3 days ago)
+- [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (4 days ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (5 days ago)
 - [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
-- [thespad/actions](https://github.com/thespad/actions) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Initial release](https://github.com/linuxserver/docker-monica/pull/1) on [linuxserver/docker-monica](https://github.com/linuxserver/docker-monica) (2 days ago)
-- [Release monica](https://github.com/linuxserver/cstate/pull/205) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [Add monica logo](https://github.com/linuxserver/docker-templates/pull/304) on [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (2 days ago)
-- [Add php83-sodium](https://github.com/linuxserver/docker-lychee/pull/81) on [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (3 days ago)
-- [Do persist static themes directory](https://github.com/linuxserver/docker-xbackbone/pull/33) on [linuxserver/docker-xbackbone](https://github.com/linuxserver/docker-xbackbone) (6 days ago)
+- [Update Sonarr URLs](https://github.com/thespad/docker-arr-in-one/pull/14) on [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) (1 day ago)
+- [Initial release](https://github.com/linuxserver/docker-monica/pull/1) on [linuxserver/docker-monica](https://github.com/linuxserver/docker-monica) (3 days ago)
+- [Release monica](https://github.com/linuxserver/cstate/pull/205) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
+- [Add monica logo](https://github.com/linuxserver/docker-templates/pull/304) on [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (3 days ago)
+- [Add php83-sodium](https://github.com/linuxserver/docker-lychee/pull/81) on [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (4 days ago)
 
 #### 📜 My recent blog posts
 
