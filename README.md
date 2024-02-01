@@ -2,10 +2,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) (6 days ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (6 days ago)
+- [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (1 day ago)
+- [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) (1 week ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 week ago)
 - [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 week ago)
-- [linuxserver/docker-monica](https://github.com/linuxserver/docker-monica) (1 week ago)
 - [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Explicitly disable SDL2 as it seems to have changed to default on](https://github.com/linuxserver/docker-minetest/pull/56) on [linuxserver/docker-minetest](https://github.com/linuxserver/docker-minetest) (5 days ago)
-- [Don&#39;t write config envs to file, check for links not files](https://github.com/linuxserver/docker-healthchecks/pull/118) on [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) (1 week ago)
-- [Add healthchecks logo](https://github.com/linuxserver/docker-templates/pull/305) on [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 week ago)
-- [Handle arbitrary number of spaces/tabs in config file](https://github.com/linuxserver/docker-healthchecks/pull/117) on [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) (1 week ago)
-- [Check config file for site_root as well as env](https://github.com/linuxserver/docker-healthchecks/pull/116) on [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) (1 week ago)
+- [Remove obsolete compat packages](https://github.com/linuxserver/docker-qbittorrent/pull/286) on [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (1 day ago)
+- [Rebase to Alpine 3.19 (libtorrentv1)](https://github.com/linuxserver/docker-qbittorrent/pull/285) on [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (1 day ago)
+- [Rebase to Alpine 3.19](https://github.com/linuxserver/docker-pairdrop/pull/12) on [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (1 day ago)
+- [Rebase to Alpine 3.19](https://github.com/linuxserver/docker-hishtory-server/pull/7) on [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (1 day ago)
+- [Rebase to Alpine 3.19](https://github.com/linuxserver/docker-adguardhome-sync/pull/13) on [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (1 day ago)
 
 #### 📜 My recent blog posts
 
