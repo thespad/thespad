@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) - The repo behind... (1 day ago)
-- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
-- [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (1 day ago)
-- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (4 days ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 day ago)
+- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
+- [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) - The repo behind... (2 days ago)
+- [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (2 days ago)
+- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Suppress symbol errors, auto-populate default conf version](https://github.com/linuxserver/docker-syslog-ng/pull/22) on [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (1 day ago)
-- [Add macvlan/ipvlan networking](https://github.com/linuxserver/docker-documentation/pull/185) on [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) (1 day ago)
-- [Lint markdown, fix syntax highlighting, remove armhf refs, and update docker install instructions](https://github.com/linuxserver/pipeline-triggers/pull/34) on [linuxserver/pipeline-triggers](https://github.com/linuxserver/pipeline-triggers) (2 days ago)
-- [Switch from deb to zip package](https://github.com/linuxserver/docker-unifi-network-application/pull/67) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
-- [Replace echoes into jq with here strings](https://github.com/linuxserver/docker-mods/pull/826) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (2 days ago)
+- [Fix stupid error handling logic issues](https://github.com/linuxserver/docker-mods/pull/829) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
+- [Add support for APPSEC_URL](https://github.com/linuxserver/docker-mods/pull/828) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
+- [Suppress symbol errors, auto-populate default conf version](https://github.com/linuxserver/docker-syslog-ng/pull/22) on [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (2 days ago)
+- [Add macvlan/ipvlan networking](https://github.com/linuxserver/docker-documentation/pull/185) on [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) (2 days ago)
+- [Lint markdown, fix syntax highlighting, remove armhf refs, and update docker install instructions](https://github.com/linuxserver/pipeline-triggers/pull/34) on [linuxserver/pipeline-triggers](https://github.com/linuxserver/pipeline-triggers) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [Norbyte/bg3se](https://github.com/Norbyte/bg3se) - Baldur&#39;s Gate 3 Script Extender (1 day ago)
+- [Norbyte/bg3se](https://github.com/Norbyte/bg3se) - Baldur&#39;s Gate 3 Script Extender (2 days ago)
 - [packruler/traefik-themepark](https://github.com/packruler/traefik-themepark) - Easily add theme-park.dev themes to supported applications (4 weeks ago)
 - [RUB-NDS/Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner) - This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper &#34;Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation&#34;. (1 month ago)
 - [aserper/masto-rss](https://github.com/aserper/masto-rss) - A Mastodon bot that posts RSS updates to a Mastodon account (2 months ago)
