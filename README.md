@@ -2,10 +2,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (2 days ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (2 days ago)
-- [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (2 days ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (6 days ago)
+- [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (3 days ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (3 days ago)
+- [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (3 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 week ago)
 - [thespad/actions](https://github.com/thespad/actions) (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Set non-native march for compiling](https://github.com/linuxserver/docker-unrar/pull/5) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (2 days ago)
-- [Don&#39;t double-install npm and yarn](https://github.com/linuxserver/docker-your_spotify/pull/10) on [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (3 days ago)
-- [Updates to support 1.8.0](https://github.com/linuxserver/docker-your_spotify/pull/9) on [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (4 days ago)
-- [Add RSS link on homepage](https://github.com/thespad/thespad.github.io/pull/9) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (6 days ago)
-- [Bump to 7.0.7](https://github.com/linuxserver/docker-unrar/pull/3) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (6 days ago)
+- [Set non-native march for compiling](https://github.com/linuxserver/docker-unrar/pull/5) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (3 days ago)
+- [Don&#39;t double-install npm and yarn](https://github.com/linuxserver/docker-your_spotify/pull/10) on [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (4 days ago)
+- [Updates to support 1.8.0](https://github.com/linuxserver/docker-your_spotify/pull/9) on [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (5 days ago)
+- [Add RSS link on homepage](https://github.com/thespad/thespad.github.io/pull/9) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 week ago)
+- [Bump to 7.0.7](https://github.com/linuxserver/docker-unrar/pull/3) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (1 week ago)
 
 #### 📜 My recent blog posts
 
