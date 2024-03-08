@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (3 days ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (3 days ago)
-- [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (3 days ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (4 days ago)
+- [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (4 days ago)
+- [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (4 days ago)
 - [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 week ago)
-- [thespad/actions](https://github.com/thespad/actions) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Set non-native march for compiling](https://github.com/linuxserver/docker-unrar/pull/5) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (3 days ago)
-- [Don&#39;t double-install npm and yarn](https://github.com/linuxserver/docker-your_spotify/pull/10) on [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (4 days ago)
-- [Updates to support 1.8.0](https://github.com/linuxserver/docker-your_spotify/pull/9) on [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (5 days ago)
+- [Install libqrencode-tools package for binaries](https://github.com/linuxserver/docker-wireguard/pull/323) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [Set non-native march for compiling](https://github.com/linuxserver/docker-unrar/pull/5) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (4 days ago)
+- [Don&#39;t double-install npm and yarn](https://github.com/linuxserver/docker-your_spotify/pull/10) on [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (5 days ago)
+- [Updates to support 1.8.0](https://github.com/linuxserver/docker-your_spotify/pull/9) on [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (6 days ago)
 - [Add RSS link on homepage](https://github.com/thespad/thespad.github.io/pull/9) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 week ago)
-- [Bump to 7.0.7](https://github.com/linuxserver/docker-unrar/pull/3) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -37,8 +37,8 @@
 - [SchumacherFM/wordpress-to-hugo-exporter](https://github.com/SchumacherFM/wordpress-to-hugo-exporter) - Hugo is static site generator written in golang. Wordpress is a tool for remote access to your server ;-) ❗️Contributions welcome! (1 week ago)
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation (1 week ago)
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. (2 weeks ago)
-- [pgautoupgrade/docker-pgautoupgrade](https://github.com/pgautoupgrade/docker-pgautoupgrade) - A PostgreSQL Docker container that automatically upgrades your database (4 weeks ago)
-- [HeIIow2/privacy-redirect](https://github.com/HeIIow2/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram &amp; Google Maps requests to privacy friendly alternatives. (4 weeks ago)
+- [pgautoupgrade/docker-pgautoupgrade](https://github.com/pgautoupgrade/docker-pgautoupgrade) - A PostgreSQL Docker container that automatically upgrades your database (1 month ago)
+- [HeIIow2/privacy-redirect](https://github.com/HeIIow2/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram &amp; Google Maps requests to privacy friendly alternatives. (1 month ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
