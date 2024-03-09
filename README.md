@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (4 days ago)
-- [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (4 days ago)
-- [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (4 days ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 week ago)
+- [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (1 day ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (2 days ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (5 days ago)
+- [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (5 days ago)
+- [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Install libqrencode-tools package for binaries](https://github.com/linuxserver/docker-wireguard/pull/323) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
-- [Set non-native march for compiling](https://github.com/linuxserver/docker-unrar/pull/5) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (4 days ago)
-- [Don&#39;t double-install npm and yarn](https://github.com/linuxserver/docker-your_spotify/pull/10) on [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (5 days ago)
-- [Updates to support 1.8.0](https://github.com/linuxserver/docker-your_spotify/pull/9) on [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (6 days ago)
-- [Add RSS link on homepage](https://github.com/thespad/thespad.github.io/pull/9) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 week ago)
+- [Build playwright from source, add libjpeg](https://github.com/linuxserver/docker-changedetection.io/pull/16) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (1 day ago)
+- [Update readme with lua/http2 issue notes](https://github.com/linuxserver/docker-mods/pull/861) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
+- [Add universal-unrar6 to mod list](https://github.com/linuxserver/docker-mods/pull/860) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
+- [Intial release of universal-unrar6](https://github.com/linuxserver/docker-mods/pull/858) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
+- [Install libqrencode-tools package for binaries](https://github.com/linuxserver/docker-wireguard/pull/323) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (2 days ago)
 
 #### 📜 My recent blog posts
 
