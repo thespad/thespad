@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
-- [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (2 days ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (3 days ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (6 days ago)
-- [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (6 days ago)
+- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
+- [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (1 day ago)
+- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (4 days ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Build Playwright node components from source](https://github.com/linuxserver/docker-changedetection.io/pull/17) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (1 day ago)
-- [Build playwright from source, add libjpeg](https://github.com/linuxserver/docker-changedetection.io/pull/16) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (2 days ago)
-- [Update readme with lua/http2 issue notes](https://github.com/linuxserver/docker-mods/pull/861) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (2 days ago)
-- [Add universal-unrar6 to mod list](https://github.com/linuxserver/docker-mods/pull/860) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (2 days ago)
-- [Intial release of universal-unrar6](https://github.com/linuxserver/docker-mods/pull/858) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (2 days ago)
+- [Move $HOME to /config](https://github.com/linuxserver/docker-faster-whisper/pull/12) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
+- [Build Playwright node components from source](https://github.com/linuxserver/docker-changedetection.io/pull/17) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (2 days ago)
+- [Build playwright from source, add libjpeg](https://github.com/linuxserver/docker-changedetection.io/pull/16) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (3 days ago)
+- [Update readme with lua/http2 issue notes](https://github.com/linuxserver/docker-mods/pull/861) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (3 days ago)
+- [Add universal-unrar6 to mod list](https://github.com/linuxserver/docker-mods/pull/860) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (3 days ago)
 
 #### 📜 My recent blog posts
 
