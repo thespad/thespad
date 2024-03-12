@@ -2,10 +2,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
-- [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (1 day ago)
-- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (4 days ago)
+- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (2 days ago)
+- [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (2 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (3 days ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (5 days ago)
 - [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Move $HOME to /config](https://github.com/linuxserver/docker-faster-whisper/pull/12) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
-- [Build Playwright node components from source](https://github.com/linuxserver/docker-changedetection.io/pull/17) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (2 days ago)
-- [Build playwright from source, add libjpeg](https://github.com/linuxserver/docker-changedetection.io/pull/16) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (3 days ago)
-- [Update readme with lua/http2 issue notes](https://github.com/linuxserver/docker-mods/pull/861) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (3 days ago)
-- [Add universal-unrar6 to mod list](https://github.com/linuxserver/docker-mods/pull/860) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (3 days ago)
+- [Restore dynudns plugin](https://github.com/linuxserver/docker-swag/pull/463) on [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) (1 day ago)
+- [Move $HOME to /config (gpu branch)](https://github.com/linuxserver/docker-faster-whisper/pull/13) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
+- [Move $HOME to /config](https://github.com/linuxserver/docker-faster-whisper/pull/12) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (2 days ago)
+- [Build Playwright node components from source](https://github.com/linuxserver/docker-changedetection.io/pull/17) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (3 days ago)
+- [Build playwright from source, add libjpeg](https://github.com/linuxserver/docker-changedetection.io/pull/16) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (4 days ago)
 
 #### 📜 My recent blog posts
 
