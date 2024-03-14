@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (3 days ago)
-- [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (3 days ago)
-- [thespad/actions](https://github.com/thespad/actions) (4 days ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (6 days ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 week ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (today)
+- [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (1 day ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 day ago)
+- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Restore dynudns plugin](https://github.com/linuxserver/docker-swag/pull/463) on [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) (2 days ago)
-- [Move $HOME to /config (gpu branch)](https://github.com/linuxserver/docker-faster-whisper/pull/13) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (2 days ago)
-- [Move $HOME to /config](https://github.com/linuxserver/docker-faster-whisper/pull/12) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (3 days ago)
-- [Build Playwright node components from source](https://github.com/linuxserver/docker-changedetection.io/pull/17) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (4 days ago)
-- [Build playwright from source, add libjpeg](https://github.com/linuxserver/docker-changedetection.io/pull/16) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (5 days ago)
+- [Update docker post](https://github.com/thespad/thespad.github.io/pull/10) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (today)
+- [Update init to handle connect-src changes in 1.9.0](https://github.com/linuxserver/docker-your_spotify/pull/12) on [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (1 day ago)
+- [Restore dynudns plugin](https://github.com/linuxserver/docker-swag/pull/463) on [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) (3 days ago)
+- [Move $HOME to /config (gpu branch)](https://github.com/linuxserver/docker-faster-whisper/pull/13) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (3 days ago)
+- [Move $HOME to /config](https://github.com/linuxserver/docker-faster-whisper/pull/12) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (4 days ago)
 
 #### 📜 My recent blog posts
 
+- [Making Playwright Work on Alpine Out of Spite](https://www.spad.uk/posts/making-playwright-work-on-alpine-out-of-spite/) (1 day ago)
 - [Wordpress Migration](https://www.spad.uk/posts/wordpress-migration/) (2 weeks ago)
 - [Practical Configuration of Traefik as a Reverse Proxy For Docker - Updated for 2023](https://www.spad.uk/posts/practical-configuration-of-traefik-as-a-reverse-proxy-for-docker-updated-for-2023/) (7 months ago)
 - [Really Simple Network Bridging With qemu](https://www.spad.uk/posts/really-simple-network-bridging-with-qemu/) (2 years ago)
 - [Changing Docker Daemon Options For Fun and Profit](https://www.spad.uk/posts/changing-docker-daemon-options-for-fun-and-profit/) (2 years ago)
-- [Integrating CrowdSec with Traefik &amp; Discord](https://www.spad.uk/posts/integrating-crowdsec-with-traefik-discord/) (2 years ago)
 
 #### ⭐ Recent stars
 
