@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-airsonic-advanced](https://github.com/linuxserver/docker-airsonic-advanced) (1 day ago)
-- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 day ago)
-- [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (1 day ago)
-- [linuxserver/docker-ngircd](https://github.com/linuxserver/docker-ngircd) (1 day ago)
-- [linuxserver/docker-readarr](https://github.com/linuxserver/docker-readarr) - Container for readarr.com (1 day ago)
+- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 day ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 day ago)
+- [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (1 day ago)
+- [linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity) (2 days ago)
+- [linuxserver/docker-endlessh](https://github.com/linuxserver/docker-endlessh) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Deprecate endlessh](https://github.com/linuxserver/cstate/pull/212) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [Rebase to 3.19](https://github.com/linuxserver/docker-tvheadend/pull/251) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (2 days ago)
-- [Deprecate](https://github.com/linuxserver/docker-endlessh/pull/16) on [linuxserver/docker-endlessh](https://github.com/linuxserver/docker-endlessh) (2 days ago)
-- [Rebase to 3.19](https://github.com/linuxserver/docker-daapd/pull/88) on [linuxserver/docker-daapd](https://github.com/linuxserver/docker-daapd) (2 days ago)
-- [Rebase to 3.19](https://github.com/linuxserver/docker-cops/pull/51) on [linuxserver/docker-cops](https://github.com/linuxserver/docker-cops) (2 days ago)
+- [Publish Spamhaus DROP](https://github.com/thespad/thespad.github.io/pull/11) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 day ago)
+- [Add imagemagick-svg](https://github.com/linuxserver/docker-nextcloud/pull/419) on [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (1 day ago)
+- [Deprecate endlessh](https://github.com/linuxserver/cstate/pull/212) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [Rebase to 3.19](https://github.com/linuxserver/docker-tvheadend/pull/251) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (3 days ago)
+- [Deprecate](https://github.com/linuxserver/docker-endlessh/pull/16) on [linuxserver/docker-endlessh](https://github.com/linuxserver/docker-endlessh) (3 days ago)
 
 #### 📜 My recent blog posts
 
+- [Adding The Spamhaus DROP List to Unifi Gateway](https://www.spad.uk/posts/adding-spamhaus-drop-list-to-unifi-gateway/) (1 day ago)
 - [Making Playwright Work on Alpine Out of Spite](https://www.spad.uk/posts/making-playwright-work-on-alpine-out-of-spite/) (1 week ago)
 - [Wordpress Migration](https://www.spad.uk/posts/wordpress-migration/) (3 weeks ago)
 - [Practical Configuration of Traefik as a Reverse Proxy For Docker - Updated for 2023](https://www.spad.uk/posts/practical-configuration-of-traefik-as-a-reverse-proxy-for-docker-updated-for-2023/) (8 months ago)
 - [Really Simple Network Bridging With qemu](https://www.spad.uk/posts/really-simple-network-bridging-with-qemu/) (2 years ago)
-- [Changing Docker Daemon Options For Fun and Profit](https://www.spad.uk/posts/changing-docker-daemon-options-for-fun-and-profit/) (2 years ago)
 
 #### ⭐ Recent stars
 
