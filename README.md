@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (4 days ago)
-- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (6 days ago)
-- [thespad/docker-planka](https://github.com/thespad/docker-planka) - Multi-arch Planka docker image (6 days ago)
-- [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (6 days ago)
-- [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let&#39;s Encrypt) client. It also contains fail2ban for intrusion prevention. (6 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (5 days ago)
+- [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (1 week ago)
+- [thespad/docker-planka](https://github.com/thespad/docker-planka) - Multi-arch Planka docker image (1 week ago)
+- [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let&#39;s Encrypt) client. It also contains fail2ban for intrusion prevention. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix missing static assets](https://github.com/thespad/docker-planka/pull/4) on [thespad/docker-planka](https://github.com/thespad/docker-planka) (6 days ago)
-- [Remove nzbnotify](https://github.com/linuxserver/docker-sabnzbd/pull/221) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (6 days ago)
-- [Set correct perms on smokeping_secrets](https://github.com/linuxserver/docker-smokeping/pull/171) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (6 days ago)
-- [Use gcc default march for x86_64 builds](https://github.com/linuxserver/docker-unrar/pull/6) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (6 days ago)
-- [Publish Spamhaus DROP](https://github.com/thespad/thespad.github.io/pull/11) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 week ago)
+- [Add notice](https://github.com/linuxserver/cstate/pull/213) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [Fix missing static assets](https://github.com/thespad/docker-planka/pull/4) on [thespad/docker-planka](https://github.com/thespad/docker-planka) (1 week ago)
+- [Remove nzbnotify](https://github.com/linuxserver/docker-sabnzbd/pull/221) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 week ago)
+- [Set correct perms on smokeping_secrets](https://github.com/linuxserver/docker-smokeping/pull/171) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 week ago)
+- [Use gcc default march for x86_64 builds](https://github.com/linuxserver/docker-unrar/pull/6) on [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (1 week ago)
 
 #### 📜 My recent blog posts
 
