@@ -2,8 +2,8 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (6 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 week ago)
 - [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (1 week ago)
 - [thespad/docker-planka](https://github.com/thespad/docker-planka) - Multi-arch Planka docker image (1 week ago)
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let&#39;s Encrypt) client. It also contains fail2ban for intrusion prevention. (1 week ago)
@@ -18,8 +18,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update with newer information.](https://github.com/linuxserver/cstate/pull/214) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [Add notice](https://github.com/linuxserver/cstate/pull/213) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [Update with newer information.](https://github.com/linuxserver/cstate/pull/214) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [Add notice](https://github.com/linuxserver/cstate/pull/213) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
 - [Fix missing static assets](https://github.com/thespad/docker-planka/pull/4) on [thespad/docker-planka](https://github.com/thespad/docker-planka) (1 week ago)
 - [Remove nzbnotify](https://github.com/linuxserver/docker-sabnzbd/pull/221) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 week ago)
 - [Set correct perms on smokeping_secrets](https://github.com/linuxserver/docker-smokeping/pull/171) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 week ago)
