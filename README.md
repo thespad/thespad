@@ -2,8 +2,8 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (2 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (4 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (3 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (5 days ago)
 - [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 week ago)
 - [thespad/docker-planka](https://github.com/thespad/docker-planka) - Multi-arch Planka docker image (1 week ago)
 - [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (1 week ago)
@@ -18,8 +18,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update with newer information.](https://github.com/linuxserver/cstate/pull/214) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (4 days ago)
-- [Add notice](https://github.com/linuxserver/cstate/pull/213) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (5 days ago)
+- [Update with newer information.](https://github.com/linuxserver/cstate/pull/214) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (5 days ago)
+- [Add notice](https://github.com/linuxserver/cstate/pull/213) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (6 days ago)
 - [Fix missing static assets](https://github.com/thespad/docker-planka/pull/4) on [thespad/docker-planka](https://github.com/thespad/docker-planka) (1 week ago)
 - [Remove nzbnotify](https://github.com/linuxserver/docker-sabnzbd/pull/221) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 week ago)
 - [Set correct perms on smokeping_secrets](https://github.com/linuxserver/docker-smokeping/pull/171) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 week ago)
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
+- [justjanne/powerline-go](https://github.com/justjanne/powerline-go) -  A beautiful and useful low-latency prompt for your shell, written in go (1 day ago)
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH. (2 weeks ago)
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. (2 weeks ago)
 - [SchumacherFM/wordpress-to-hugo-exporter](https://github.com/SchumacherFM/wordpress-to-hugo-exporter) - Hugo is static site generator written in golang. Wordpress is a tool for remote access to your server ;-) ❗️Contributions welcome! (1 month ago)
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation (1 month ago)
-- [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. (1 month ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
