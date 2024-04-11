@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
-- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (2 days ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 week ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (2 weeks ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
+- [linuxserver/docker-habridge](https://github.com/linuxserver/docker-habridge) (1 day ago)
+- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
+- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Switch to nginx](https://github.com/linuxserver/docker-socket-proxy/pull/3) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (2 days ago)
-- [Minor readme fixes](https://github.com/linuxserver/docker-socket-proxy/pull/2) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (2 days ago)
-- [Add docker logo](https://github.com/linuxserver/docker-templates/pull/310) on [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (2 days ago)
-- [Initial LSIO release](https://github.com/linuxserver/docker-socket-proxy/pull/1) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (3 days ago)
-- [Update with newer information.](https://github.com/linuxserver/cstate/pull/214) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
+- [Release socket proxy, resolve XZ issue.](https://github.com/linuxserver/cstate/pull/218) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [Revert JRE to 8](https://github.com/linuxserver/docker-habridge/pull/25) on [linuxserver/docker-habridge](https://github.com/linuxserver/docker-habridge) (1 day ago)
+- [Switch to nginx](https://github.com/linuxserver/docker-socket-proxy/pull/3) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (3 days ago)
+- [Minor readme fixes](https://github.com/linuxserver/docker-socket-proxy/pull/2) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (3 days ago)
+- [Add docker logo](https://github.com/linuxserver/docker-templates/pull/310) on [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (3 days ago)
 
 #### 📜 My recent blog posts
 
