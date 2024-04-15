@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (3 days ago)
-- [linuxserver/docker-habridge](https://github.com/linuxserver/docker-habridge) (4 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (4 days ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (4 days ago)
-- [thespad/actions](https://github.com/thespad/actions) (5 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (4 days ago)
+- [linuxserver/docker-habridge](https://github.com/linuxserver/docker-habridge) (5 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (5 days ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (5 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Bump base image to Alpine 3.19](https://github.com/linuxserver/docker-mods/pull/877) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
-- [Bump baseimage to Alpine 3.19](https://github.com/linuxserver/docker-mods/pull/876) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
-- [Update docker socket proxy to use LSIO image](https://github.com/thespad/thespad.github.io/pull/13) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (3 days ago)
-- [Release socket proxy, resolve XZ issue.](https://github.com/linuxserver/cstate/pull/218) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (4 days ago)
-- [Revert JRE to 8](https://github.com/linuxserver/docker-habridge/pull/25) on [linuxserver/docker-habridge](https://github.com/linuxserver/docker-habridge) (4 days ago)
+- [Add SBOM attestation, hopefully fix latest tag on branch commit](https://github.com/thespad/actions/pull/101) on [thespad/actions](https://github.com/thespad/actions) (1 day ago)
+- [Bump base image to Alpine 3.19](https://github.com/linuxserver/docker-mods/pull/877) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (2 days ago)
+- [Bump baseimage to Alpine 3.19](https://github.com/linuxserver/docker-mods/pull/876) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (2 days ago)
+- [Update docker socket proxy to use LSIO image](https://github.com/thespad/thespad.github.io/pull/13) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (4 days ago)
+- [Release socket proxy, resolve XZ issue.](https://github.com/linuxserver/cstate/pull/218) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent stars
 
-- [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (1 day ago)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (3 days ago)
+- [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (2 days ago)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (4 days ago)
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) -  A beautiful and useful low-latency prompt for your shell, written in go (1 week ago)
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH. (1 month ago)
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. (1 month ago)
