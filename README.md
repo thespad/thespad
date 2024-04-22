@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver-labs/docker-playground](https://github.com/linuxserver-labs/docker-playground) (2 days ago)
-- [linuxserver-labs/docker-monit](https://github.com/linuxserver-labs/docker-monit) (5 days ago)
-- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (6 days ago)
+- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (1 day ago)
+- [linuxserver-labs/docker-playground](https://github.com/linuxserver-labs/docker-playground) (3 days ago)
+- [linuxserver-labs/docker-monit](https://github.com/linuxserver-labs/docker-monit) (6 days ago)
 - [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 week ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
+- [linuxserver/docker-habridge](https://github.com/linuxserver/docker-habridge) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release v7](https://github.com/linuxserver-labs/docker-actions/pull/110) on [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (5 days ago)
-- [Allow disabling IPv6](https://github.com/linuxserver/docker-socket-proxy/pull/4) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (6 days ago)
+- [Clarify use case](https://github.com/linuxserver/docker-socket-proxy/pull/5) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (1 day ago)
+- [Release v7](https://github.com/linuxserver-labs/docker-actions/pull/110) on [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (6 days ago)
+- [Allow disabling IPv6](https://github.com/linuxserver/docker-socket-proxy/pull/4) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (1 week ago)
 - [Add SBOM attestation, hopefully fix latest tag on branch commit](https://github.com/thespad/actions/pull/101) on [thespad/actions](https://github.com/thespad/actions) (1 week ago)
-- [Bump base image to Alpine 3.19](https://github.com/linuxserver/docker-mods/pull/877) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 week ago)
-- [Bump baseimage to Alpine 3.19](https://github.com/linuxserver/docker-mods/pull/876) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -34,8 +33,8 @@
 
 #### ⭐ Recent stars
 
-- [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password into your GitHub Actions jobs (5 days ago)
-- [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe (6 days ago)
+- [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password into your GitHub Actions jobs (6 days ago)
+- [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe (1 week ago)
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (1 week ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (1 week ago)
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) -  A beautiful and useful low-latency prompt for your shell, written in go (2 weeks ago)
