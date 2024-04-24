@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (1 day ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 day ago)
+- [linuxserver/docker-webgrabplus](https://github.com/linuxserver/docker-webgrabplus) (1 day ago)
 - [linuxserver/docker-plex-meta-manager](https://github.com/linuxserver/docker-plex-meta-manager) (1 day ago)
-- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 day ago)
-- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (2 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (1 day ago)
+- [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [PMM-Kometa migration](https://github.com/linuxserver/cstate/pull/221) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [Initial release (nightly)](https://github.com/linuxserver/docker-kometa/pull/3) on [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (1 day ago)
-- [Initial release (develop)](https://github.com/linuxserver/docker-kometa/pull/2) on [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (1 day ago)
-- [Initial release (main)](https://github.com/linuxserver/docker-kometa/pull/1) on [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (1 day ago)
-- [Deprecate (main)](https://github.com/linuxserver/docker-plex-meta-manager/pull/27) on [linuxserver/docker-plex-meta-manager](https://github.com/linuxserver/docker-plex-meta-manager) (1 day ago)
+- [Bump dotnet framework to 8.x](https://github.com/linuxserver/docker-webgrabplus/pull/71) on [linuxserver/docker-webgrabplus](https://github.com/linuxserver/docker-webgrabplus) (1 day ago)
+- [Update CLI options for single runs (main)](https://github.com/linuxserver/docker-kometa/pull/6) on [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (1 day ago)
+- [Update CLI options for single runs (develop)](https://github.com/linuxserver/docker-kometa/pull/5) on [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (1 day ago)
+- [Update CLI options for single runs (nightly)](https://github.com/linuxserver/docker-kometa/pull/4) on [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (1 day ago)
+- [PMM-Kometa migration](https://github.com/linuxserver/cstate/pull/221) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -38,7 +38,7 @@
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe (1 week ago)
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (1 week ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (1 week ago)
-- [justjanne/powerline-go](https://github.com/justjanne/powerline-go) -  A beautiful and useful low-latency prompt for your shell, written in go (2 weeks ago)
+- [justjanne/powerline-go](https://github.com/justjanne/powerline-go) -  A beautiful and useful low-latency prompt for your shell, written in go (3 weeks ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
