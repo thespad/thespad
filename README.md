@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
-- [linuxserver/docker-plex-meta-manager](https://github.com/linuxserver/docker-plex-meta-manager) (2 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (2 days ago)
-- [linuxserver/docker-webgrabplus](https://github.com/linuxserver/docker-webgrabplus) (2 days ago)
+- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (1 day ago)
+- [thespad/docker-apcupsd_exporter](https://github.com/thespad/docker-apcupsd_exporter) - Multi-arch apcupds_exporter docker image (1 day ago)
+- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
+- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) - Multi-arch whisparr docker image (1 day ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Get latest tag by publish date to avoid issues with identical commits](https://github.com/linuxserver-labs/docker-actions/pull/112) on [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
-- [Release v7.0.1](https://github.com/linuxserver-labs/docker-actions/pull/111) on [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
-- [Remove armhf from build targets](https://github.com/linuxserver-labs/docker-playground/pull/1) on [linuxserver-labs/docker-playground](https://github.com/linuxserver-labs/docker-playground) (1 day ago)
-- [Bump all actions to v7](https://github.com/linuxserver-labs/docker-monit/pull/11) on [linuxserver-labs/docker-monit](https://github.com/linuxserver-labs/docker-monit) (1 day ago)
-- [Bump dotnet framework to 8.x](https://github.com/linuxserver/docker-webgrabplus/pull/71) on [linuxserver/docker-webgrabplus](https://github.com/linuxserver/docker-webgrabplus) (2 days ago)
+- [Bump actions to v8](https://github.com/thespad/docker-traefik-crowdsec-bouncer/pull/6) on [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (1 day ago)
+- [Bump actions to v8](https://github.com/thespad/docker-py-kms/pull/35) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (1 day ago)
+- [Bump actions to v8](https://github.com/thespad/docker-kopia-server/pull/5) on [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) (1 day ago)
+- [Bump actions to v8](https://github.com/thespad/docker-get_iplayer/pull/51) on [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) (1 day ago)
+- [Bump actions to v8](https://github.com/thespad/docker-dive/pull/26) on [thespad/docker-dive](https://github.com/thespad/docker-dive) (1 day ago)
 
 #### 📜 My recent blog posts
 
