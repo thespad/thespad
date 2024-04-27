@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (1 day ago)
-- [thespad/docker-apcupsd_exporter](https://github.com/thespad/docker-apcupsd_exporter) - Multi-arch apcupds_exporter docker image (1 day ago)
+- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) - A really dumb proof of concept that bundles the nightly branch builds of all of the *arr applications into a single container. (1 day ago)
 - [thespad/actions](https://github.com/thespad/actions) (1 day ago)
-- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) - Multi-arch whisparr docker image (1 day ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (2 days ago)
+- [linuxserver-labs/docker-playground](https://github.com/linuxserver-labs/docker-playground) (1 day ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
+- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) - Multi-arch whisparr docker image (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Bump actions to v8](https://github.com/thespad/docker-traefik-crowdsec-bouncer/pull/6) on [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (1 day ago)
-- [Bump actions to v8](https://github.com/thespad/docker-py-kms/pull/35) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (1 day ago)
-- [Bump actions to v8](https://github.com/thespad/docker-kopia-server/pull/5) on [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) (1 day ago)
-- [Bump actions to v8](https://github.com/thespad/docker-get_iplayer/pull/51) on [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) (1 day ago)
-- [Bump actions to v8](https://github.com/thespad/docker-dive/pull/26) on [thespad/docker-dive](https://github.com/thespad/docker-dive) (1 day ago)
+- [Release v8.0.1](https://github.com/thespad/actions/pull/103) on [thespad/actions](https://github.com/thespad/actions) (1 day ago)
+- [Bump actions to v7.0.2](https://github.com/linuxserver-labs/docker-daedalos/pull/3) on [linuxserver-labs/docker-daedalos](https://github.com/linuxserver-labs/docker-daedalos) (1 day ago)
+- [Bump actions to v7.0.2](https://github.com/linuxserver-labs/docker-nomacs/pull/11) on [linuxserver-labs/docker-nomacs](https://github.com/linuxserver-labs/docker-nomacs) (1 day ago)
+- [Bump actions to v7.0.2](https://github.com/linuxserver-labs/docker-webhook/pull/3) on [linuxserver-labs/docker-webhook](https://github.com/linuxserver-labs/docker-webhook) (1 day ago)
+- [Bump actions to v7.0.2](https://github.com/linuxserver-labs/docker-plextraktsync/pull/11) on [linuxserver-labs/docker-plextraktsync](https://github.com/linuxserver-labs/docker-plextraktsync) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -36,7 +36,7 @@
 
 - [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password into your GitHub Actions jobs (1 week ago)
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe (1 week ago)
-- [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (1 week ago)
+- [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (2 weeks ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (2 weeks ago)
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) -  A beautiful and useful low-latency prompt for your shell, written in go (3 weeks ago)
 
