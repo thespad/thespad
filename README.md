@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar) (1 day ago)
-- [linuxserver/docker-dokuwiki](https://github.com/linuxserver/docker-dokuwiki) (1 day ago)
-- [linuxserver/docker-yq](https://github.com/linuxserver/docker-yq) (1 day ago)
-- [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 day ago)
-- [linuxserver/docker-jackett](https://github.com/linuxserver/docker-jackett) (1 day ago)
+- [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki (1 day ago)
+- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (1 day ago)
+- [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (2 days ago)
+- [linuxserver/docker-lidarr](https://github.com/linuxserver/docker-lidarr) (2 days ago)
+- [linuxserver/docker-piwigo](https://github.com/linuxserver/docker-piwigo) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to 3.20](https://github.com/linuxserver/docker-snapdrop/pull/25) on [linuxserver/docker-snapdrop](https://github.com/linuxserver/docker-snapdrop) (1 day ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-piwigo/pull/79) on [linuxserver/docker-piwigo](https://github.com/linuxserver/docker-piwigo) (1 day ago)
-- [Rebase to 3.20 (main)](https://github.com/linuxserver/docker-overseerr/pull/36) on [linuxserver/docker-overseerr](https://github.com/linuxserver/docker-overseerr) (1 day ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-nginx/pull/102) on [linuxserver/docker-nginx](https://github.com/linuxserver/docker-nginx) (1 day ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-mariadb/pull/144) on [linuxserver/docker-mariadb](https://github.com/linuxserver/docker-mariadb) (1 day ago)
+- [Rebase to 3.20 (develop)](https://github.com/linuxserver/docker-tautulli/pull/127) on [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (1 day ago)
+- [Revert &#34;Nightly: Rebase to 3.20&#34;](https://github.com/linuxserver/docker-mylar3/pull/45) on [linuxserver/docker-mylar3](https://github.com/linuxserver/docker-mylar3) (1 day ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-netbox/pull/58) on [linuxserver/docker-netbox](https://github.com/linuxserver/docker-netbox) (1 day ago)
+- [Return 403 at /](https://github.com/linuxserver/docker-socket-proxy/pull/9) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (1 day ago)
+- [Set platform for arm64 CI image pull](https://github.com/linuxserver/docker-jenkins-builder/pull/260) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (3 days ago)
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (4 days ago)
 - [jcchavezs/coraza-http-wasm-traefik](https://github.com/jcchavezs/coraza-http-wasm-traefik) (1 week ago)
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP &amp; Laravel (2 weeks ago)
 - [kangyu-california/PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update (4 weeks ago)
