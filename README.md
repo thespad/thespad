@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-snipe-it](https://github.com/linuxserver/docker-snipe-it) - Alpine/Nginx container for the Asset Management software Snipe-IT (1 day ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (4 days ago)
-- [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) - The repo behind... (5 days ago)
-- [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (6 days ago)
-- [linuxserver/docker-baseimage-fedora](https://github.com/linuxserver/docker-baseimage-fedora) (6 days ago)
+- [linuxserver/docker-snipe-it](https://github.com/linuxserver/docker-snipe-it) - Alpine/Nginx container for the Asset Management software Snipe-IT (2 days ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (5 days ago)
+- [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) - The repo behind... (6 days ago)
+- [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (1 week ago)
+- [linuxserver/docker-baseimage-fedora](https://github.com/linuxserver/docker-baseimage-fedora) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Deprecate 3.17](https://github.com/linuxserver/docker-baseimage-alpine/pull/247) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 day ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-changedetection.io/pull/23) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (1 day ago)
-- [Change notify endpoint to socket](https://github.com/linuxserver/docker-baseimage-rdesktop/pull/65) on [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) (4 days ago)
-- [Check notify endpoint to socket](https://github.com/linuxserver/docker-baseimage-rdesktop/pull/64) on [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) (4 days ago)
-- [Support ro and user operation](https://github.com/linuxserver/docker-mods/pull/917) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (4 days ago)
+- [Deprecate 3.17](https://github.com/linuxserver/docker-baseimage-alpine/pull/247) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (2 days ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-changedetection.io/pull/23) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (2 days ago)
+- [Change notify endpoint to socket](https://github.com/linuxserver/docker-baseimage-rdesktop/pull/65) on [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) (5 days ago)
+- [Check notify endpoint to socket](https://github.com/linuxserver/docker-baseimage-rdesktop/pull/64) on [linuxserver/docker-baseimage-rdesktop](https://github.com/linuxserver/docker-baseimage-rdesktop) (5 days ago)
+- [Support ro and user operation](https://github.com/linuxserver/docker-mods/pull/917) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
-- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (2 weeks ago)
-- [jcchavezs/coraza-http-wasm-traefik](https://github.com/jcchavezs/coraza-http-wasm-traefik) (3 weeks ago)
+- [mpdcampbell/traefik-geoip-filter](https://github.com/mpdcampbell/traefik-geoip-filter) - A docker container that acts as a GeoIP allow/blocklist for Traefik. Not a plugin. (1 day ago)
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (3 weeks ago)
+- [jcchavezs/coraza-http-wasm-traefik](https://github.com/jcchavezs/coraza-http-wasm-traefik) (4 weeks ago)
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP &amp; Laravel (1 month ago)
 - [kangyu-california/PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update (1 month ago)
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries (1 month ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
