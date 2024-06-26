@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
-- [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (6 days ago)
-- [linuxserver/docker-flexget](https://github.com/linuxserver/docker-flexget) (6 days ago)
-- [linuxserver/docker-snipe-it](https://github.com/linuxserver/docker-snipe-it) - Alpine/Nginx container for the Asset Management software Snipe-IT (6 days ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 week ago)
+- [linuxserver/docker-davos](https://github.com/linuxserver/docker-davos) - Docker configuration for davos (1 day ago)
+- [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (1 day ago)
+- [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (1 day ago)
+- [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (1 day ago)
+- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to 3.20 (master)](https://github.com/linuxserver/docker-nextcloud/pull/446) on [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (1 day ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-jenkins-builder/pull/261) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
-- [Print version on init](https://github.com/linuxserver/docker-transmission/pull/281) on [linuxserver/docker-transmission](https://github.com/linuxserver/docker-transmission) (1 day ago)
-- [Rebase to 3.20 (develop)](https://github.com/linuxserver/docker-nextcloud/pull/445) on [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (1 day ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-medusa/pull/56) on [linuxserver/docker-medusa](https://github.com/linuxserver/docker-medusa) (1 day ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-tvheadend/pull/256) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 day ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-webgrabplus/pull/74) on [linuxserver/docker-webgrabplus](https://github.com/linuxserver/docker-webgrabplus) (1 day ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-smokeping/pull/177) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 day ago)
+- [Update smokeping logo](https://github.com/linuxserver/docker-templates/pull/317) on [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 day ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-sickchill/pull/57) on [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -35,7 +35,7 @@
 #### ⭐ Recent stars
 
 - [mpdcampbell/traefik-geoip-filter](https://github.com/mpdcampbell/traefik-geoip-filter) - A docker container that acts as a GeoIP allow/blocklist for Traefik. Not a plugin. (1 week ago)
-- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (3 weeks ago)
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (4 weeks ago)
 - [jcchavezs/coraza-http-wasm-traefik](https://github.com/jcchavezs/coraza-http-wasm-traefik) (1 month ago)
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP &amp; Laravel (1 month ago)
 - [kangyu-california/PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update (1 month ago)
