@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-davos](https://github.com/linuxserver/docker-davos) - Docker configuration for davos (1 day ago)
-- [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (1 day ago)
-- [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (1 day ago)
-- [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (1 day ago)
-- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (1 day ago)
+- [linuxserver/docker-davos](https://github.com/linuxserver/docker-davos) - Docker configuration for davos (2 days ago)
+- [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (2 days ago)
+- [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (2 days ago)
+- [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (2 days ago)
+- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,27 +18,27 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to 3.20](https://github.com/linuxserver/docker-tvheadend/pull/256) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (1 day ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-webgrabplus/pull/74) on [linuxserver/docker-webgrabplus](https://github.com/linuxserver/docker-webgrabplus) (1 day ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-smokeping/pull/177) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 day ago)
-- [Update smokeping logo](https://github.com/linuxserver/docker-templates/pull/317) on [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 day ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-sickchill/pull/57) on [linuxserver/docker-sickchill](https://github.com/linuxserver/docker-sickchill) (1 day ago)
+- [Add RO hooks (noble)](https://github.com/linuxserver/docker-baseimage-ubuntu/pull/172) on [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (1 day ago)
+- [RO support hooks (3.20)](https://github.com/linuxserver/docker-baseimage-alpine/pull/248) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 day ago)
+- [Add read-only information to readme template](https://github.com/linuxserver/docker-jenkins-builder/pull/262) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
+- [Initial ro docs](https://github.com/linuxserver/docker-documentation/pull/229) on [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) (1 day ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-tvheadend/pull/256) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (2 days ago)
 
 #### 📜 My recent blog posts
 
 - [Adding The Spamhaus DROP List to Unifi Gateway](https://www.spad.uk/posts/adding-spamhaus-drop-list-to-unifi-gateway/) (3 months ago)
 - [Making Playwright Work on Alpine Out of Spite](https://www.spad.uk/posts/making-playwright-work-on-alpine-out-of-spite/) (3 months ago)
-- [Wordpress Migration](https://www.spad.uk/posts/wordpress-migration/) (3 months ago)
+- [Wordpress Migration](https://www.spad.uk/posts/wordpress-migration/) (4 months ago)
 - [Practical Configuration of Traefik as a Reverse Proxy For Docker - Updated for 2023 and Beyond](https://www.spad.uk/posts/practical-configuration-of-traefik-as-a-reverse-proxy-for-docker-updated-for-2023/) (11 months ago)
 - [Really Simple Network Bridging With qemu](https://www.spad.uk/posts/really-simple-network-bridging-with-qemu/) (2 years ago)
 
 #### ⭐ Recent stars
 
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (1 day ago)
 - [mpdcampbell/traefik-geoip-filter](https://github.com/mpdcampbell/traefik-geoip-filter) - A docker container that acts as a GeoIP allow/blocklist for Traefik. Not a plugin. (1 week ago)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (4 weeks ago)
 - [jcchavezs/coraza-http-wasm-traefik](https://github.com/jcchavezs/coraza-http-wasm-traefik) (1 month ago)
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP &amp; Laravel (1 month ago)
-- [kangyu-california/PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update (1 month ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
