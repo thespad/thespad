@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-davos](https://github.com/linuxserver/docker-davos) - Docker configuration for davos (2 days ago)
-- [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (2 days ago)
-- [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (2 days ago)
-- [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (2 days ago)
-- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (2 days ago)
+- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 day ago)
+- [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (3 days ago)
+- [linuxserver/docker-cops](https://github.com/linuxserver/docker-cops) (3 days ago)
+- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (3 days ago)
+- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add RO hooks (noble)](https://github.com/linuxserver/docker-baseimage-ubuntu/pull/172) on [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (1 day ago)
-- [RO support hooks (3.20)](https://github.com/linuxserver/docker-baseimage-alpine/pull/248) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 day ago)
-- [Add read-only information to readme template](https://github.com/linuxserver/docker-jenkins-builder/pull/262) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
-- [Initial ro docs](https://github.com/linuxserver/docker-documentation/pull/229) on [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) (1 day ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-tvheadend/pull/256) on [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (2 days ago)
+- [Rebase to 3.20 (master)](https://github.com/linuxserver/docker-heimdall/pull/152) on [linuxserver/docker-heimdall](https://github.com/linuxserver/docker-heimdall) (1 day ago)
+- [Rebase to 3.20 (development)](https://github.com/linuxserver/docker-heimdall/pull/151) on [linuxserver/docker-heimdall](https://github.com/linuxserver/docker-heimdall) (1 day ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-habridge/pull/26) on [linuxserver/docker-habridge](https://github.com/linuxserver/docker-habridge) (1 day ago)
+- [Rebase to 3.20 (main)](https://github.com/linuxserver/docker-pyload-ng/pull/51) on [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) (1 day ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-pyload-ng/pull/50) on [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -34,9 +34,9 @@
 
 #### ⭐ Recent stars
 
-- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (1 day ago)
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (2 days ago)
 - [mpdcampbell/traefik-geoip-filter](https://github.com/mpdcampbell/traefik-geoip-filter) - A docker container that acts as a GeoIP allow/blocklist for Traefik. Not a plugin. (1 week ago)
-- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (4 weeks ago)
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (1 month ago)
 - [jcchavezs/coraza-http-wasm-traefik](https://github.com/jcchavezs/coraza-http-wasm-traefik) (1 month ago)
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP &amp; Laravel (1 month ago)
 
