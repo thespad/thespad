@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 day ago)
-- [linuxserver/docker-build-agent](https://github.com/linuxserver/docker-build-agent) (2 days ago)
-- [linuxserver/docker-mysql-workbench](https://github.com/linuxserver/docker-mysql-workbench) (2 days ago)
-- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (2 days ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (3 days ago)
+- [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (2 days ago)
+- [linuxserver/docker-build-agent](https://github.com/linuxserver/docker-build-agent) (3 days ago)
+- [linuxserver/docker-mysql-workbench](https://github.com/linuxserver/docker-mysql-workbench) (3 days ago)
+- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (3 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update readme](https://github.com/linuxserver/docker-fleet/pull/15) on [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) (1 day ago)
-- [Move tmpdir](https://github.com/linuxserver/docker-duplicati/pull/78) on [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) (1 day ago)
-- [Don&#39;t chown /app](https://github.com/linuxserver/docker-duckdns/pull/76) on [linuxserver/docker-duckdns](https://github.com/linuxserver/docker-duckdns) (1 day ago)
-- [Update readme](https://github.com/linuxserver/docker-doplarr/pull/13) on [linuxserver/docker-doplarr](https://github.com/linuxserver/docker-doplarr) (1 day ago)
-- [Move tmpdir](https://github.com/linuxserver/docker-deluge/pull/202) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 day ago)
+- [Move tmpdir, set COMPlus_EnableDiagnostics](https://github.com/linuxserver/docker-sonarr/pull/296) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (1 day ago)
+- [Move tmpdir, set COMPlus_EnableDiagnostics (master)](https://github.com/linuxserver/docker-sonarr/pull/295) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (1 day ago)
+- [Conditional chowns (unstable)](https://github.com/linuxserver/docker-sabnzbd/pull/232) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 day ago)
+- [Conditional chowns (nightly)](https://github.com/linuxserver/docker-sabnzbd/pull/231) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 day ago)
+- [Conditional chowns (master)](https://github.com/linuxserver/docker-sabnzbd/pull/230) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 day ago)
 
 #### 📜 My recent blog posts
 
