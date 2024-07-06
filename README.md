@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
-- [linuxserver/docker-hedgedoc](https://github.com/linuxserver/docker-hedgedoc) (2 days ago)
-- [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (2 days ago)
-- [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) (3 days ago)
-- [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (3 days ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (2 days ago)
+- [linuxserver/docker-hedgedoc](https://github.com/linuxserver/docker-hedgedoc) (3 days ago)
+- [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (3 days ago)
+- [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (3 days ago)
+- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Move tmpdir, set COMPlus_EnableDiagnostics](https://github.com/linuxserver/docker-sonarr/pull/296) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (2 days ago)
-- [Move tmpdir, set COMPlus_EnableDiagnostics (master)](https://github.com/linuxserver/docker-sonarr/pull/295) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (2 days ago)
-- [Conditional chowns (unstable)](https://github.com/linuxserver/docker-sabnzbd/pull/232) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (2 days ago)
-- [Conditional chowns (nightly)](https://github.com/linuxserver/docker-sabnzbd/pull/231) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (2 days ago)
-- [Conditional chowns (master)](https://github.com/linuxserver/docker-sabnzbd/pull/230) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (2 days ago)
+- [Update readme](https://github.com/linuxserver/docker-syslog-ng/pull/27) on [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (1 day ago)
+- [Update readme, lint whitespace](https://github.com/linuxserver/docker-wireguard/pull/341) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [Update readme](https://github.com/linuxserver/docker-adguardhome-sync/pull/17) on [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (1 day ago)
+- [Update readme](https://github.com/linuxserver/docker-hishtory-server/pull/9) on [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (1 day ago)
+- [Move tmpdir, set COMPlus_EnableDiagnostics](https://github.com/linuxserver/docker-sonarr/pull/296) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (3 days ago)
 
 #### 📜 My recent blog posts
 
