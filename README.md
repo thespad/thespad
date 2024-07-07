@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (2 days ago)
-- [linuxserver/docker-hedgedoc](https://github.com/linuxserver/docker-hedgedoc) (3 days ago)
-- [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (3 days ago)
-- [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (3 days ago)
-- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (4 days ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (3 days ago)
+- [linuxserver/docker-hedgedoc](https://github.com/linuxserver/docker-hedgedoc) (4 days ago)
+- [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (4 days ago)
+- [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (4 days ago)
+- [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr) (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update readme](https://github.com/linuxserver/docker-syslog-ng/pull/27) on [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (1 day ago)
-- [Update readme, lint whitespace](https://github.com/linuxserver/docker-wireguard/pull/341) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
-- [Update readme](https://github.com/linuxserver/docker-adguardhome-sync/pull/17) on [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (1 day ago)
-- [Update readme](https://github.com/linuxserver/docker-hishtory-server/pull/9) on [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (1 day ago)
-- [Move tmpdir, set COMPlus_EnableDiagnostics](https://github.com/linuxserver/docker-sonarr/pull/296) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (3 days ago)
+- [Don&#39;t chown /app](https://github.com/linuxserver/docker-habridge/pull/27) on [linuxserver/docker-habridge](https://github.com/linuxserver/docker-habridge) (1 day ago)
+- [No need to mkdir /config, update readme](https://github.com/linuxserver/docker-foldingathome/pull/21) on [linuxserver/docker-foldingathome](https://github.com/linuxserver/docker-foldingathome) (1 day ago)
+- [Update readme, don&#39;t chown /app](https://github.com/linuxserver/docker-changedetection.io/pull/24) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (1 day ago)
+- [Use envs for DB config, move config.yml to /config](https://github.com/linuxserver/docker-wikijs/pull/35) on [linuxserver/docker-wikijs](https://github.com/linuxserver/docker-wikijs) (1 day ago)
+- [Update readme (master)](https://github.com/linuxserver/docker-tautulli/pull/130) on [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (1 day ago)
 
 #### 📜 My recent blog posts
 
