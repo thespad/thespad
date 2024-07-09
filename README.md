@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
-- [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (2 days ago)
-- [linuxserver/docker-wikijs](https://github.com/linuxserver/docker-wikijs) (2 days ago)
-- [linuxserver/docker-habridge](https://github.com/linuxserver/docker-habridge) (2 days ago)
+- [linuxserver/docker-ddclient](https://github.com/linuxserver/docker-ddclient) (1 day ago)
+- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 day ago)
+- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (2 days ago)
+- [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Don&#39;t chown /app](https://github.com/linuxserver/docker-habridge/pull/27) on [linuxserver/docker-habridge](https://github.com/linuxserver/docker-habridge) (2 days ago)
-- [No need to mkdir /config, update readme](https://github.com/linuxserver/docker-foldingathome/pull/21) on [linuxserver/docker-foldingathome](https://github.com/linuxserver/docker-foldingathome) (2 days ago)
-- [Update readme, don&#39;t chown /app](https://github.com/linuxserver/docker-changedetection.io/pull/24) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (2 days ago)
-- [Use envs for DB config, move config.yml to /config](https://github.com/linuxserver/docker-wikijs/pull/35) on [linuxserver/docker-wikijs](https://github.com/linuxserver/docker-wikijs) (2 days ago)
-- [Update readme (master)](https://github.com/linuxserver/docker-tautulli/pull/130) on [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (2 days ago)
+- [Rebase to noble (development)](https://github.com/linuxserver/docker-ombi/pull/115) on [linuxserver/docker-ombi](https://github.com/linuxserver/docker-ombi) (1 day ago)
+- [Rebase to noble (master)](https://github.com/linuxserver/docker-ombi/pull/114) on [linuxserver/docker-ombi](https://github.com/linuxserver/docker-ombi) (1 day ago)
+- [Remove incorrect comments, move tmp paths, update readme](https://github.com/linuxserver/docker-socket-proxy/pull/11) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (1 day ago)
+- [Bump shellcheck upload image to 3.20](https://github.com/linuxserver/docker-jenkins-builder/pull/265) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
+- [Don&#39;t chown /app](https://github.com/linuxserver/docker-habridge/pull/27) on [linuxserver/docker-habridge](https://github.com/linuxserver/docker-habridge) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -35,7 +35,7 @@
 #### ⭐ Recent stars
 
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (1 week ago)
-- [mpdcampbell/traefik-geoip-filter](https://github.com/mpdcampbell/traefik-geoip-filter) - A docker container that acts as a GeoIP allow/blocklist for Traefik. Not a plugin. (2 weeks ago)
+- [mpdcampbell/traefik-geoip-filter](https://github.com/mpdcampbell/traefik-geoip-filter) - A docker container that acts as a GeoIP allow/blocklist for Traefik. Not a plugin. (3 weeks ago)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (1 month ago)
 - [jcchavezs/coraza-http-wasm-traefik](https://github.com/jcchavezs/coraza-http-wasm-traefik) (1 month ago)
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP &amp; Laravel (1 month ago)
