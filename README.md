@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [linuxserver/docker-minisatip](https://github.com/linuxserver/docker-minisatip) (1 day ago)
 - [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 day ago)
-- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (1 day ago)
-- [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) (2 days ago)
-- [linuxserver/docker-tvheadend](https://github.com/linuxserver/docker-tvheadend) (2 days ago)
-- [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (2 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Announce legacy wireguard tag deprecation](https://github.com/linuxserver/cstate/pull/226) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [Add necessary packages for ldap support](https://github.com/linuxserver/docker-netbox/pull/60) on [linuxserver/docker-netbox](https://github.com/linuxserver/docker-netbox) (2 days ago)
-- [Remove ambiguity around download paths (unstable)](https://github.com/linuxserver/docker-sabnzbd/pull/236) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (2 days ago)
-- [Remove ambiguity around download paths (nightly)](https://github.com/linuxserver/docker-sabnzbd/pull/235) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (2 days ago)
-- [Remove ambiguity around download paths (master)](https://github.com/linuxserver/docker-sabnzbd/pull/234) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (2 days ago)
+- [Update dvb-apps repo path](https://github.com/linuxserver/docker-minisatip/pull/32) on [linuxserver/docker-minisatip](https://github.com/linuxserver/docker-minisatip) (1 day ago)
+- [Announce legacy wireguard tag deprecation](https://github.com/linuxserver/cstate/pull/226) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [Add necessary packages for ldap support](https://github.com/linuxserver/docker-netbox/pull/60) on [linuxserver/docker-netbox](https://github.com/linuxserver/docker-netbox) (3 days ago)
+- [Remove ambiguity around download paths (unstable)](https://github.com/linuxserver/docker-sabnzbd/pull/236) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (3 days ago)
+- [Remove ambiguity around download paths (nightly)](https://github.com/linuxserver/docker-sabnzbd/pull/235) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (2 weeks ago)
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (3 weeks ago)
 - [mpdcampbell/traefik-geoip-filter](https://github.com/mpdcampbell/traefik-geoip-filter) - A docker container that acts as a GeoIP allow/blocklist for Traefik. Not a plugin. (4 weeks ago)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (1 month ago)
 - [jcchavezs/coraza-http-wasm-traefik](https://github.com/jcchavezs/coraza-http-wasm-traefik) (1 month ago)
