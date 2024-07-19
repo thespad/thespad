@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (1 day ago)
-- [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications (1 day ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (2 days ago)
-- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (2 days ago)
+- [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications (2 days ago)
+- [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (2 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (3 days ago)
+- [linuxserver/docker-netbox](https://github.com/linuxserver/docker-netbox) (3 days ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Restore qbittorrent-cli (master)](https://github.com/linuxserver/docker-qbittorrent/pull/317) on [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (1 day ago)
-- [Update dvb-apps repo path](https://github.com/linuxserver/docker-minisatip/pull/32) on [linuxserver/docker-minisatip](https://github.com/linuxserver/docker-minisatip) (2 days ago)
-- [Announce legacy wireguard tag deprecation](https://github.com/linuxserver/cstate/pull/226) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
-- [Add necessary packages for ldap support](https://github.com/linuxserver/docker-netbox/pull/60) on [linuxserver/docker-netbox](https://github.com/linuxserver/docker-netbox) (4 days ago)
-- [Remove ambiguity around download paths (unstable)](https://github.com/linuxserver/docker-sabnzbd/pull/236) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (4 days ago)
+- [Rebase to noble](https://github.com/linuxserver/docker-plex/pull/395) on [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (1 day ago)
+- [Rebase to noble](https://github.com/linuxserver/docker-unifi-network-application/pull/100) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
+- [Rebase to noble](https://github.com/linuxserver/docker-piper/pull/3) on [linuxserver/docker-piper](https://github.com/linuxserver/docker-piper) (1 day ago)
+- [Rebase to noble (dev)](https://github.com/linuxserver/docker-nzbhydra2/pull/47) on [linuxserver/docker-nzbhydra2](https://github.com/linuxserver/docker-nzbhydra2) (1 day ago)
+- [Rebase to noble (master)](https://github.com/linuxserver/docker-nzbhydra2/pull/46) on [linuxserver/docker-nzbhydra2](https://github.com/linuxserver/docker-nzbhydra2) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (1 day ago)
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (3 weeks ago)
 - [mpdcampbell/traefik-geoip-filter](https://github.com/mpdcampbell/traefik-geoip-filter) - A docker container that acts as a GeoIP allow/blocklist for Traefik. Not a plugin. (1 month ago)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (1 month ago)
 - [jcchavezs/coraza-http-wasm-traefik](https://github.com/jcchavezs/coraza-http-wasm-traefik) (1 month ago)
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP &amp; Laravel (2 months ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
