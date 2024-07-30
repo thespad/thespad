@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-manyfold](https://github.com/linuxserver/docker-manyfold) (1 day ago)
-- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (2 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (5 days ago)
-- [thespad/docker-dive](https://github.com/thespad/docker-dive) - Multi-arch dive docker image (5 days ago)
-- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (5 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 day ago)
+- [linuxserver/docker-manyfold](https://github.com/linuxserver/docker-manyfold) (2 days ago)
+- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (3 days ago)
+- [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (6 days ago)
+- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,10 +18,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Push empty index for latest tags when deprecating image](https://github.com/linuxserver/docker-jenkins-builder/pull/270) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (2 days ago)
-- [Add extra influxdb deps](https://github.com/linuxserver/docker-smokeping/pull/180) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (2 days ago)
-- [Correctly handle missing DATABASE_URL](https://github.com/linuxserver/docker-manyfold/pull/2) on [linuxserver/docker-manyfold](https://github.com/linuxserver/docker-manyfold) (5 days ago)
-- [Announce Manyfold](https://github.com/linuxserver/cstate/pull/228) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (6 days ago)
+- [Push empty index for latest tags when deprecating image](https://github.com/linuxserver/docker-jenkins-builder/pull/270) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (3 days ago)
+- [Add extra influxdb deps](https://github.com/linuxserver/docker-smokeping/pull/180) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (3 days ago)
+- [Correctly handle missing DATABASE_URL](https://github.com/linuxserver/docker-manyfold/pull/2) on [linuxserver/docker-manyfold](https://github.com/linuxserver/docker-manyfold) (6 days ago)
+- [Announce Manyfold](https://github.com/linuxserver/cstate/pull/228) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
 - [Revert to 3.19 (develop)](https://github.com/linuxserver/docker-pyload-ng/pull/54) on [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
+- [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community (1 day ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (1 week ago)
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (1 month ago)
 - [mpdcampbell/traefik-geoip-filter](https://github.com/mpdcampbell/traefik-geoip-filter) - A docker container that acts as a GeoIP allow/blocklist for Traefik. Not a plugin. (1 month ago)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (2 months ago)
-- [jcchavezs/coraza-http-wasm-traefik](https://github.com/jcchavezs/coraza-http-wasm-traefik) (2 months ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
