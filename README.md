@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (3 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 day ago)
 - [linuxserver/docker-manyfold](https://github.com/linuxserver/docker-manyfold) (1 week ago)
 - [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 week ago)
-- [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (1 week ago)
 - [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (1 week ago)
+- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) - Multi-arch whisparr docker image (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,15 +18,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Build now-optional conf](https://github.com/linuxserver/docker-nzbget/pull/167) on [linuxserver/docker-nzbget](https://github.com/linuxserver/docker-nzbget) (3 days ago)
-- [Bump papermod to master, hugo to v0.128.0](https://github.com/thespad/thespad.github.io/pull/19) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (4 days ago)
-- [Publish bad-robots](https://github.com/thespad/thespad.github.io/pull/18) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (4 days ago)
+- [Build now-optional conf](https://github.com/linuxserver/docker-nzbget/pull/167) on [linuxserver/docker-nzbget](https://github.com/linuxserver/docker-nzbget) (4 days ago)
+- [Bump papermod to master, hugo to v0.128.0](https://github.com/thespad/thespad.github.io/pull/19) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (5 days ago)
+- [Publish bad-robots](https://github.com/thespad/thespad.github.io/pull/18) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (5 days ago)
 - [Push empty index for latest tags when deprecating image](https://github.com/linuxserver/docker-jenkins-builder/pull/270) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 week ago)
 - [Add extra influxdb deps](https://github.com/linuxserver/docker-smokeping/pull/180) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [Bad Robots](https://www.spad.uk/posts/bad-robots/) (4 days ago)
+- [Bad Robots](https://www.spad.uk/posts/bad-robots/) (5 days ago)
 - [Adding The Spamhaus DROP List to Unifi Gateway](https://www.spad.uk/posts/adding-spamhaus-drop-list-to-unifi-gateway/) (4 months ago)
 - [Making Playwright Work on Alpine Out of Spite](https://www.spad.uk/posts/making-playwright-work-on-alpine-out-of-spite/) (4 months ago)
 - [Wordpress Migration](https://www.spad.uk/posts/wordpress-migration/) (5 months ago)
