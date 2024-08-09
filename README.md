@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (3 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (4 days ago)
 - [linuxserver/docker-manyfold](https://github.com/linuxserver/docker-manyfold) (1 week ago)
 - [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 week ago)
-- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (2 weeks ago)
-- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) - Multi-arch whisparr docker image (2 weeks ago)
+- [linuxserver-labs/docker-omada-controller](https://github.com/linuxserver-labs/docker-omada-controller) (2 weeks ago)
+- [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) - Multi-arch kopia server docker image  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Build now-optional conf](https://github.com/linuxserver/docker-nzbget/pull/167) on [linuxserver/docker-nzbget](https://github.com/linuxserver/docker-nzbget) (6 days ago)
+- [Build now-optional conf](https://github.com/linuxserver/docker-nzbget/pull/167) on [linuxserver/docker-nzbget](https://github.com/linuxserver/docker-nzbget) (1 week ago)
 - [Bump papermod to master, hugo to v0.128.0](https://github.com/thespad/thespad.github.io/pull/19) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 week ago)
 - [Publish bad-robots](https://github.com/thespad/thespad.github.io/pull/18) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 week ago)
 - [Push empty index for latest tags when deprecating image](https://github.com/linuxserver/docker-jenkins-builder/pull/270) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 week ago)
