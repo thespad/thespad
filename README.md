@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (4 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (5 days ago)
 - [linuxserver/docker-manyfold](https://github.com/linuxserver/docker-manyfold) (1 week ago)
-- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 week ago)
-- [linuxserver-labs/docker-omada-controller](https://github.com/linuxserver-labs/docker-omada-controller) (2 weeks ago)
-- [thespad/docker-kopia-server](https://github.com/thespad/docker-kopia-server) - Multi-arch kopia server docker image  (2 weeks ago)
+- [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (2 weeks ago)
+- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (2 weeks ago)
+- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) - Multi-arch whisparr docker image (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -21,14 +21,14 @@
 - [Build now-optional conf](https://github.com/linuxserver/docker-nzbget/pull/167) on [linuxserver/docker-nzbget](https://github.com/linuxserver/docker-nzbget) (1 week ago)
 - [Bump papermod to master, hugo to v0.128.0](https://github.com/thespad/thespad.github.io/pull/19) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 week ago)
 - [Publish bad-robots](https://github.com/thespad/thespad.github.io/pull/18) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 week ago)
-- [Push empty index for latest tags when deprecating image](https://github.com/linuxserver/docker-jenkins-builder/pull/270) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 week ago)
-- [Add extra influxdb deps](https://github.com/linuxserver/docker-smokeping/pull/180) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (1 week ago)
+- [Push empty index for latest tags when deprecating image](https://github.com/linuxserver/docker-jenkins-builder/pull/270) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (2 weeks ago)
+- [Add extra influxdb deps](https://github.com/linuxserver/docker-smokeping/pull/180) on [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
 - [Bad Robots](https://www.spad.uk/posts/bad-robots/) (1 week ago)
 - [Adding The Spamhaus DROP List to Unifi Gateway](https://www.spad.uk/posts/adding-spamhaus-drop-list-to-unifi-gateway/) (4 months ago)
-- [Making Playwright Work on Alpine Out of Spite](https://www.spad.uk/posts/making-playwright-work-on-alpine-out-of-spite/) (4 months ago)
+- [Making Playwright Work on Alpine Out of Spite](https://www.spad.uk/posts/making-playwright-work-on-alpine-out-of-spite/) (5 months ago)
 - [Wordpress Migration](https://www.spad.uk/posts/wordpress-migration/) (5 months ago)
 - [Practical Configuration of Traefik as a Reverse Proxy For Docker - Updated for 2023 and Beyond](https://www.spad.uk/posts/practical-configuration-of-traefik-as-a-reverse-proxy-for-docker-updated-for-2023/) (1 year ago)
 
