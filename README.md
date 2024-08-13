@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (1 day ago)
-- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
-- [linuxserver/docker-piper](https://github.com/linuxserver/docker-piper) (1 day ago)
+- [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
+- [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (1 day ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [linuxserver/docker-nzbhydra2](https://github.com/linuxserver/docker-nzbhydra2) (2 days ago)
+- [thespad/actions](https://github.com/thespad/actions) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Announce deprecation changes](https://github.com/linuxserver/cstate/pull/230) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [Enable commit signing with SSH key](https://github.com/linuxserver/docker-jenkins-builder/pull/272) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
+- [Test commit signing](https://github.com/linuxserver/docker-adguardhome-sync/pull/18) on [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (1 day ago)
+- [Update repo location](https://github.com/linuxserver/docker-snapdrop/pull/28) on [linuxserver/docker-snapdrop](https://github.com/linuxserver/docker-snapdrop) (1 day ago)
+- [Announce deprecation changes](https://github.com/linuxserver/cstate/pull/230) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
 - [Build now-optional conf](https://github.com/linuxserver/docker-nzbget/pull/167) on [linuxserver/docker-nzbget](https://github.com/linuxserver/docker-nzbget) (1 week ago)
-- [Bump papermod to master, hugo to v0.128.0](https://github.com/thespad/thespad.github.io/pull/19) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 week ago)
-- [Publish bad-robots](https://github.com/thespad/thespad.github.io/pull/18) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 week ago)
-- [Push empty index for latest tags when deprecating image](https://github.com/linuxserver/docker-jenkins-builder/pull/270) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
