@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-ci](https://github.com/linuxserver/docker-ci) - Container for running basic sanity checks on containers post build and before upload (6 days ago)
+- [linuxserver/docker-quassel-core](https://github.com/linuxserver/docker-quassel-core) - Docker container of quassel-core IRC application. (1 day ago)
+- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 day ago)
+- [linuxserver/docker-ci](https://github.com/linuxserver/docker-ci) - Container for running basic sanity checks on containers post build and before upload (1 week ago)
 - [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 week ago)
 - [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
-- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (1 week ago)
-- [linuxserver/docker-flexget](https://github.com/linuxserver/docker-flexget) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to noble](https://github.com/linuxserver/docker-ci/pull/47) on [linuxserver/docker-ci](https://github.com/linuxserver/docker-ci) (6 days ago)
-- [Rebase to noble](https://github.com/linuxserver/docker-code-server/pull/184) on [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) (1 week ago)
-- [Rebase to noble (main)](https://github.com/linuxserver/docker-openvscode-server/pull/32) on [linuxserver/docker-openvscode-server](https://github.com/linuxserver/docker-openvscode-server) (1 week ago)
-- [Add commit signing notice](https://github.com/linuxserver/cstate/pull/232) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
-- [Anchor grep to prevent partial matches in unraid ignore list](https://github.com/linuxserver/docker-jenkins-builder/pull/275) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 week ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-pylon/pull/9) on [linuxserver/docker-pylon](https://github.com/linuxserver/docker-pylon) (1 day ago)
+- [Allow ALLOW options to work without POST](https://github.com/linuxserver/docker-socket-proxy/pull/15) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (1 day ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-quassel-core/pull/55) on [linuxserver/docker-quassel-core](https://github.com/linuxserver/docker-quassel-core) (1 day ago)
+- [Create libtorrentv1 tag](https://github.com/linuxserver/docker-deluge/pull/207) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 day ago)
+- [Add libtorrentv1 tag to readme](https://github.com/linuxserver/docker-deluge/pull/206) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -38,7 +38,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (1 month ago)
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (2 months ago)
 - [mpdcampbell/traefik-geoip-filter](https://github.com/mpdcampbell/traefik-geoip-filter) - A docker container that acts as a GeoIP allow/blocklist for Traefik. Not a plugin. (2 months ago)
-- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (2 months ago)
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (3 months ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
