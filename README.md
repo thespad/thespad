@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-quassel-core](https://github.com/linuxserver/docker-quassel-core) - Docker container of quassel-core IRC application. (1 day ago)
-- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 day ago)
-- [linuxserver/docker-ci](https://github.com/linuxserver/docker-ci) - Container for running basic sanity checks on containers post build and before upload (1 week ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 week ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
+- [linuxserver/docker-daapd](https://github.com/linuxserver/docker-daapd) (1 day ago)
+- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (1 day ago)
+- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 day ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (1 day ago)
+- [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to 3.20](https://github.com/linuxserver/docker-pylon/pull/9) on [linuxserver/docker-pylon](https://github.com/linuxserver/docker-pylon) (1 day ago)
-- [Allow ALLOW options to work without POST](https://github.com/linuxserver/docker-socket-proxy/pull/15) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (1 day ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-quassel-core/pull/55) on [linuxserver/docker-quassel-core](https://github.com/linuxserver/docker-quassel-core) (1 day ago)
-- [Create libtorrentv1 tag](https://github.com/linuxserver/docker-deluge/pull/207) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 day ago)
-- [Add libtorrentv1 tag to readme](https://github.com/linuxserver/docker-deluge/pull/206) on [linuxserver/docker-deluge](https://github.com/linuxserver/docker-deluge) (1 day ago)
+- [DIsable webci due to lack of priv mode (develop)](https://github.com/linuxserver/docker-kasm/pull/68) on [linuxserver/docker-kasm](https://github.com/linuxserver/docker-kasm) (1 day ago)
+- [Disable webci due to lack of priv mode (master)](https://github.com/linuxserver/docker-kasm/pull/67) on [linuxserver/docker-kasm](https://github.com/linuxserver/docker-kasm) (1 day ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-daapd/pull/90) on [linuxserver/docker-daapd](https://github.com/linuxserver/docker-daapd) (1 day ago)
+- [Add daapd icon](https://github.com/linuxserver/docker-templates/pull/323) on [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -34,7 +33,7 @@
 
 #### ⭐ Recent stars
 
-- [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community (4 weeks ago)
+- [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community (1 month ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (1 month ago)
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (2 months ago)
 - [mpdcampbell/traefik-geoip-filter](https://github.com/mpdcampbell/traefik-geoip-filter) - A docker container that acts as a GeoIP allow/blocklist for Traefik. Not a plugin. (2 months ago)
