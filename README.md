@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-daapd](https://github.com/linuxserver/docker-daapd) (2 days ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (2 days ago)
-- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (2 days ago)
-- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (2 days ago)
-- [linuxserver/docker-quassel-core](https://github.com/linuxserver/docker-quassel-core) - Docker container of quassel-core IRC application. (3 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 day ago)
+- [linuxserver/docker-daapd](https://github.com/linuxserver/docker-daapd) (3 days ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (3 days ago)
+- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (3 days ago)
+- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to 3.20 (master)](https://github.com/linuxserver/docker-beets/pull/124) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (1 day ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-beets/pull/123) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (1 day ago)
-- [DIsable webci due to lack of priv mode (develop)](https://github.com/linuxserver/docker-kasm/pull/68) on [linuxserver/docker-kasm](https://github.com/linuxserver/docker-kasm) (2 days ago)
-- [Disable webci due to lack of priv mode (master)](https://github.com/linuxserver/docker-kasm/pull/67) on [linuxserver/docker-kasm](https://github.com/linuxserver/docker-kasm) (2 days ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-daapd/pull/90) on [linuxserver/docker-daapd](https://github.com/linuxserver/docker-daapd) (2 days ago)
+- [Rebase to noble, add encryption support (master)](https://github.com/linuxserver/docker-duplicati/pull/84) on [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) (1 day ago)
+- [Add support for settings db encryption](https://github.com/linuxserver/docker-duplicati/pull/82) on [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) (1 day ago)
+- [Rebase to 3.20 (master)](https://github.com/linuxserver/docker-beets/pull/124) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (2 days ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-beets/pull/123) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (2 days ago)
+- [DIsable webci due to lack of priv mode (develop)](https://github.com/linuxserver/docker-kasm/pull/68) on [linuxserver/docker-kasm](https://github.com/linuxserver/docker-kasm) (3 days ago)
 
 #### 📜 My recent blog posts
 
