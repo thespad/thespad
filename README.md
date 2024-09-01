@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) - A really dumb proof of concept that bundles the nightly branch builds of all of the *arr applications into a single container. (1 day ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (2 days ago)
-- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (4 days ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (4 days ago)
-- [linuxserver/docker-daapd](https://github.com/linuxserver/docker-daapd) (4 days ago)
+- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) - A really dumb proof of concept that bundles the nightly branch builds of all of the *arr applications into a single container. (2 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (3 days ago)
+- [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (5 days ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (5 days ago)
+- [linuxserver/docker-daapd](https://github.com/linuxserver/docker-daapd) (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Pin Prowlarr version until update endpoint is fixed](https://github.com/thespad/docker-arr-in-one/pull/21) on [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) (1 day ago)
-- [Rebase to noble, add encryption support (master)](https://github.com/linuxserver/docker-duplicati/pull/84) on [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) (2 days ago)
-- [Add support for settings db encryption](https://github.com/linuxserver/docker-duplicati/pull/82) on [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) (2 days ago)
-- [Rebase to 3.20 (master)](https://github.com/linuxserver/docker-beets/pull/124) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (3 days ago)
-- [Rebase to 3.20](https://github.com/linuxserver/docker-beets/pull/123) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (3 days ago)
+- [Pin Prowlarr version until update endpoint is fixed](https://github.com/thespad/docker-arr-in-one/pull/21) on [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) (2 days ago)
+- [Rebase to noble, add encryption support (master)](https://github.com/linuxserver/docker-duplicati/pull/84) on [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) (3 days ago)
+- [Add support for settings db encryption](https://github.com/linuxserver/docker-duplicati/pull/82) on [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) (3 days ago)
+- [Rebase to 3.20 (master)](https://github.com/linuxserver/docker-beets/pull/124) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (4 days ago)
+- [Rebase to 3.20](https://github.com/linuxserver/docker-beets/pull/123) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (4 days ago)
 
 #### 📜 My recent blog posts
 
