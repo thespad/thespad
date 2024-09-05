@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (1 day ago)
-- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) - A really dumb proof of concept that bundles the nightly branch builds of all of the *arr applications into a single container. (2 days ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (6 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 day ago)
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (2 days ago)
+- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) - A really dumb proof of concept that bundles the nightly branch builds of all of the *arr applications into a single container. (3 days ago)
 - [linuxserver/docker-templates](https://github.com/linuxserver/docker-templates) (1 week ago)
-- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (1 week ago)
+- [linuxserver/docker-daapd](https://github.com/linuxserver/docker-daapd) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Unpin prowlarr](https://github.com/thespad/docker-arr-in-one/pull/22) on [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) (2 days ago)
-- [Pin Prowlarr version until update endpoint is fixed](https://github.com/thespad/docker-arr-in-one/pull/21) on [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) (5 days ago)
-- [Rebase to noble, add encryption support (master)](https://github.com/linuxserver/docker-duplicati/pull/84) on [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) (6 days ago)
-- [Add support for settings db encryption](https://github.com/linuxserver/docker-duplicati/pull/82) on [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) (6 days ago)
-- [Rebase to 3.20 (master)](https://github.com/linuxserver/docker-beets/pull/124) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (1 week ago)
+- [Keep required Ruby version at 3.3.3 for now](https://github.com/linuxserver/docker-manyfold/pull/4) on [linuxserver/docker-manyfold](https://github.com/linuxserver/docker-manyfold) (1 day ago)
+- [Publish rootless-dind](https://github.com/thespad/thespad.github.io/pull/24) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 day ago)
+- [Unpin prowlarr](https://github.com/thespad/docker-arr-in-one/pull/22) on [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) (3 days ago)
+- [Pin Prowlarr version until update endpoint is fixed](https://github.com/thespad/docker-arr-in-one/pull/21) on [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) (6 days ago)
+- [Rebase to noble, add encryption support (master)](https://github.com/linuxserver/docker-duplicati/pull/84) on [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) (1 week ago)
 
 #### 📜 My recent blog posts
 
+- [Running rootless Docker-in-Docker on Ubuntu Noble](https://www.spad.uk/posts/rootless-dind-noble/) (1 day ago)
 - [Bad Robots](https://www.spad.uk/posts/bad-robots/) (1 month ago)
 - [Adding The Spamhaus DROP List to Unifi Gateway](https://www.spad.uk/posts/adding-spamhaus-drop-list-to-unifi-gateway/) (5 months ago)
 - [Making Playwright Work on Alpine Out of Spite](https://www.spad.uk/posts/making-playwright-work-on-alpine-out-of-spite/) (5 months ago)
 - [Wordpress Migration](https://www.spad.uk/posts/wordpress-migration/) (6 months ago)
-- [Practical Configuration of Traefik as a Reverse Proxy For Docker - Updated for 2023 and Beyond](https://www.spad.uk/posts/practical-configuration-of-traefik-as-a-reverse-proxy-for-docker-updated-for-2023/) (1 year ago)
 
 #### ⭐ Recent stars
 
