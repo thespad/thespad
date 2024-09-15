@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (2 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [linuxserver/docker-daapd](https://github.com/linuxserver/docker-daapd) (2 days ago)
-- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (2 days ago)
-- [linuxserver/docker-planka](https://github.com/linuxserver/docker-planka) (2 days ago)
+- [linuxserver/docker-diskover](https://github.com/linuxserver/docker-diskover) - A Docker container for the Diskover space mapping application (1 day ago)
+- [thespad/traefik-crowdsec-bouncer](https://github.com/thespad/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec. (3 days ago)
+- [linuxserver/docker-planka](https://github.com/linuxserver/docker-planka) (3 days ago)
+- [thespad/docker-planka](https://github.com/thespad/docker-planka) - Multi-arch Planka docker image (3 days ago)
+- [thespad/docker-traefik-crowdsec-bouncer](https://github.com/thespad/docker-traefik-crowdsec-bouncer) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add libxml2 as a build dep](https://github.com/linuxserver/docker-daapd/pull/91) on [linuxserver/docker-daapd](https://github.com/linuxserver/docker-daapd) (2 days ago)
-- [Add donate link](https://github.com/linuxserver/docker-planka/pull/2) on [linuxserver/docker-planka](https://github.com/linuxserver/docker-planka) (2 days ago)
-- [Deprecate](https://github.com/thespad/docker-planka/pull/11) on [thespad/docker-planka](https://github.com/thespad/docker-planka) (2 days ago)
-- [Release Planka](https://github.com/linuxserver/cstate/pull/236) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [Actual initial release](https://github.com/linuxserver/docker-planka/pull/1) on [linuxserver/docker-planka](https://github.com/linuxserver/docker-planka) (2 days ago)
+- [Add setuptools](https://github.com/linuxserver/docker-diskover/pull/65) on [linuxserver/docker-diskover](https://github.com/linuxserver/docker-diskover) (1 day ago)
+- [Add libxml2 as a build dep](https://github.com/linuxserver/docker-daapd/pull/91) on [linuxserver/docker-daapd](https://github.com/linuxserver/docker-daapd) (3 days ago)
+- [Add donate link](https://github.com/linuxserver/docker-planka/pull/2) on [linuxserver/docker-planka](https://github.com/linuxserver/docker-planka) (3 days ago)
+- [Deprecate](https://github.com/thespad/docker-planka/pull/11) on [thespad/docker-planka](https://github.com/thespad/docker-planka) (3 days ago)
+- [Release Planka](https://github.com/linuxserver/cstate/pull/236) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
 
 #### 📜 My recent blog posts
 
