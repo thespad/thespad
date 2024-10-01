@@ -2,10 +2,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 day ago)
-- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (3 days ago)
-- [linuxserver/docker-planka](https://github.com/linuxserver/docker-planka) (4 days ago)
-- [linuxserver/docker-manyfold](https://github.com/linuxserver/docker-manyfold) (6 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (2 days ago)
+- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (4 days ago)
+- [linuxserver/docker-planka](https://github.com/linuxserver/docker-planka) (5 days ago)
+- [linuxserver/docker-manyfold](https://github.com/linuxserver/docker-manyfold) (1 week ago)
 - [linuxserver/docker-flexget](https://github.com/linuxserver/docker-flexget) (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix incorrect status for dev/pr failures, simplify code](https://github.com/linuxserver/docker-jenkins-builder/pull/288) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (3 days ago)
-- [Force TZ to UTC for planka service](https://github.com/linuxserver/docker-planka/pull/8) on [linuxserver/docker-planka](https://github.com/linuxserver/docker-planka) (4 days ago)
-- [Set different webhook colours for different build types](https://github.com/linuxserver/docker-jenkins-builder/pull/285) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (6 days ago)
-- [Switch to corepack for Yarn install](https://github.com/linuxserver/docker-manyfold/pull/5) on [linuxserver/docker-manyfold](https://github.com/linuxserver/docker-manyfold) (6 days ago)
-- [Change working directory to /config](https://github.com/linuxserver/docker-flexget/pull/17) on [linuxserver/docker-flexget](https://github.com/linuxserver/docker-flexget) (1 week ago)
+- [Allow sideloaded directories, fix shafile check](https://github.com/linuxserver/docker-mods/pull/961) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
+- [Fix incorrect status for dev/pr failures, simplify code](https://github.com/linuxserver/docker-jenkins-builder/pull/288) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (4 days ago)
+- [Force TZ to UTC for planka service](https://github.com/linuxserver/docker-planka/pull/8) on [linuxserver/docker-planka](https://github.com/linuxserver/docker-planka) (5 days ago)
+- [Set different webhook colours for different build types](https://github.com/linuxserver/docker-jenkins-builder/pull/285) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 week ago)
+- [Switch to corepack for Yarn install](https://github.com/linuxserver/docker-manyfold/pull/5) on [linuxserver/docker-manyfold](https://github.com/linuxserver/docker-manyfold) (1 week ago)
 
 #### 📜 My recent blog posts
 
