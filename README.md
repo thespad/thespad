@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add missing APP_URL to readme](https://github.com/linuxserver/docker-speedtest-tracker/pull/32) on [linuxserver/docker-speedtest-tracker](https://github.com/linuxserver/docker-speedtest-tracker) (2 days ago)
-- [Move contenv alias to build time for future bases](https://github.com/linuxserver/docker-mods/pull/969) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (3 days ago)
+- [Remove qemu bins](https://github.com/linuxserver/docker-baseimage-ubuntu/pull/174) on [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (1 day ago)
+- [Pin beetcamp to 0.19.2](https://github.com/linuxserver/docker-beets/pull/130) on [linuxserver/docker-beets](https://github.com/linuxserver/docker-beets) (1 day ago)
+- [Add missing APP_URL to readme](https://github.com/linuxserver/docker-speedtest-tracker/pull/32) on [linuxserver/docker-speedtest-tracker](https://github.com/linuxserver/docker-speedtest-tracker) (3 days ago)
+- [Move contenv alias to build time for future bases](https://github.com/linuxserver/docker-mods/pull/969) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (4 days ago)
 - [Add helper for server list](https://github.com/linuxserver/docker-speedtest-tracker/pull/30) on [linuxserver/docker-speedtest-tracker](https://github.com/linuxserver/docker-speedtest-tracker) (1 week ago)
-- [Workaround for UTF encoding with browser steps](https://github.com/linuxserver/docker-changedetection.io/pull/25) on [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (1 week ago)
-- [Fix appkey check &#43; add helper](https://github.com/linuxserver/docker-bookstack/pull/234) on [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [etaloof/docker-network-graph-fork](https://github.com/etaloof/docker-network-graph-fork) - Quickly visualize docker networks with graphviz. (1 week ago)
+- [etaloof/docker-network-graph-fork](https://github.com/etaloof/docker-network-graph-fork) - Quickly visualize docker networks with graphviz. (2 weeks ago)
 - [SCell555/amd-ags-stub](https://github.com/SCell555/amd-ags-stub) - AMD GPU Services (AGS) stub (1 month ago)
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community (2 months ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (3 months ago)
