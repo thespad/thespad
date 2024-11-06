@@ -34,7 +34,7 @@
 
 #### ⭐ Recent stars
 
-- [etaloof/docker-network-graph-fork](https://github.com/etaloof/docker-network-graph-fork) - Quickly visualize docker networks with graphviz. (3 weeks ago)
+- [etaloof/docker-network-graph-fork](https://github.com/etaloof/docker-network-graph-fork) - Quickly visualize docker networks with graphviz. (4 weeks ago)
 - [SCell555/amd-ags-stub](https://github.com/SCell555/amd-ags-stub) - AMD GPU Services (AGS) stub (1 month ago)
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community (3 months ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (3 months ago)
