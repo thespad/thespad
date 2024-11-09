@@ -2,7 +2,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 day ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (2 days ago)
 - [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
 - [linuxserver/docker-speedtest-tracker](https://github.com/linuxserver/docker-speedtest-tracker) (3 weeks ago)
 - [linuxserver/docker-changedetection.io](https://github.com/linuxserver/docker-changedetection.io) (3 weeks ago)
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Bump Hugo to 0.138](https://github.com/thespad/thespad.github.io/pull/31) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 day ago)
-- [Add bsky link](https://github.com/thespad/thespad.github.io/pull/30) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (1 day ago)
+- [Setup buildx container](https://github.com/linuxserver/docker-build-agent/pull/10) on [linuxserver/docker-build-agent](https://github.com/linuxserver/docker-build-agent) (1 day ago)
+- [Bump Hugo to 0.138](https://github.com/thespad/thespad.github.io/pull/31) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (2 days ago)
+- [Add bsky link](https://github.com/thespad/thespad.github.io/pull/30) on [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) (2 days ago)
 - [Fix ctranslate2 / CUDNN dependency issues](https://github.com/linuxserver/docker-faster-whisper/pull/23) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 week ago)
 - [Option for simplifying everything &#43; handle no CI_URL](https://github.com/linuxserver/docker-jenkins-builder/pull/295) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 week ago)
-- [Add fedi author meta tags](https://github.com/linuxserver/cstate/pull/243) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 week ago)
 
 #### 📜 My recent blog posts
 
