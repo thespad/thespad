@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (3 days ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (5 days ago)
-- [linuxserver/docker-speedtest-tracker](https://github.com/linuxserver/docker-speedtest-tracker) (5 days ago)
-- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (6 days ago)
-- [linuxserver/docker-build-agent](https://github.com/linuxserver/docker-build-agent) (6 days ago)
+- [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let&#39;s Encrypt) client. It also contains fail2ban for intrusion prevention. (1 day ago)
+- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (4 days ago)
+- [linuxserver/docker-speedtest-tracker](https://github.com/linuxserver/docker-speedtest-tracker) (6 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (6 days ago)
+- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,17 +18,17 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Tidy up init deps &#43; bump s6](https://github.com/linuxserver/docker-baseimage-alpine/pull/249) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 day ago)
-- [Tag buildcache](https://github.com/linuxserver/docker-jenkins-builder/pull/300) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (3 days ago)
-- [Revert to 3.19 &amp; Py 3.11](https://github.com/thespad/docker-py-kms/pull/40) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (3 days ago)
-- [Initial release](https://github.com/linuxserver/docker-d2-builder/pull/1) on [linuxserver/docker-d2-builder](https://github.com/linuxserver/docker-d2-builder) (5 days ago)
-- [Create empty index from *correct* tags](https://github.com/linuxserver/docker-jenkins-builder/pull/298) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (6 days ago)
+- [Tidy up init process](https://github.com/linuxserver/docker-swag/pull/521) on [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) (1 day ago)
+- [Tidy up init deps &#43; bump s6](https://github.com/linuxserver/docker-baseimage-alpine/pull/249) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (2 days ago)
+- [Tag buildcache](https://github.com/linuxserver/docker-jenkins-builder/pull/300) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (4 days ago)
+- [Revert to 3.19 &amp; Py 3.11](https://github.com/thespad/docker-py-kms/pull/40) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (4 days ago)
+- [Initial release](https://github.com/linuxserver/docker-d2-builder/pull/1) on [linuxserver/docker-d2-builder](https://github.com/linuxserver/docker-d2-builder) (6 days ago)
 
 #### 📜 My recent blog posts
 
 - [Running rootless Docker-in-Docker on Ubuntu Noble](https://www.spad.uk/posts/rootless-dind-noble/) (2 months ago)
 - [Bad Robots](https://www.spad.uk/posts/bad-robots/) (3 months ago)
-- [Adding The Spamhaus DROP List to Unifi Gateway](https://www.spad.uk/posts/adding-spamhaus-drop-list-to-unifi-gateway/) (7 months ago)
+- [Adding The Spamhaus DROP List to Unifi Gateway](https://www.spad.uk/posts/adding-spamhaus-drop-list-to-unifi-gateway/) (8 months ago)
 - [Making Playwright Work on Alpine Out of Spite](https://www.spad.uk/posts/making-playwright-work-on-alpine-out-of-spite/) (8 months ago)
 - [Wordpress Migration](https://www.spad.uk/posts/wordpress-migration/) (8 months ago)
 
