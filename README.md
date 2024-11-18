@@ -2,10 +2,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 day ago)
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let&#39;s Encrypt) client. It also contains fail2ban for intrusion prevention. (1 day ago)
-- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (4 days ago)
-- [linuxserver/docker-speedtest-tracker](https://github.com/linuxserver/docker-speedtest-tracker) (6 days ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (6 days ago)
+- [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) - Multi-arch py-kms docker image (5 days ago)
+- [linuxserver/docker-speedtest-tracker](https://github.com/linuxserver/docker-speedtest-tracker) (1 week ago)
 - [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Tidy up init process](https://github.com/linuxserver/docker-swag/pull/521) on [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) (1 day ago)
-- [Tidy up init deps &#43; bump s6](https://github.com/linuxserver/docker-baseimage-alpine/pull/249) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (2 days ago)
-- [Tag buildcache](https://github.com/linuxserver/docker-jenkins-builder/pull/300) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (4 days ago)
-- [Revert to 3.19 &amp; Py 3.11](https://github.com/thespad/docker-py-kms/pull/40) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (4 days ago)
-- [Initial release](https://github.com/linuxserver/docker-d2-builder/pull/1) on [linuxserver/docker-d2-builder](https://github.com/linuxserver/docker-d2-builder) (6 days ago)
+- [Workaround for qnap systems with chmod errors](https://github.com/linuxserver/docker-swag/pull/523) on [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) (1 day ago)
+- [Tidy up init process](https://github.com/linuxserver/docker-swag/pull/521) on [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) (2 days ago)
+- [Tidy up init deps &#43; bump s6](https://github.com/linuxserver/docker-baseimage-alpine/pull/249) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (3 days ago)
+- [Tag buildcache](https://github.com/linuxserver/docker-jenkins-builder/pull/300) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (5 days ago)
+- [Revert to 3.19 &amp; Py 3.11](https://github.com/thespad/docker-py-kms/pull/40) on [thespad/docker-py-kms](https://github.com/thespad/docker-py-kms) (5 days ago)
 
 #### 📜 My recent blog posts
 
