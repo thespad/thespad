@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server) (1 day ago)
-- [thespad/docker-arr-in-one](https://github.com/thespad/docker-arr-in-one) - A really dumb proof of concept that bundles the nightly branch builds of all of the *arr applications into a single container. (3 days ago)
-- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) - Multi-arch whisparr docker image (3 days ago)
-- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (3 days ago)
-- [thespad/docker-dive](https://github.com/thespad/docker-dive) - Multi-arch dive docker image (3 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [linuxserver/docker-d2-builder](https://github.com/linuxserver/docker-d2-builder) (1 day ago)
+- [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server) (2 days ago)
+- [thespad/docker-whisparr](https://github.com/thespad/docker-whisparr) - Multi-arch whisparr docker image (4 days ago)
+- [thespad/docker-dive](https://github.com/thespad/docker-dive) - Multi-arch dive docker image (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Move everything out of the container filesystem](https://github.com/linuxserver/docker-openssh-server/pull/97) on [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server) (1 day ago)
-- [Add readme/docs snippers for nonroot operation](https://github.com/linuxserver/docker-jenkins-builder/pull/305) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
-- [Be more explicit with ssh_host_keys perms](https://github.com/linuxserver/docker-openssh-server/pull/96) on [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server) (1 day ago)
-- [Add caps to Parameters section](https://github.com/linuxserver/docker-jenkins-builder/pull/303) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (3 days ago)
-- [Update keygen default to ed25519 &amp; make it harder to modify config](https://github.com/linuxserver/docker-openssh-server/pull/94) on [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server) (3 days ago)
+- [Add porkbun API change notice](https://github.com/linuxserver/cstate/pull/244) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [Add RO/Caps/nonroot detail to docs if defined](https://github.com/linuxserver/docker-jenkins-builder/pull/306) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
+- [Don&#39;t output vars for raw runs](https://github.com/linuxserver/docker-d2-builder/pull/3) on [linuxserver/docker-d2-builder](https://github.com/linuxserver/docker-d2-builder) (1 day ago)
+- [Move everything out of the container filesystem](https://github.com/linuxserver/docker-openssh-server/pull/97) on [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server) (2 days ago)
+- [Add readme/docs snippers for nonroot operation](https://github.com/linuxserver/docker-jenkins-builder/pull/305) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent stars
 
+- [jittering/traefik-kop](https://github.com/jittering/traefik-kop) - A dynamic docker-&gt;redis-&gt;traefik discovery agent (1 day ago)
 - [etaloof/docker-network-graph-fork](https://github.com/etaloof/docker-network-graph-fork) - Quickly visualize docker networks with graphviz. (1 month ago)
 - [SCell555/amd-ags-stub](https://github.com/SCell555/amd-ags-stub) - AMD GPU Services (AGS) stub (2 months ago)
-- [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community (3 months ago)
+- [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community (4 months ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (4 months ago)
-- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (5 months ago)
 
 #### 📫 How to reach me
 - Fediverse: https://linuxserver.io/@spad
