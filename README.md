@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (1 day ago)
-- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (1 day ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
-- [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let&#39;s Encrypt) client. It also contains fail2ban for intrusion prevention. (1 day ago)
-- [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) (3 days ago)
+- [linuxserver/docker-mysql-workbench](https://github.com/linuxserver/docker-mysql-workbench) (1 day ago)
+- [linuxserver/docker-minetest](https://github.com/linuxserver/docker-minetest) (1 day ago)
+- [linuxserver/docker-adguardhome-sync](https://github.com/linuxserver/docker-adguardhome-sync) (2 days ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (2 days ago)
+- [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let&#39;s Encrypt) client. It also contains fail2ban for intrusion prevention. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,15 +18,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix missing $ and match order to multi-push](https://github.com/linuxserver/docker-jenkins-builder/pull/308) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
-- [Add cap descriptions](https://github.com/linuxserver/docker-wireshark/pull/21) on [linuxserver/docker-wireshark](https://github.com/linuxserver/docker-wireshark) (1 day ago)
-- [Add cap descriptions](https://github.com/linuxserver/docker-github-desktop/pull/9) on [linuxserver/docker-github-desktop](https://github.com/linuxserver/docker-github-desktop) (1 day ago)
-- [Add cap description block](https://github.com/linuxserver/docker-steamos/pull/18) on [linuxserver/docker-steamos](https://github.com/linuxserver/docker-steamos) (1 day ago)
-- [Add cap descriptions](https://github.com/linuxserver/docker-mysql-workbench/pull/20) on [linuxserver/docker-mysql-workbench](https://github.com/linuxserver/docker-mysql-workbench) (1 day ago)
+- [Update syft to 1.17.0](https://github.com/thespad/buildkit-syft-scanner/pull/1) on [thespad/buildkit-syft-scanner](https://github.com/thespad/buildkit-syft-scanner) (1 day ago)
+- [Enable SBOM/Provenance (nightly)](https://github.com/linuxserver/docker-radarr/pull/240) on [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) (1 day ago)
+- [Fix missing $ and match order to multi-push](https://github.com/linuxserver/docker-jenkins-builder/pull/308) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (2 days ago)
+- [Add cap descriptions](https://github.com/linuxserver/docker-wireshark/pull/21) on [linuxserver/docker-wireshark](https://github.com/linuxserver/docker-wireshark) (2 days ago)
+- [Add cap descriptions](https://github.com/linuxserver/docker-github-desktop/pull/9) on [linuxserver/docker-github-desktop](https://github.com/linuxserver/docker-github-desktop) (2 days ago)
 
 #### 📜 My recent blog posts
 
-- [Running rootless Docker-in-Docker on Ubuntu Noble](https://www.spad.uk/posts/rootless-dind-noble/) (2 months ago)
+- [Running rootless Docker-in-Docker on Ubuntu Noble](https://www.spad.uk/posts/rootless-dind-noble/) (3 months ago)
 - [Bad Robots](https://www.spad.uk/posts/bad-robots/) (4 months ago)
 - [Adding The Spamhaus DROP List to Unifi Gateway](https://www.spad.uk/posts/adding-spamhaus-drop-list-to-unifi-gateway/) (8 months ago)
 - [Making Playwright Work on Alpine Out of Spite](https://www.spad.uk/posts/making-playwright-work-on-alpine-out-of-spite/) (8 months ago)
