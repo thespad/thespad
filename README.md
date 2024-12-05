@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-build-agent](https://github.com/linuxserver/docker-build-agent) (1 day ago)
-- [linuxserver/docker-manyfold](https://github.com/linuxserver/docker-manyfold) (1 day ago)
-- [thespad/actions](https://github.com/thespad/actions) (1 day ago)
-- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 day ago)
-- [linuxserver/docker-minetest](https://github.com/linuxserver/docker-minetest) (2 days ago)
+- [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) (1 day ago)
+- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (1 day ago)
+- [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) (1 day ago)
+- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
+- [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fail build if any of the buldcache pushes fail](https://github.com/linuxserver/docker-jenkins-builder/pull/310) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
-- [Simplify release notes to a common output](https://github.com/linuxserver/docker-jenkins-builder/pull/309) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
-- [Switch from commits to releases](https://github.com/linuxserver/docker-mastodon/pull/103) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
-- [Fix segfault on arm build (glitch)](https://github.com/linuxserver/docker-mastodon/pull/102) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
-- [Fix segfault on arm build (develop)](https://github.com/linuxserver/docker-mastodon/pull/101) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
+- [Fix handling of OCI indexes and manifests](https://github.com/linuxserver/docker-jenkins-builder/pull/313) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
+- [Add Accept for oci image type to ext trigger requests](https://github.com/linuxserver/docker-jenkins-builder/pull/312) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
+- [Fix segfault on arm build](https://github.com/linuxserver/docker-mastodon/pull/105) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
+- [Allow builder override](https://github.com/linuxserver/docker-jenkins-builder/pull/311) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
+- [Fix segfault on arm build](https://github.com/linuxserver/docker-mastodon/pull/104) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
 
 #### 📜 My recent blog posts
 
