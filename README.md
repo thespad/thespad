@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) (1 day ago)
-- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (1 day ago)
-- [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) (1 day ago)
-- [linuxserver-labs/docker-actions](https://github.com/linuxserver-labs/docker-actions) (1 day ago)
-- [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) (1 day ago)
+- [linuxserver/docker-d2-builder](https://github.com/linuxserver/docker-d2-builder) (1 day ago)
+- [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) - The repo behind... (1 day ago)
+- [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 day ago)
+- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) (2 days ago)
+- [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) - Repo used to develop build logic for templating pipeline repositories (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix handling of OCI indexes and manifests](https://github.com/linuxserver/docker-jenkins-builder/pull/313) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
-- [Add Accept for oci image type to ext trigger requests](https://github.com/linuxserver/docker-jenkins-builder/pull/312) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
-- [Fix segfault on arm build](https://github.com/linuxserver/docker-mastodon/pull/105) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
-- [Allow builder override](https://github.com/linuxserver/docker-jenkins-builder/pull/311) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
-- [Fix segfault on arm build](https://github.com/linuxserver/docker-mastodon/pull/104) on [linuxserver/docker-mastodon](https://github.com/linuxserver/docker-mastodon) (1 day ago)
+- [Fix shutdown deps](https://github.com/linuxserver/docker-d2-builder/pull/6) on [linuxserver/docker-d2-builder](https://github.com/linuxserver/docker-d2-builder) (1 day ago)
+- [Enable SBOM &amp; Provenance by default](https://github.com/linuxserver/docker-jenkins-builder/pull/314) on [linuxserver/docker-jenkins-builder](https://github.com/linuxserver/docker-jenkins-builder) (1 day ago)
+- [Bump s6 &amp; add with-contenv from repo](https://github.com/linuxserver/docker-baseimage-ubuntu/pull/175) on [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) (1 day ago)
+- [Initial non-root docs](https://github.com/linuxserver/docker-documentation/pull/271) on [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) (1 day ago)
+- [Build from gihub instead of pypi (GPU)](https://github.com/linuxserver/docker-faster-whisper/pull/27) on [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (1 day ago)
 
 #### 📜 My recent blog posts
 
