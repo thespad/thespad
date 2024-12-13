@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (1 day ago)
-- [linuxserver/docker-build-agent](https://github.com/linuxserver/docker-build-agent) (2 days ago)
-- [linuxserver/docker-baseimage-fedora](https://github.com/linuxserver/docker-baseimage-fedora) (2 days ago)
-- [linuxserver/docker-baseimage-arch](https://github.com/linuxserver/docker-baseimage-arch) (2 days ago)
-- [thespad/docker-apcupsd_exporter](https://github.com/thespad/docker-apcupsd_exporter) - Multi-arch apcupds_exporter docker image (3 days ago)
+- [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (1 day ago)
+- [linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation) - The repo behind... (1 day ago)
+- [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (2 days ago)
+- [linuxserver/docker-baseimage-fedora](https://github.com/linuxserver/docker-baseimage-fedora) (3 days ago)
+- [linuxserver/docker-build-agent](https://github.com/linuxserver/docker-build-agent) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Branch 3.20](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/173) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (1 day ago)
-- [Initial 3.21 release](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/172) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (1 day ago)
-- [Deprecate legacy branch (master)](https://github.com/linuxserver/docker-wireguard/pull/368) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
-- [Deprecate legacy branch (legacy)](https://github.com/linuxserver/docker-wireguard/pull/367) on [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
-- [Remove pip cache purge (nightly)](https://github.com/linuxserver/docker-kometa/pull/12) on [linuxserver/docker-kometa](https://github.com/linuxserver/docker-kometa) (1 day ago)
+- [Rebase to 3.21, support non-root operation (nightly)](https://github.com/linuxserver/docker-lidarr/pull/109) on [linuxserver/docker-lidarr](https://github.com/linuxserver/docker-lidarr) (1 day ago)
+- [Rebase to 3.21, support non-root operation (nightly)](https://github.com/linuxserver/docker-prowlarr/pull/65) on [linuxserver/docker-prowlarr](https://github.com/linuxserver/docker-prowlarr) (1 day ago)
+- [Rebase to 3.21, support non-root operation (nightly)](https://github.com/linuxserver/docker-readarr/pull/42) on [linuxserver/docker-readarr](https://github.com/linuxserver/docker-readarr) (1 day ago)
+- [Rebase to 3.21, support non-root running (develop)](https://github.com/linuxserver/docker-sonarr/pull/306) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (1 day ago)
+- [Rebase to 3.21, support non-root running (nightly)](https://github.com/linuxserver/docker-radarr/pull/241) on [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) (1 day ago)
 
 #### 📜 My recent blog posts
 
