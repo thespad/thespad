@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (1 day ago)
 - [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (1 day ago)
-- [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki (1 day ago)
-- [linuxserver/docker-healthchecks](https://github.com/linuxserver/docker-healthchecks) (3 days ago)
-- [linuxserver/docker-hishtory-server](https://github.com/linuxserver/docker-hishtory-server) (3 days ago)
-- [linuxserver/docker-nginx](https://github.com/linuxserver/docker-nginx) (3 days ago)
+- [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki (2 days ago)
+- [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (3 days ago)
+- [linuxserver/docker-airsonic-advanced](https://github.com/linuxserver/docker-airsonic-advanced) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix appkey gen with new symlinks](https://github.com/linuxserver/docker-bookstack/pull/248) on [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) (1 day ago)
-- [Intial release](https://github.com/linuxserver/docker-modmanager/pull/1) on [linuxserver/docker-modmanager](https://github.com/linuxserver/docker-modmanager) (1 day ago)
-- [Add modcache](https://github.com/linuxserver/docker-mods/pull/992) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
-- [Fix timezone overwriting php-local.ini contents](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/177) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (1 day ago)
-- [Rebase to 3.21](https://github.com/linuxserver/docker-pairdrop/pull/18) on [linuxserver/docker-pairdrop](https://github.com/linuxserver/docker-pairdrop) (2 days ago)
+- [Autoconfigure fds for readiness checks in mods](https://github.com/linuxserver/docker-mods/pull/995) on [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) (1 day ago)
+- [Update readme, templates, and workflows](https://github.com/linuxserver/docker-readarr/pull/45) on [linuxserver/docker-readarr](https://github.com/linuxserver/docker-readarr) (1 day ago)
+- [Rebase to 3.21 (master)](https://github.com/linuxserver/docker-sabnzbd/pull/245) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 day ago)
+- [Rebase to 3.21 (master)](https://github.com/linuxserver/docker-sonarr/pull/309) on [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) (1 day ago)
+- [Rebase to 3.21 (master)](https://github.com/linuxserver/docker-radarr/pull/244) on [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -30,7 +30,7 @@
 - [Bad Robots](https://www.spad.uk/posts/bad-robots/) (4 months ago)
 - [Adding The Spamhaus DROP List to Unifi Gateway](https://www.spad.uk/posts/adding-spamhaus-drop-list-to-unifi-gateway/) (9 months ago)
 - [Making Playwright Work on Alpine Out of Spite](https://www.spad.uk/posts/making-playwright-work-on-alpine-out-of-spite/) (9 months ago)
-- [Wordpress Migration](https://www.spad.uk/posts/wordpress-migration/) (9 months ago)
+- [Wordpress Migration](https://www.spad.uk/posts/wordpress-migration/) (10 months ago)
 
 #### ⭐ Recent stars
 
