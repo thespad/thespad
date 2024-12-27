@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-d2-builder](https://github.com/linuxserver/docker-d2-builder) (2 days ago)
-- [linuxserver/docker-apprise-api](https://github.com/linuxserver/docker-apprise-api) - A container for the apprise api server (2 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) (2 days ago)
-- [linuxserver/docker-overseerr](https://github.com/linuxserver/docker-overseerr) (2 days ago)
+- [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (1 day ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [linuxserver/docker-quassel-core](https://github.com/linuxserver/docker-quassel-core) - Docker container of quassel-core IRC application. (1 day ago)
+- [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) (3 days ago)
+- [linuxserver/docker-d2-builder](https://github.com/linuxserver/docker-d2-builder) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rebase to 3.21](https://github.com/thespad/docker-get_iplayer/pull/56) on [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) (1 day ago)
-- [Rebase to 3.21 (testing)](https://github.com/linuxserver/docker-nzbget/pull/170) on [linuxserver/docker-nzbget](https://github.com/linuxserver/docker-nzbget) (2 days ago)
-- [Rebase to 3.21 (main)](https://github.com/linuxserver/docker-overseerr/pull/41) on [linuxserver/docker-overseerr](https://github.com/linuxserver/docker-overseerr) (2 days ago)
-- [Rebase to 3.21 (develop)](https://github.com/linuxserver/docker-overseerr/pull/40) on [linuxserver/docker-overseerr](https://github.com/linuxserver/docker-overseerr) (2 days ago)
-- [Rebase to 3.21](https://github.com/linuxserver/docker-fleet/pull/16) on [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) (2 days ago)
+- [Deprecate Quassel Core/Web](https://github.com/linuxserver/cstate/pull/247) on [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [Deprecate](https://github.com/linuxserver/docker-quassel-web/pull/19) on [linuxserver/docker-quassel-web](https://github.com/linuxserver/docker-quassel-web) (1 day ago)
+- [Deprecate](https://github.com/linuxserver/docker-quassel-core/pull/56) on [linuxserver/docker-quassel-core](https://github.com/linuxserver/docker-quassel-core) (1 day ago)
+- [Rebase to 3.21](https://github.com/thespad/docker-get_iplayer/pull/56) on [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) (2 days ago)
+- [Rebase to 3.21 (testing)](https://github.com/linuxserver/docker-nzbget/pull/170) on [linuxserver/docker-nzbget](https://github.com/linuxserver/docker-nzbget) (3 days ago)
 
 #### 📜 My recent blog posts
 
