@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-projectsend](https://github.com/linuxserver/docker-projectsend) (1 day ago)
-- [thespad/docker-get_iplayer](https://github.com/thespad/docker-get_iplayer) - Multi-arch get_iplayer docker image (2 days ago)
-- [linuxserver/docker-faster-whisper](https://github.com/linuxserver/docker-faster-whisper) (2 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (6 days ago)
-- [linuxserver/docker-quassel-core](https://github.com/linuxserver/docker-quassel-core) - Docker container of quassel-core IRC application. (6 days ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (1 day ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
+- [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (1 day ago)
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -18,15 +18,15 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Deprecate 3.18](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/180) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (1 day ago)
-- [Deprecate 3.17](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/179) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (1 day ago)
-- [Deprecate 3.18](https://github.com/linuxserver/docker-baseimage-alpine/pull/252) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (1 day ago)
-- [Bump JRE &amp; add Mongo 8 to readme](https://github.com/linuxserver/docker-unifi-network-application/pull/126) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (1 day ago)
-- [Workaround stupid permissions check](https://github.com/linuxserver/docker-projectsend/pull/50) on [linuxserver/docker-projectsend](https://github.com/linuxserver/docker-projectsend) (1 day ago)
+- [Remove proxy read timeout to stop issues with log tailing](https://github.com/linuxserver/docker-socket-proxy/pull/19) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (1 day ago)
+- [Deprecate 3.18](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/180) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (2 days ago)
+- [Deprecate 3.17](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/179) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (2 days ago)
+- [Deprecate 3.18](https://github.com/linuxserver/docker-baseimage-alpine/pull/252) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (2 days ago)
+- [Bump JRE &amp; add Mongo 8 to readme](https://github.com/linuxserver/docker-unifi-network-application/pull/126) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
 
 #### 📜 My recent blog posts
 
-- [Running rootless Docker-in-Docker on Ubuntu Noble](https://www.spad.uk/posts/rootless-dind-noble/) (3 months ago)
+- [Running rootless Docker-in-Docker on Ubuntu Noble](https://www.spad.uk/posts/rootless-dind-noble/) (4 months ago)
 - [Bad Robots](https://www.spad.uk/posts/bad-robots/) (5 months ago)
 - [Adding The Spamhaus DROP List to Unifi Gateway](https://www.spad.uk/posts/adding-spamhaus-drop-list-to-unifi-gateway/) (9 months ago)
 - [Making Playwright Work on Alpine Out of Spite](https://www.spad.uk/posts/making-playwright-work-on-alpine-out-of-spite/) (9 months ago)
