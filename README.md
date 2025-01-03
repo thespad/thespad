@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
-- [linuxserver/docker-your_spotify](https://github.com/linuxserver/docker-your_spotify) (1 day ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (1 day ago)
-- [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (1 day ago)
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (1 day ago)
+- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (1 day ago)
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (2 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
+- [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (2 days ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Remove proxy read timeout to stop issues with log tailing](https://github.com/linuxserver/docker-socket-proxy/pull/19) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (1 day ago)
-- [Deprecate 3.18](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/180) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (2 days ago)
-- [Deprecate 3.17](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/179) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (2 days ago)
-- [Deprecate 3.18](https://github.com/linuxserver/docker-baseimage-alpine/pull/252) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (2 days ago)
-- [Bump JRE &amp; add Mongo 8 to readme](https://github.com/linuxserver/docker-unifi-network-application/pull/126) on [linuxserver/docker-unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application) (2 days ago)
+- [Allow user to set client timeout.](https://github.com/linuxserver/docker-socket-proxy/pull/22) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (1 day ago)
+- [Remove proxy read timeout to stop issues with log tailing](https://github.com/linuxserver/docker-socket-proxy/pull/19) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (2 days ago)
+- [Deprecate 3.18](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/180) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (3 days ago)
+- [Deprecate 3.17](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/179) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (3 days ago)
+- [Deprecate 3.18](https://github.com/linuxserver/docker-baseimage-alpine/pull/252) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (3 days ago)
 
 #### 📜 My recent blog posts
 
