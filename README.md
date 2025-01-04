@@ -2,11 +2,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (1 day ago)
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) (2 days ago)
-- [linuxserver/cstate](https://github.com/linuxserver/cstate) (2 days ago)
-- [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) (2 days ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (2 days ago)
+- [thespad/thespad.github.io](https://github.com/thespad/thespad.github.io) - The repo behind spad.uk (1 day ago)
+- [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let&#39;s Encrypt) client. It also contains fail2ban for intrusion prevention. (1 day ago)
+- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts (2 days ago)
+- [linuxserver/cstate](https://github.com/linuxserver/cstate) (3 days ago)
+- [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Allow user to set client timeout.](https://github.com/linuxserver/docker-socket-proxy/pull/22) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (1 day ago)
-- [Remove proxy read timeout to stop issues with log tailing](https://github.com/linuxserver/docker-socket-proxy/pull/19) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (2 days ago)
-- [Deprecate 3.18](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/180) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (3 days ago)
-- [Deprecate 3.17](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/179) on [linuxserver/docker-baseimage-alpine-nginx](https://github.com/linuxserver/docker-baseimage-alpine-nginx) (3 days ago)
-- [Deprecate 3.18](https://github.com/linuxserver/docker-baseimage-alpine/pull/252) on [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) (3 days ago)
+- [Rebase to 3.21 (master)](https://github.com/linuxserver/docker-tautulli/pull/135) on [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (1 day ago)
+- [Rebase to 3.21 (develop)](https://github.com/linuxserver/docker-tautulli/pull/134) on [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) (1 day ago)
+- [Fix silly typo](https://github.com/linuxserver/docker-sabnzbd/pull/246) on [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) (1 day ago)
+- [Allow user to set client timeout.](https://github.com/linuxserver/docker-socket-proxy/pull/22) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (2 days ago)
+- [Remove proxy read timeout to stop issues with log tailing](https://github.com/linuxserver/docker-socket-proxy/pull/19) on [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) (3 days ago)
 
 #### 📜 My recent blog posts
 
