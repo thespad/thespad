@@ -10,4 +10,4 @@
 
 ---
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+![Metrics](https://raw.githubusercontent.com/thespad/thespad/main/github-metrics.svg)

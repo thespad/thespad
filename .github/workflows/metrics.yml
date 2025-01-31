@@ -22,7 +22,6 @@ jobs:
           config_octicon: yes
           config_timezone: Europe/London
           config_order: base.header, base.activity ,base.community , base.repositories, base.metadata, activity, habits, isocalendar, stars, rss
-          config_display: columns
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
