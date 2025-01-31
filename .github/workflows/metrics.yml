@@ -21,7 +21,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_octicon: yes
           config_timezone: Europe/London
-          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, activity, habits, isocalendar, stars, rss
+          config_order: base.header, base.activity+community, base.repositories, base.metadata, activity, habits, isocalendar, stars, rss
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -34,7 +34,8 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          plugin_habits_languages_threshold: 5%
+          plugin_habits_charts: true
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_rss: yes
