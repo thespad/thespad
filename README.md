@@ -9,5 +9,3 @@
 - Blog: [https://spad.uk](https://spad.uk)
 
 ---
-
-![Metrics](https://raw.githubusercontent.com/thespad/thespad/main/github-metrics.svg)
